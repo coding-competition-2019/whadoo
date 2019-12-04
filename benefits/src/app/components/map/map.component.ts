@@ -1,7 +1,7 @@
 import {Component, OnInit, OnChanges, AfterViewInit, ViewChild, ElementRef, Input, SimpleChanges} from '@angular/core';
 import {FacilityService} from '../../services/facility.service';
 import {} from 'googlemaps';
-import {Place} from '../../entities/places';
+import {Place, Places} from '../../entities/places';
 
 @Component({
   selector: 'app-map',
@@ -10,6 +10,9 @@ import {Place} from '../../entities/places';
 })
 
 export class MapComponent implements OnInit, AfterViewInit, OnChanges {
+
+  @Input()
+  allPlaces: Places;
 
   @Input()
   results: Place[] = [];
@@ -31,10 +34,7 @@ export class MapComponent implements OnInit, AfterViewInit, OnChanges {
   };
 
   markers = [];
-
-  setMarker() {
-
-  }
+  bounds = null;
 
   mapInitializer() {
     this.map = new google.maps.Map(this.gmap.nativeElement,
@@ -45,41 +45,63 @@ export class MapComponent implements OnInit, AfterViewInit, OnChanges {
   }
 
   ngAfterViewInit() {
-    this.mapInitializer();
   }
 
   ngOnInit() {
+    this.mapInitializer();
+    // console.log(this.allPlaces.places);
+
+    // Creates var for new bounds
+    this.bounds = new google.maps.LatLngBounds();
+
+    for (const place of this.allPlaces.places) {
+      const newMarker = new google.maps.Marker({
+        position: new google.maps.LatLng(place.coordinates.lat, place.coordinates.lng),
+        title: place.name
+      });
+      this.markers.push(newMarker);
+      newMarker.setMap(this.map);
+
+      this.bounds.extend(newMarker.getPosition());
+    }
+
+    // Resize map to fit all markers
+    this.map.fitBounds(this.bounds);
   }
 
   ngOnChanges(changes: SimpleChanges) {
-    // console.log(changes.results);
-    if (changes.results && changes.results.currentValue) {
-      for (const marker of this.markers) {
-        marker.setMap(null);
-      }
-      this.markers = [];
-
-      // Creates var for new bounds
-      const bounds = new google.maps.LatLngBounds();
-
-      for (const place of changes.results.currentValue) {
-        const newMarker = new google.maps.Marker({
-          position: new google.maps.LatLng(place.coordinates.lat, place.coordinates.lng)
-        });
-        this.markers.push(newMarker);
-
-        // Add bounds to map
-        bounds.extend(newMarker.getPosition());
-        newMarker.setMap(this.map);
-      }
-
-      // Resize map to fit all markers
-      this.map.fitBounds(bounds);
-
+    for (const marker of this.markers) {
+      marker.setMap(null);
     }
-    // for (i = 0; i < markers.length; i++) {
-    //  markers[i].setMap(null);
-    // }
+    this.markers = [];
+
+    if (changes.results && changes.results.currentValue) {
+      if (changes.results.currentValue.length > 0) {
+        // Creates var for new bounds
+        this.bounds = new google.maps.LatLngBounds();
+
+        for (const place of changes.results.currentValue) {
+          const newMarker = new google.maps.Marker({
+            position: new google.maps.LatLng(place.coordinates.lat, place.coordinates.lng),
+            title: place.name
+          });
+          this.markers.push(newMarker);
+
+          // Add bounds to map
+          this.bounds.extend(newMarker.getPosition());
+          newMarker.setMap(this.map);
+        }
+
+        // Resize map to fit all markers
+        this.map.fitBounds(this.bounds);
+
+      } else {
+        this.ngOnInit();
+      }
+      // for (i = 0; i < markers.length; i++) {
+      //  markers[i].setMap(null);
+      // }
+    }
 
 
   }

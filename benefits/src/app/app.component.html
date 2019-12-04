@@ -1,6 +1,6 @@
 <mat-card>
   <app-search [allActivities]="allActivities" (result)="showResults($event)"></app-search>
-  <app-map [results]="results"></app-map>
+  <app-map [allPlaces]="places" [results]="results"></app-map>
   <mat-card>
     <app-table [results]="results"></app-table>
   </mat-card>
