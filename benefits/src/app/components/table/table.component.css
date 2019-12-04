@@ -2,8 +2,17 @@ table.results {
   width: 100%;
 }
 
+table.results tr th {
+  padding: 8px;
+  background-color: lightgray;
+}
+
 table.results tr td {
   padding: 8px;
+}
+
+table.results tr:nth-child(2n-1) {
+  background-color: #eaeaea;
 }
 
 table.results tr:hover {
