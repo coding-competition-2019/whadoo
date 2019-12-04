@@ -20,7 +20,7 @@
 
   <ng-container cdkColumnDef="distance">
     <th cdk-header-cell *cdkHeaderCellDef>Distance</th>
-    <td cdk-cell *cdkCellDef="let element"> {{element?.distance}} </td>
+    <td cdk-cell *cdkCellDef="let element"> {{element.distance | number:'1.2-2'}} km</td>
   </ng-container>
 
   <tr cdk-header-row *cdkHeaderRowDef="displayedColumns"></tr>
