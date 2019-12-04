@@ -3,6 +3,7 @@ import {FacilityService} from './services/facility.service';
 import {Place, Places, Coords} from './entities/places';
 import {coordDistance} from './utilities/distance';
 import {LocationService} from "./services/location.service";
+import {SearchResult} from "./entities/search-result";
 
 @Component({
   selector: 'app-root',
@@ -13,6 +14,7 @@ export class AppComponent implements OnInit {
   places: Places;
   allActivities: string[] = [];
   results: Place[];
+  range = 30;
 
   currentPosition: Coords = {
     lat: 50.1022711,
@@ -38,16 +40,15 @@ export class AppComponent implements OnInit {
     this.allActivities.sort();
   }
 
-  showResults(activities) {
-    this.results = this.places.places.filter(p => {
-      return activities.some(activitySelected => {
-        return p.activities.includes(activitySelected);
+  showResults(result: SearchResult) {
+    this.results = this.places.places
+      .filter(p => {
+        return p.distance <= result.range;
+      })
+      .filter(p => {
+        return result.activities.some(activitySelected => {
+          return p.activities.includes(activitySelected);
+        });
       });
-    });
-
-    // TODO calculate coords in a more efficient way (serverside, use cache, ...)
-    this.results.forEach(r => {
-      r.distance = coordDistance(r.coordinates, this.currentPosition);
-    });
   }
 }

@@ -24,3 +24,7 @@
     </mat-option>
   </mat-autocomplete>
 </mat-form-field>
+
+Search for activities only in range of {{range}} km.
+<mat-slider class="rangeSlider" thumbLabel tickInterval="1" min="1" max="300"
+            (valueChange)="range = $event; showResults()" [value]="range"></mat-slider>

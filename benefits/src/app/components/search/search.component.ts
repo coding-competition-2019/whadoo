@@ -7,6 +7,7 @@ import {MatAutocomplete, MatAutocompleteSelectedEvent} from "@angular/material/a
 import {FacilityService} from "../../services/facility.service";
 import {map, startWith} from "rxjs/operators";
 import {MatChipInputEvent} from "@angular/material/chips/typings/chip-input";
+import {SearchResult} from "../../entities/search-result";
 
 @Component({
   selector: 'app-search',
@@ -19,7 +20,9 @@ export class SearchComponent implements OnInit {
   allActivities: string[] = [];
 
   @Output()
-  result = new EventEmitter<string[]>();
+  result = new EventEmitter<SearchResult>();
+
+  range = 30;
 
   visible = true;
   selectable = true;
@@ -43,7 +46,15 @@ export class SearchComponent implements OnInit {
   }
 
   showResults() {
-    this.result.emit(this.activities);
+    this.result.emit({activities: this.activities, range: this.range});
+  }
+
+  formatLabel(value: number) {
+    if (value >= 1000) {
+      return Math.round(value / 1000) + 'k';
+    }
+
+    return value + ' km';
   }
 
   add(event: MatChipInputEvent): void {
