@@ -1,4 +1,7 @@
-<table cdk-table [dataSource]="results">
+<div *ngIf="!results?.length">
+  No results
+</div>
+<table cdk-table [dataSource]="results" *ngIf="results?.length">
   <!-- Position Column -->
   <ng-container cdkColumnDef="position">
     <th cdk-header-cell *cdkHeaderCellDef>No.</th>

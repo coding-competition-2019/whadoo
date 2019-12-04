@@ -11,7 +11,7 @@ export class TableComponent implements OnInit {
   displayedColumns: string[] = ['name', 'address', 'distance'];
 
   @Input()
-  results: Place[];
+  results: Place[] = [];
 
   constructor() {
   }

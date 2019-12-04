@@ -15,12 +15,14 @@ import { TableComponent } from './components/table/table.component';
 import {CdkTableModule} from "@angular/cdk/table";
 import {MatChipsModule} from "@angular/material/chips";
 import {MatAutocompleteModule} from "@angular/material/autocomplete";
+import { SearchComponent } from './components/search/search.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     MapComponent,
-    TableComponent
+    TableComponent,
+    SearchComponent
   ],
   imports: [
     BrowserModule,

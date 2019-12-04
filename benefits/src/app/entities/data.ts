@@ -4,6 +4,7 @@ export function loadData(): Places {
   return {
     "places": [
       {
+        "id": 0,
         "name": "16KA Bulldog Gym",
         "url": "https://www.activepass.cz/partner/16ka-bulldog-gym",
         "address": {
@@ -24,6 +25,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "20min Fitness s.r.o.",
         "url": "https://www.activepass.cz/partner/20min-fitness-s-r-o",
         "address": {
@@ -34,6 +36,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "3VK Paintball",
         "url": "https://www.activepass.cz/partner/3vk-paintball",
         "address": {
@@ -44,6 +47,7 @@ export function loadData(): Places {
         "activities": ["paintball"]
       },
       {
+        "id": 0,
         "name": "73GYM Brno",
         "url": "https://www.activepass.cz/partner/73gym-brno",
         "address": {
@@ -54,6 +58,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna"]
       },
       {
+        "id": 0,
         "name": "Acroyoga K&R",
         "url": "https://www.activepass.cz/partner/acroyoga-k-r",
         "address": {
@@ -68,6 +73,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Action Park",
         "url": "https://www.activepass.cz/partner/action-park",
         "address": {
@@ -81,6 +87,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Active club",
         "url": "https://www.activepass.cz/partner/active-club",
         "address": {
@@ -104,6 +111,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Active ladies",
         "url": "https://www.activepass.cz/partner/active-ladies",
         "address": {
@@ -114,6 +122,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Active studio",
         "url": "https://www.activepass.cz/partner/active-studio",
         "address": {
@@ -139,6 +148,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Adventure MiniGolf",
         "url": "https://www.activepass.cz/partner/adventure-minigolf",
         "address": {
@@ -149,6 +159,7 @@ export function loadData(): Places {
         "activities": ["minigolf"]
       },
       {
+        "id": 0,
         "name": "Adventure Park",
         "url": "https://www.activepass.cz/partner/adventure-park",
         "address": {
@@ -159,6 +170,7 @@ export function loadData(): Places {
         "activities": ["naučné parky", "půjčovna koloběžek"]
       },
       {
+        "id": 0,
         "name": "Aerobic centrum",
         "url": "https://www.activepass.cz/partner/aerobic-centrum",
         "address": {
@@ -181,6 +193,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Aerobic Studio ENDORFIN",
         "url": "https://www.activepass.cz/partner/aerobic-studio-endorfin",
         "address": {
@@ -201,6 +214,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "AEROFIT",
         "url": "https://www.activepass.cz/partner/aerofit",
         "address": {
@@ -261,6 +275,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "AFIT Fitness Centrum",
         "url": "https://www.activepass.cz/partner/afit-fitness-centrum",
         "address": {
@@ -292,6 +307,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "AGOGE GYM",
         "url": "https://www.activepass.cz/partner/agoge-gym",
         "address": {
@@ -315,6 +331,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Aikido Karlín",
         "url": "https://www.activepass.cz/partner/aikido-karlin",
         "address": {
@@ -333,6 +350,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "AIKIDO klub Praha",
         "url": "https://www.activepass.cz/partner/aikido-klub-praha",
         "address": {
@@ -343,6 +361,7 @@ export function loadData(): Places {
         "activities": ["aikido"]
       },
       {
+        "id": 0,
         "name": "Amande wine wellness hotel",
         "url": "https://www.activepass.cz/partner/amande-wine-wellness-hotel",
         "address": {
@@ -353,6 +372,7 @@ export function loadData(): Places {
         "activities": ["kuželky"]
       },
       {
+        "id": 0,
         "name": "Amazonie",
         "url": "https://www.activepass.cz/partner/amazonie",
         "address": {
@@ -363,6 +383,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "ANAHATA JÓGA Business centrum Most",
         "url": "https://www.activepass.cz/partner/anahata-joga-business-centrum-most",
         "address": {
@@ -373,6 +394,7 @@ export function loadData(): Places {
         "activities": ["jóga"]
       },
       {
+        "id": 0,
         "name": "ANDREA POSPÍŠILOVÁ",
         "url": "https://www.activepass.cz/partner/andrea-pospisilova",
         "address": {
@@ -383,6 +405,7 @@ export function loadData(): Places {
         "activities": ["funkční trénink"]
       },
       {
+        "id": 0,
         "name": "Antické a egyptské lázně",
         "url": "https://www.activepass.cz/partner/anticke-a-egyptske-lazne",
         "address": {
@@ -393,6 +416,7 @@ export function loadData(): Places {
         "activities": ["plavecký bazén"]
       },
       {
+        "id": 0,
         "name": "Antonie Hotel Frýdlant",
         "url": "https://www.activepass.cz/partner/antonie-hotel-frydlant",
         "address": {
@@ -408,6 +432,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Apartmánový dům Landek",
         "url": "https://www.activepass.cz/partner/apartmanovy-dum-landek",
         "address": {
@@ -429,6 +454,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Apple Museum",
         "url": "https://www.activepass.cz/partner/apple-museum",
         "address": {
@@ -439,6 +465,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "AQUA Park Špindlerův Mlýn",
         "url": "https://www.activepass.cz/partner/aqua-park-spindleruv-mlyn",
         "address": {
@@ -449,6 +476,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "AQUACENTRUM",
         "url": "https://www.activepass.cz/partner/aquacentrum",
         "address": {
@@ -459,6 +487,7 @@ export function loadData(): Places {
         "activities": ["plavecký bazén"]
       },
       {
+        "id": 0,
         "name": "Aquacentrum Pardubice",
         "url": "https://www.activepass.cz/partner/aquacentrum-pardubice",
         "address": {
@@ -473,6 +502,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "AQUACENTRUM ŠUTKA",
         "url": "https://www.activepass.cz/partner/aquacentrum-sutka",
         "address": {
@@ -483,6 +513,7 @@ export function loadData(): Places {
         "activities": ["aquaparky"]
       },
       {
+        "id": 0,
         "name": "AquaDream",
         "url": "https://www.activepass.cz/partner/aquadream",
         "address": {
@@ -493,6 +524,7 @@ export function loadData(): Places {
         "activities": ["plavecký bazén", "aquaparky"]
       },
       {
+        "id": 0,
         "name": "AquaPalace Praha",
         "url": "https://www.activepass.cz/partner/aquapalace-praha",
         "address": {
@@ -524,6 +556,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Aquapark DELFÍN",
         "url": "https://www.activepass.cz/partner/aquapark-delfin",
         "address": {
@@ -534,6 +567,7 @@ export function loadData(): Places {
         "activities": ["plavecký bazén"]
       },
       {
+        "id": 0,
         "name": "Aquapark Kladno",
         "url": "https://www.activepass.cz/partner/aquapark-kladno",
         "address": {
@@ -544,6 +578,7 @@ export function loadData(): Places {
         "activities": ["aquaparky", "plavecký bazén"]
       },
       {
+        "id": 0,
         "name": "Aquapark Kohoutovice",
         "url": "https://www.activepass.cz/partner/aquapark-kohoutovice",
         "address": {
@@ -560,6 +595,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Aquapark Kravaře, p.o.",
         "url": "https://www.activepass.cz/partner/aquapark-kravare-p-o",
         "address": {
@@ -570,6 +606,7 @@ export function loadData(): Places {
         "activities": ["aquaparky", "plavecký bazén"]
       },
       {
+        "id": 0,
         "name": "Aquapark Laguna",
         "url": "https://www.activepass.cz/partner/aquapark-laguna",
         "address": {
@@ -584,6 +621,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Aquapark Vyškov",
         "url": "https://www.activepass.cz/partner/aquapark-vyskov",
         "address": {
@@ -594,6 +632,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "ARENA 68",
         "url": "https://www.activepass.cz/partner/arena-68",
         "address": {
@@ -604,6 +643,7 @@ export function loadData(): Places {
         "activities": ["badminton", "fotbal pool"]
       },
       {
+        "id": 0,
         "name": "ARENA Pavly Kladivové Centrum",
         "url": "https://www.activepass.cz/partner/arena-pavly-kladivove-centrum",
         "address": {
@@ -614,6 +654,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "ARENA Pavly Kladivové Jinonice",
         "url": "https://www.activepass.cz/partner/arena-pavly-kladivove-jinonice",
         "address": {
@@ -631,6 +672,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "ARENA Pavly Kladivové Nusle",
         "url": "https://www.activepass.cz/partner/arena-pavly-kladivove-nusle",
         "address": {
@@ -645,6 +687,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Arha - studio zdraví a relaxace",
         "url": "https://www.activepass.cz/partner/arha-studio-zdravi-a-relaxace",
         "address": {
@@ -655,6 +698,7 @@ export function loadData(): Places {
         "activities": ["funkční trénink"]
       },
       {
+        "id": 0,
         "name": "AS Fitness",
         "url": "https://www.activepass.cz/partner/as-fitness",
         "address": {
@@ -677,6 +721,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "ASPORTHEMSKY",
         "url": "https://www.activepass.cz/partner/asporthemsky",
         "address": {
@@ -693,6 +738,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "ATHENA - FIT s.r.o. - Fitness - Posilovna",
         "url": "https://www.activepass.cz/partner/athena-fit-s-r-o-fitness-posilovna",
         "address": {
@@ -703,6 +749,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Atletická hala",
         "url": "https://www.activepass.cz/partner/atleticka-hala",
         "address": {
@@ -713,6 +760,7 @@ export function loadData(): Places {
         "activities": ["badminton", "kardiozóna", "posilovna"]
       },
       {
+        "id": 0,
         "name": "Atomový kryt 10-z",
         "url": "https://www.activepass.cz/partner/atomovy-kryt-10-z",
         "address": {
@@ -723,6 +771,7 @@ export function loadData(): Places {
         "activities": ["netradiční místa", "výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "AURA Fit Lady Club Jiřího z Poděbrad",
         "url": "https://www.activepass.cz/partner/aura-fit-lady-club-jiriho-z-podebrad",
         "address": {
@@ -739,6 +788,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "AURA Fit Lady Club Strašnická",
         "url": "https://www.activepass.cz/partner/aura-fit-lady-club-strasnicka",
         "address": {
@@ -754,6 +804,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Avalon Fitness",
         "url": "https://www.activepass.cz/partner/avalon-fitness",
         "address": {
@@ -771,6 +822,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "AWA relaxační centrum",
         "url": "https://www.activepass.cz/partner/awa-relaxacni-centrum",
         "address": {
@@ -784,6 +836,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "AXAGYM fitness",
         "url": "https://www.activepass.cz/partner/axagym-fitness",
         "address": {
@@ -794,6 +847,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "B - FITNESS CENTRUM",
         "url": "https://www.activepass.cz/partner/b-fitness-centrum",
         "address": {
@@ -804,6 +858,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "B Fitness",
         "url": "https://www.activepass.cz/partner/b-fitness",
         "address": {
@@ -824,6 +879,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "B-Pole STUDIO",
         "url": "https://www.activepass.cz/partner/b-pole-studio",
         "address": {
@@ -834,6 +890,7 @@ export function loadData(): Places {
         "activities": ["jumping", "deep work", "břišní pekáč"]
       },
       {
+        "id": 0,
         "name": "Baby club Juklík",
         "url": "https://www.activepass.cz/partner/baby-club-juklik",
         "address": {
@@ -844,6 +901,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "Badminton Aréna Skalka",
         "url": "https://www.activepass.cz/partner/badminton-arena-skalka",
         "address": {
@@ -854,6 +912,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Badminton Club Třebíč",
         "url": "https://www.activepass.cz/partner/badminton-club-trebic",
         "address": {
@@ -864,6 +923,7 @@ export function loadData(): Places {
         "activities": ["badminton"]
       },
       {
+        "id": 0,
         "name": "Badminton Dům kultury",
         "url": "https://www.activepass.cz/partner/badminton-dum-kultury",
         "address": {
@@ -874,6 +934,7 @@ export function loadData(): Places {
         "activities": ["badminton"]
       },
       {
+        "id": 0,
         "name": "Badminton Líšeň",
         "url": "https://www.activepass.cz/partner/badminton-lisen",
         "address": {
@@ -884,6 +945,7 @@ export function loadData(): Places {
         "activities": ["badminton"]
       },
       {
+        "id": 0,
         "name": "Badminton Milo",
         "url": "https://www.activepass.cz/partner/badminton-milo",
         "address": {
@@ -894,6 +956,7 @@ export function loadData(): Places {
         "activities": ["badminton"]
       },
       {
+        "id": 0,
         "name": "BAG",
         "url": "https://www.activepass.cz/partner/bag",
         "address": {
@@ -904,6 +967,7 @@ export function loadData(): Places {
         "activities": ["funkční trénink", "kruhové tréninky"]
       },
       {
+        "id": 0,
         "name": "Balneo - Lázně Flora",
         "url": "https://www.activepass.cz/partner/balneo-lazne-flora",
         "address": {
@@ -921,6 +985,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Bazén a koupaliště Hustopeče",
         "url": "https://www.activepass.cz/partner/bazen-a-koupaliste-hustopece",
         "address": {
@@ -936,6 +1001,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Bazén Liberec",
         "url": "https://www.activepass.cz/partner/bazen-liberec",
         "address": {
@@ -946,6 +1012,7 @@ export function loadData(): Places {
         "activities": ["fitness", "plavecký bazén", "sauna"]
       },
       {
+        "id": 0,
         "name": "Bazén Lochotín",
         "url": "https://www.activepass.cz/partner/bazen-lochotin",
         "address": {
@@ -956,6 +1023,7 @@ export function loadData(): Places {
         "activities": ["plavecký bazén"]
       },
       {
+        "id": 0,
         "name": "Bázen Mohelnice",
         "url": "https://www.activepass.cz/partner/bazen-mohelnice",
         "address": {
@@ -966,6 +1034,7 @@ export function loadData(): Places {
         "activities": ["plavecký bazén"]
       },
       {
+        "id": 0,
         "name": "Bazén Slovany",
         "url": "https://www.activepass.cz/partner/bazen-slovany",
         "address": {
@@ -976,6 +1045,7 @@ export function loadData(): Places {
         "activities": ["plavecký bazén"]
       },
       {
+        "id": 0,
         "name": "BBK-Fitness Znojmo",
         "url": "https://www.activepass.cz/partner/bbk-fitness-znojmo",
         "address": {
@@ -991,6 +1061,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Bcross GYM",
         "url": "https://www.activepass.cz/partner/bcross-gym",
         "address": {
@@ -1012,6 +1083,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Be Free Fitness",
         "url": "https://www.activepass.cz/partner/be-free-fitness",
         "address": {
@@ -1034,6 +1106,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Be In Sportcentrum",
         "url": "https://www.activepass.cz/partner/be-in-sportcentrum",
         "address": {
@@ -1062,6 +1135,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Be Strong",
         "url": "https://www.activepass.cz/partner/be-strong",
         "address": {
@@ -1079,6 +1153,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Be Vondrsfull",
         "url": "https://www.activepass.cz/partner/be-vondrsfull",
         "address": {
@@ -1099,6 +1174,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Be!FITNESS",
         "url": "https://www.activepass.cz/partner/be-fitness",
         "address": {
@@ -1118,6 +1194,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Beachklub Ládví",
         "url": "https://www.activepass.cz/partner/beachklub-ladvi",
         "address": {
@@ -1128,6 +1205,7 @@ export function loadData(): Places {
         "activities": ["plážový volejbal"]
       },
       {
+        "id": 0,
         "name": "Beast gym",
         "url": "https://www.activepass.cz/partner/beast-gym",
         "address": {
@@ -1143,6 +1221,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Beat Up Calisthenics",
         "url": "https://www.activepass.cz/partner/beat-up-calisthenics",
         "address": {
@@ -1170,6 +1249,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "BeeFIT",
         "url": "https://www.activepass.cz/partner/beefit",
         "address": {
@@ -1180,6 +1260,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "beFit",
         "url": "https://www.activepass.cz/partner/befit",
         "address": {
@@ -1208,6 +1289,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Běh Kladno",
         "url": "https://www.activepass.cz/partner/beh-kladno",
         "address": {
@@ -1218,6 +1300,7 @@ export function loadData(): Places {
         "activities": ["běh"]
       },
       {
+        "id": 0,
         "name": "Beseda - sportovně zábavní centrum",
         "url": "https://www.activepass.cz/partner/beseda-sportovne-zabavni-centrum",
         "address": {
@@ -1254,6 +1337,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Besi fitness",
         "url": "https://www.activepass.cz/partner/besi-fitness",
         "address": {
@@ -1276,6 +1360,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Best fitness Samax",
         "url": "https://www.activepass.cz/partner/best-fitness-samax",
         "address": {
@@ -1300,6 +1385,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Best Gym Horova",
         "url": "https://www.activepass.cz/partner/best-gym-horova",
         "address": {
@@ -1346,6 +1432,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "BEST Sportcentrum Olomouc",
         "url": "https://www.activepass.cz/partner/best-sportcentrum-olomouc",
         "address": {
@@ -1356,6 +1443,7 @@ export function loadData(): Places {
         "activities": ["squash"]
       },
       {
+        "id": 0,
         "name": "BFC LIBEREC",
         "url": "https://www.activepass.cz/partner/bfc-liberec",
         "address": {
@@ -1374,6 +1462,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Big1fitness - Benešova",
         "url": "https://www.activepass.cz/partner/big1fitness-benesova",
         "address": {
@@ -1413,6 +1502,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Big1fitness - Václavská",
         "url": "https://www.activepass.cz/partner/big1fitness-vaclavska",
         "address": {
@@ -1451,6 +1541,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "BIKE HEJZÁK",
         "url": "https://www.activepass.cz/partner/bike-hejzak",
         "address": {
@@ -1461,6 +1552,7 @@ export function loadData(): Places {
         "activities": ["půjčovna sněžnic a bigfoot"]
       },
       {
+        "id": 0,
         "name": "BIKRAM YOGA České Budějovice s.r.o.",
         "url": "https://www.activepass.cz/partner/bikram-yoga-ceske-budejovice-s-r-o",
         "address": {
@@ -1471,6 +1563,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "BIKRAM YOGA PRAGUE",
         "url": "https://www.activepass.cz/partner/bikram-yoga-prague",
         "address": {
@@ -1481,6 +1574,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Bílá věž",
         "url": "https://www.activepass.cz/partner/bila-vez",
         "address": {
@@ -1491,6 +1585,7 @@ export function loadData(): Places {
         "activities": ["rozhledny", "vyhlídkové věže"]
       },
       {
+        "id": 0,
         "name": "Bílý králík Borovina",
         "url": "https://www.activepass.cz/partner/bily-kralik-borovina",
         "address": {
@@ -1511,6 +1606,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Bílý králík Laguna",
         "url": "https://www.activepass.cz/partner/bily-kralik-laguna",
         "address": {
@@ -1532,6 +1628,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "BISTRO ANATOMY",
         "url": "https://www.activepass.cz/partner/bistro-anatomy",
         "address": {
@@ -1547,6 +1644,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "BJJ panther",
         "url": "https://www.activepass.cz/partner/bjj-panther",
         "address": {
@@ -1557,6 +1655,7 @@ export function loadData(): Places {
         "activities": ["jiu-jitsu"]
       },
       {
+        "id": 0,
         "name": "BLACKFIELD GYM",
         "url": "https://www.activepass.cz/partner/blackfield-gym",
         "address": {
@@ -1575,6 +1674,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Bobová dráha - Harrachov",
         "url": "https://www.activepass.cz/partner/bobova-draha-harrachov",
         "address": {
@@ -1585,6 +1685,7 @@ export function loadData(): Places {
         "activities": ["bobové dráhy"]
       },
       {
+        "id": 0,
         "name": "Bobová dráha - Špindlerův Mlýn",
         "url": "https://www.activepass.cz/partner/bobova-draha-spindleruv-mlyn",
         "address": {
@@ -1595,6 +1696,7 @@ export function loadData(): Places {
         "activities": ["bobové dráhy"]
       },
       {
+        "id": 0,
         "name": "Bobová dráha Jizerky",
         "url": "https://www.activepass.cz/partner/bobova-draha-jizerky",
         "address": {
@@ -1605,6 +1707,7 @@ export function loadData(): Places {
         "activities": ["bobové dráhy"]
       },
       {
+        "id": 0,
         "name": "Bodies Garden",
         "url": "https://www.activepass.cz/partner/bodies-garden",
         "address": {
@@ -1615,6 +1718,7 @@ export function loadData(): Places {
         "activities": ["body and mind", "alpinning"]
       },
       {
+        "id": 0,
         "name": "Body Academy",
         "url": "https://www.activepass.cz/partner/body-academy",
         "address": {
@@ -1635,6 +1739,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Body Body",
         "url": "https://www.activepass.cz/partner/body-body",
         "address": {
@@ -1645,6 +1750,7 @@ export function loadData(): Places {
         "activities": ["cvičení bodybody (ems, expr)"]
       },
       {
+        "id": 0,
         "name": "Body Creators",
         "url": "https://www.activepass.cz/partner/body-creators",
         "address": {
@@ -1655,6 +1761,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "BODY LAND Professional Fitness",
         "url": "https://www.activepass.cz/partner/body-land-professional-fitness",
         "address": {
@@ -1670,6 +1777,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Body Point",
         "url": "https://www.activepass.cz/partner/body-point",
         "address": {
@@ -1689,6 +1797,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Body sport",
         "url": "https://www.activepass.cz/partner/body-sport",
         "address": {
@@ -1711,6 +1820,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Bodyactive studio Fitness",
         "url": "https://www.activepass.cz/partner/bodyactive-studio-fitness",
         "address": {
@@ -1721,6 +1831,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "BodyBody",
         "url": "https://www.activepass.cz/partner/bodybody",
         "address": {
@@ -1740,6 +1851,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "BodyBrí Studio",
         "url": "https://www.activepass.cz/partner/bodybri-studio",
         "address": {
@@ -1769,6 +1881,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Bodyfit gym",
         "url": "https://www.activepass.cz/partner/bodyfit-gym",
         "address": {
@@ -1786,6 +1899,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "BODYFLEX Fitness",
         "url": "https://www.activepass.cz/partner/bodyflex-fitness",
         "address": {
@@ -1796,6 +1910,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "BODYFLEX Fitness",
         "url": "https://www.activepass.cz/partner/bodyflex-fitness-1",
         "address": {
@@ -1806,6 +1921,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "BODYMOVE",
         "url": "https://www.activepass.cz/partner/bodymove",
         "address": {
@@ -1832,6 +1948,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "BODYTEC BRNO",
         "url": "https://www.activepass.cz/partner/bodytec-brno",
         "address": {
@@ -1842,6 +1959,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "BOHEMIA DANCE CLUB",
         "url": "https://www.activepass.cz/partner/bohemia-dance-club",
         "address": {
@@ -1881,6 +1999,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Bohemia Fyzioterapie",
         "url": "https://www.activepass.cz/partner/bohemia-fyzioterapie",
         "address": {
@@ -1898,6 +2017,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Bold gym",
         "url": "https://www.activepass.cz/partner/bold-gym",
         "address": {
@@ -1913,6 +2033,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "BOPO Factory Gym",
         "url": "https://www.activepass.cz/partner/bopo-factory-gym",
         "address": {
@@ -1928,6 +2049,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Borůvka",
         "url": "https://www.activepass.cz/partner/boruvka",
         "address": {
@@ -1954,6 +2076,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Boulder Bar Točna",
         "url": "https://www.activepass.cz/partner/boulder-bar-tocna",
         "address": {
@@ -1964,6 +2087,7 @@ export function loadData(): Places {
         "activities": ["lezecké stěny"]
       },
       {
+        "id": 0,
         "name": "BOWLAND Bowling Center",
         "url": "https://www.activepass.cz/partner/bowland-bowling-center",
         "address": {
@@ -1974,6 +2098,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Bowling bar Beseda",
         "url": "https://www.activepass.cz/partner/bowling-bar-beseda",
         "address": {
@@ -1984,6 +2109,7 @@ export function loadData(): Places {
         "activities": ["bowling", "sauna"]
       },
       {
+        "id": 0,
         "name": "Bowling centrum",
         "url": "https://www.activepass.cz/partner/bowling-centrum",
         "address": {
@@ -1994,6 +2120,7 @@ export function loadData(): Places {
         "activities": ["bowling"]
       },
       {
+        "id": 0,
         "name": "Bowling Hluboká",
         "url": "https://www.activepass.cz/partner/bowling-hluboka",
         "address": {
@@ -2004,6 +2131,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Bowling KAREL",
         "url": "https://www.activepass.cz/partner/bowling-karel",
         "address": {
@@ -2014,6 +2142,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Bowling Kaštanka",
         "url": "https://www.activepass.cz/partner/bowling-kastanka",
         "address": {
@@ -2024,6 +2153,7 @@ export function loadData(): Places {
         "activities": ["bowling"]
       },
       {
+        "id": 0,
         "name": "Bowling Olympia",
         "url": "https://www.activepass.cz/partner/bowling-olympia",
         "address": {
@@ -2034,6 +2164,7 @@ export function loadData(): Places {
         "activities": ["bowling"]
       },
       {
+        "id": 0,
         "name": "Bowling RADAVA Praha",
         "url": "https://www.activepass.cz/partner/bowling-radava-praha",
         "address": {
@@ -2044,6 +2175,7 @@ export function loadData(): Places {
         "activities": ["bowling"]
       },
       {
+        "id": 0,
         "name": "Bowling Rento Jičín",
         "url": "https://www.activepass.cz/partner/bowling-rento-jicin",
         "address": {
@@ -2054,6 +2186,7 @@ export function loadData(): Places {
         "activities": ["bowling"]
       },
       {
+        "id": 0,
         "name": "Bowling Restaurant Centrum",
         "url": "https://www.activepass.cz/partner/bowling-restaurant-centrum",
         "address": {
@@ -2064,6 +2197,7 @@ export function loadData(): Places {
         "activities": ["bowling"]
       },
       {
+        "id": 0,
         "name": "Bowling S-club Liberec",
         "url": "https://www.activepass.cz/partner/bowling-s-club-liberec",
         "address": {
@@ -2074,6 +2208,7 @@ export function loadData(): Places {
         "activities": ["bowling"]
       },
       {
+        "id": 0,
         "name": "Bowling u Pekaře",
         "url": "https://www.activepass.cz/partner/bowling-u-pekare",
         "address": {
@@ -2084,6 +2219,7 @@ export function loadData(): Places {
         "activities": ["bowling"]
       },
       {
+        "id": 0,
         "name": "Bowling v Továrně",
         "url": "https://www.activepass.cz/partner/bowling-v-tovarne",
         "address": {
@@ -2094,6 +2230,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Bowling Zone",
         "url": "https://www.activepass.cz/partner/bowling-zone",
         "address": {
@@ -2104,6 +2241,7 @@ export function loadData(): Places {
         "activities": ["bowling"]
       },
       {
+        "id": 0,
         "name": "Bowlingové centrum Krnov",
         "url": "https://www.activepass.cz/partner/bowlingove-centrum-krnov",
         "address": {
@@ -2114,6 +2252,7 @@ export function loadData(): Places {
         "activities": ["bowling"]
       },
       {
+        "id": 0,
         "name": "Box Fit Gym",
         "url": "https://www.activepass.cz/partner/box-fit-gym",
         "address": {
@@ -2136,6 +2275,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Brandýské bowlingové centrum",
         "url": "https://www.activepass.cz/partner/brandyske-bowlingove-centrum",
         "address": {
@@ -2146,6 +2286,7 @@ export function loadData(): Places {
         "activities": ["bowling"]
       },
       {
+        "id": 0,
         "name": "Breakout Prague",
         "url": "https://www.activepass.cz/partner/breakout-prague",
         "address": {
@@ -2156,6 +2297,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Brněnská hala",
         "url": "https://www.activepass.cz/partner/brnenska-hala",
         "address": {
@@ -2166,6 +2308,7 @@ export function loadData(): Places {
         "activities": ["parkour"]
       },
       {
+        "id": 0,
         "name": "BROKEN DOLL",
         "url": "https://www.activepass.cz/partner/broken-doll",
         "address": {
@@ -2181,6 +2324,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Brum - Bambule",
         "url": "https://www.activepass.cz/partner/brum-bambule",
         "address": {
@@ -2191,6 +2335,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Buď pilot - letecké simulátory Brno",
         "url": "https://www.activepass.cz/partner/bud-pilot-letecke-simulatory-brno",
         "address": {
@@ -2204,6 +2349,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "BUDDY BAR & BOWLING LIBEREC",
         "url": "https://www.activepass.cz/partner/buddy-bar-bowling-liberec",
         "address": {
@@ -2214,6 +2360,7 @@ export function loadData(): Places {
         "activities": ["bowling"]
       },
       {
+        "id": 0,
         "name": "BUGIFIT",
         "url": "https://www.activepass.cz/partner/bugifit",
         "address": {
@@ -2230,6 +2377,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Bulldog Gym",
         "url": "https://www.activepass.cz/partner/bulldog-gym",
         "address": {
@@ -2247,6 +2395,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "BUSHIDO GYM",
         "url": "https://www.activepass.cz/partner/bushido-gym",
         "address": {
@@ -2267,6 +2416,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Café Pink Bear",
         "url": "https://www.activepass.cz/partner/cafe-pink-bear",
         "address": {
@@ -2277,6 +2427,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "California Wellness Club",
         "url": "https://www.activepass.cz/partner/california-wellness-club",
         "address": {
@@ -2287,6 +2438,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "CALLISTO",
         "url": "https://www.activepass.cz/partner/callisto",
         "address": {
@@ -2305,6 +2457,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Cardio Fitness",
         "url": "https://www.activepass.cz/partner/cardio-fitness",
         "address": {
@@ -2331,6 +2484,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Cardio fitness Děčín",
         "url": "https://www.activepass.cz/partner/cardio-fitness-decin",
         "address": {
@@ -2349,6 +2503,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "ČD Muzeum",
         "url": "https://www.activepass.cz/partner/cd-muzeum",
         "address": {
@@ -2359,6 +2514,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "CDU SPORT - VOLNÝ ČAS z.s.",
         "url": "https://www.activepass.cz/partner/cdu-sport-volny-cas-z-s",
         "address": {
@@ -2378,6 +2534,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "CEKUS Chotěboř",
         "url": "https://www.activepass.cz/partner/cekus-chotebor",
         "address": {
@@ -2388,6 +2545,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Celebrity Boxing Place",
         "url": "https://www.activepass.cz/partner/celebrity-boxing-place",
         "address": {
@@ -2398,6 +2556,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Central Bar Bowling",
         "url": "https://www.activepass.cz/partner/central-bar-bowling",
         "address": {
@@ -2408,6 +2567,7 @@ export function loadData(): Places {
         "activities": ["bowling"]
       },
       {
+        "id": 0,
         "name": "Centrum BackStage",
         "url": "https://www.activepass.cz/partner/centrum-backstage",
         "address": {
@@ -2422,6 +2582,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Centrum Jungle",
         "url": "https://www.activepass.cz/partner/centrum-jungle",
         "address": {
@@ -2432,6 +2593,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "Centrum komplexní péče Sámova",
         "url": "https://www.activepass.cz/partner/centrum-komplexni-pece-samova",
         "address": {
@@ -2442,6 +2604,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Centrum nových sportů",
         "url": "https://www.activepass.cz/partner/centrum-novych-sportu",
         "address": {
@@ -2469,6 +2632,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Centrum pohybu Olomouc",
         "url": "https://www.activepass.cz/partner/centrum-pohybu-olomouc",
         "address": {
@@ -2508,6 +2672,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Centrum Stará Vodárna",
         "url": "https://www.activepass.cz/partner/centrum-stara-vodarna",
         "address": {
@@ -2518,6 +2683,7 @@ export function loadData(): Places {
         "activities": ["piloxing"]
       },
       {
+        "id": 0,
         "name": "Centrum Stone",
         "url": "https://www.activepass.cz/partner/centrum-stone",
         "address": {
@@ -2536,6 +2702,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Centrum tance - Brno",
         "url": "https://www.activepass.cz/partner/centrum-tance-brno",
         "address": {
@@ -2577,6 +2744,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Centrum tance - Čáslavská",
         "url": "https://www.activepass.cz/partner/centrum-tance-caslavska",
         "address": {
@@ -2598,6 +2766,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Centrum tance - Palmovka",
         "url": "https://www.activepass.cz/partner/centrum-tance-palmovka",
         "address": {
@@ -2623,6 +2792,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Centrum tance - Politických vězňů",
         "url": "https://www.activepass.cz/partner/centrum-tance-politickych-veznu",
         "address": {
@@ -2664,6 +2834,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Centrum tance - Václavské náměstí",
         "url": "https://www.activepass.cz/partner/centrum-tance-vaclavske-namesti",
         "address": {
@@ -2704,6 +2875,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Centrum Třešňovka",
         "url": "https://www.activepass.cz/partner/centrum-tresnovka",
         "address": {
@@ -2728,6 +2900,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Centrum trvalého zdraví",
         "url": "https://www.activepass.cz/partner/centrum-trvaleho-zdravi",
         "address": {
@@ -2751,6 +2924,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Centrum virtuální reality a Laser Game Ultron",
         "url": "https://www.activepass.cz/partner/centrum-virtualni-reality-a-laser-game-ultron",
         "address": {
@@ -2764,6 +2938,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "CENTRUM ZDRAVÝCH ZAD",
         "url": "https://www.activepass.cz/partner/centrum-zdravych-zad",
         "address": {
@@ -2774,6 +2949,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Centrum zdravých zad - SM SYSTÉM",
         "url": "https://www.activepass.cz/partner/centrum-zdravych-zad-sm-system",
         "address": {
@@ -2784,6 +2960,7 @@ export function loadData(): Places {
         "activities": ["sm systém"]
       },
       {
+        "id": 0,
         "name": "Černá louže-penzion",
         "url": "https://www.activepass.cz/partner/cerna-louze-penzion",
         "address": {
@@ -2794,6 +2971,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "CHRPA SPORT",
         "url": "https://www.activepass.cz/partner/chrpa-sport",
         "address": {
@@ -2813,6 +2991,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "CITADELA MEFISTO POLE DANCE STUDIO",
         "url": "https://www.activepass.cz/partner/citadela-mefisto-pole-dance-studio",
         "address": {
@@ -2823,6 +3002,7 @@ export function loadData(): Places {
         "activities": ["pole dance"]
       },
       {
+        "id": 0,
         "name": "CKP Roseta",
         "url": "https://www.activepass.cz/partner/ckp-roseta",
         "address": {
@@ -2833,6 +3013,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Classic Gym",
         "url": "https://www.activepass.cz/partner/classic-gym",
         "address": {
@@ -2850,6 +3031,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Classic River",
         "url": "https://www.activepass.cz/partner/classic-river",
         "address": {
@@ -2860,6 +3042,7 @@ export function loadData(): Places {
         "activities": ["plavby"]
       },
       {
+        "id": 0,
         "name": "Človíčkov Jablonec nad Nisou",
         "url": "https://www.activepass.cz/partner/clovickov-jablonec-nad-nisou",
         "address": {
@@ -2870,6 +3053,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "Človíčkov Litoměřice",
         "url": "https://www.activepass.cz/partner/clovickov-litomerice",
         "address": {
@@ -2880,6 +3064,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "Človíčkov Olomouc",
         "url": "https://www.activepass.cz/partner/clovickov-olomouc",
         "address": {
@@ -2890,6 +3075,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "Človíčkov Praha 4",
         "url": "https://www.activepass.cz/partner/clovickov-praha-4",
         "address": {
@@ -2900,6 +3086,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "Človíčkov Praha 5",
         "url": "https://www.activepass.cz/partner/clovickov-praha-5",
         "address": {
@@ -2910,6 +3097,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "Človíčkov Přerov",
         "url": "https://www.activepass.cz/partner/clovickov-prerov",
         "address": {
@@ -2920,6 +3108,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "Človíčkov Prostějov",
         "url": "https://www.activepass.cz/partner/clovickov-prostejov",
         "address": {
@@ -2930,6 +3119,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "Človíčkov Tábor",
         "url": "https://www.activepass.cz/partner/clovickov-tabor",
         "address": {
@@ -2940,6 +3130,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "Colatransport bowling",
         "url": "https://www.activepass.cz/partner/colatransport-bowling",
         "address": {
@@ -2950,6 +3141,7 @@ export function loadData(): Places {
         "activities": ["stolní tenis", "tenis", "bowling"]
       },
       {
+        "id": 0,
         "name": "Colliery CrossFit Ostrava",
         "url": "https://www.activepass.cz/partner/colliery-crossfit-ostrava",
         "address": {
@@ -2960,6 +3152,7 @@ export function loadData(): Places {
         "activities": ["crossfit", "fitness"]
       },
       {
+        "id": 0,
         "name": "Core Gym",
         "url": "https://www.activepass.cz/partner/core-gym",
         "address": {
@@ -2987,6 +3180,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Country golf club Střítež",
         "url": "https://www.activepass.cz/partner/country-golf-club-stritez",
         "address": {
@@ -2997,6 +3191,7 @@ export function loadData(): Places {
         "activities": ["minigolf"]
       },
       {
+        "id": 0,
         "name": "Creative World",
         "url": "https://www.activepass.cz/partner/creative-world",
         "address": {
@@ -3012,6 +3207,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Cross Athletic",
         "url": "https://www.activepass.cz/partner/cross-athletic",
         "address": {
@@ -3026,6 +3222,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "CROSSFIGHT",
         "url": "https://www.activepass.cz/partner/crossfight",
         "address": {
@@ -3043,6 +3240,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Crossfight Bruntál",
         "url": "https://www.activepass.cz/partner/crossfight-bruntal",
         "address": {
@@ -3053,6 +3251,7 @@ export function loadData(): Places {
         "activities": ["kruhové tréninky"]
       },
       {
+        "id": 0,
         "name": "CROSSFIT DESTINY",
         "url": "https://www.activepass.cz/partner/crossfit-destiny",
         "address": {
@@ -3063,6 +3262,7 @@ export function loadData(): Places {
         "activities": ["crossfit", "open class lekce"]
       },
       {
+        "id": 0,
         "name": "CROSSFIT HOME TOWN",
         "url": "https://www.activepass.cz/partner/crossfit-home-town",
         "address": {
@@ -3073,6 +3273,7 @@ export function loadData(): Places {
         "activities": ["open class lekce"]
       },
       {
+        "id": 0,
         "name": "CrossFit INI",
         "url": "https://www.activepass.cz/partner/crossfit-ini",
         "address": {
@@ -3083,6 +3284,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Crossfit Madman",
         "url": "https://www.activepass.cz/partner/crossfit-madman",
         "address": {
@@ -3093,6 +3295,7 @@ export function loadData(): Places {
         "activities": ["crossfit"]
       },
       {
+        "id": 0,
         "name": "CrossFit NewPark",
         "url": "https://www.activepass.cz/partner/crossfit-newpark",
         "address": {
@@ -3103,6 +3306,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Crossfit Olomouc",
         "url": "https://www.activepass.cz/partner/crossfit-olomouc",
         "address": {
@@ -3118,6 +3322,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "CrossFit With Us",
         "url": "https://www.activepass.cz/partner/crossfit-with-us",
         "address": {
@@ -3131,6 +3336,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Crossgym Benešov",
         "url": "https://www.activepass.cz/partner/crossgym-benesov",
         "address": {
@@ -3148,6 +3354,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "ČUS Plavecký stadion Podolí",
         "url": "https://www.activepass.cz/partner/cus-plavecky-stadion-podoli",
         "address": {
@@ -3164,6 +3371,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "CVIC.IT",
         "url": "https://www.activepass.cz/partner/cvic-it",
         "address": {
@@ -3199,6 +3407,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "CZECH VIRUS GYM",
         "url": "https://www.activepass.cz/partner/czech-virus-gym",
         "address": {
@@ -3209,6 +3418,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "D - Fitness",
         "url": "https://www.activepass.cz/partner/d-fitness",
         "address": {
@@ -3226,6 +3436,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "D&D Fitness Studio - bungee workout",
         "url": "https://www.activepass.cz/partner/d-d-fitness-studio-bungee-workout",
         "address": {
@@ -3246,6 +3457,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Dačického dům v Kutné Hoře",
         "url": "https://www.activepass.cz/partner/dacickeho-dum-v-kutne-hore",
         "address": {
@@ -3256,6 +3468,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Daily Fitness Vyšehrad",
         "url": "https://www.activepass.cz/partner/daily-fitness-vysehrad",
         "address": {
@@ -3300,6 +3513,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Daily Fitness Zličín",
         "url": "https://www.activepass.cz/partner/daily-fitness-zlicin",
         "address": {
@@ -3356,6 +3570,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Dámské fitness studio DAREN",
         "url": "https://www.activepass.cz/partner/damske-fitness-studio-daren",
         "address": {
@@ -3366,6 +3581,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Dance Institut Blanca",
         "url": "https://www.activepass.cz/partner/dance-institut-blanca",
         "address": {
@@ -3376,6 +3592,7 @@ export function loadData(): Places {
         "activities": ["tance", "pole dance"]
       },
       {
+        "id": 0,
         "name": "DANCE PERFECT",
         "url": "https://www.activepass.cz/partner/dance-perfect",
         "address": {
@@ -3386,6 +3603,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Dark Side Movement",
         "url": "https://www.activepass.cz/partner/dark-side-movement",
         "address": {
@@ -3407,6 +3625,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "David Wellness Fitness",
         "url": "https://www.activepass.cz/partner/david-wellness-fitness",
         "address": {
@@ -3424,6 +3643,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Day Spa",
         "url": "https://www.activepass.cz/partner/day-spa",
         "address": {
@@ -3434,6 +3654,7 @@ export function loadData(): Places {
         "activities": ["solná jeskyně"]
       },
       {
+        "id": 0,
         "name": "Decrypt",
         "url": "https://www.activepass.cz/partner/decrypt",
         "address": {
@@ -3444,6 +3665,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Dee Gym",
         "url": "https://www.activepass.cz/partner/dee-gym",
         "address": {
@@ -3454,6 +3676,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "trx"]
       },
       {
+        "id": 0,
         "name": "Defenders Gym",
         "url": "https://www.activepass.cz/partner/defenders-gym",
         "address": {
@@ -3468,6 +3691,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "DejFit",
         "url": "https://www.activepass.cz/partner/dejfit",
         "address": {
@@ -3478,6 +3702,7 @@ export function loadData(): Places {
         "activities": ["kruhové tréninky"]
       },
       {
+        "id": 0,
         "name": "DENNÍ RELAX",
         "url": "https://www.activepass.cz/partner/denni-relax",
         "address": {
@@ -3488,6 +3713,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "DEPO 2015",
         "url": "https://www.activepass.cz/partner/depo-2015",
         "address": {
@@ -3498,6 +3724,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Deporta Pilates",
         "url": "https://www.activepass.cz/partner/deporta-pilates",
         "address": {
@@ -3514,6 +3741,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Dětská herna Kulíškov",
         "url": "https://www.activepass.cz/partner/detska-herna-kuliskov",
         "address": {
@@ -3524,6 +3752,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "Dětská herna Kulíškov",
         "url": "https://www.activepass.cz/partner/detska-herna-kuliskov-1",
         "address": {
@@ -3534,6 +3763,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "Dětská herna Monkey",
         "url": "https://www.activepass.cz/partner/detska-herna-monkey",
         "address": {
@@ -3544,6 +3774,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "Dětská herna Slunečnice",
         "url": "https://www.activepass.cz/partner/detska-herna-slunecnice",
         "address": {
@@ -3554,6 +3785,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "Dětské centrum Kroužek",
         "url": "https://www.activepass.cz/partner/detske-centrum-krouzek",
         "address": {
@@ -3573,6 +3805,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Dětský zábavní park - Dvůr Střítež",
         "url": "https://www.activepass.cz/partner/detsky-zabavni-park-dvur-stritez",
         "address": {
@@ -3586,6 +3819,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Dfitness",
         "url": "https://www.activepass.cz/partner/dfitness",
         "address": {
@@ -3600,6 +3834,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Diamond GYM",
         "url": "https://www.activepass.cz/partner/diamond-gym",
         "address": {
@@ -3615,6 +3850,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Doksport Brtnice",
         "url": "https://www.activepass.cz/partner/doksport-brtnice",
         "address": {
@@ -3630,6 +3866,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Doksport Želetava",
         "url": "https://www.activepass.cz/partner/doksport-zeletava",
         "address": {
@@ -3646,6 +3883,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "DOSTAŇ SE VEN",
         "url": "https://www.activepass.cz/partner/dostan-se-ven",
         "address": {
@@ -3656,6 +3894,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Dr. Fit",
         "url": "https://www.activepass.cz/partner/dr-fit",
         "address": {
@@ -3671,6 +3910,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Draps sport centrum & sport bar",
         "url": "https://www.activepass.cz/partner/draps-sport-centrum-sport-bar",
         "address": {
@@ -3681,6 +3921,7 @@ export function loadData(): Places {
         "activities": ["stolní tenis", "squash", "badminton"]
       },
       {
+        "id": 0,
         "name": "Dream Body Fitness",
         "url": "https://www.activepass.cz/partner/dream-body-fitness",
         "address": {
@@ -3691,6 +3932,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Dream Gym",
         "url": "https://www.activepass.cz/partner/dream-gym",
         "address": {
@@ -3701,6 +3943,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Dreamfit Chabry",
         "url": "https://www.activepass.cz/partner/dreamfit-chabry",
         "address": {
@@ -3725,6 +3968,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Dreamfit Ládví",
         "url": "https://www.activepass.cz/partner/dreamfit-ladvi",
         "address": {
@@ -3741,6 +3985,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Driving Range Rohanský ostrov",
         "url": "https://www.activepass.cz/partner/driving-range-rohansky-ostrov",
         "address": {
@@ -3751,6 +3996,7 @@ export function loadData(): Places {
         "activities": ["golfové odpaliště"]
       },
       {
+        "id": 0,
         "name": "DUEL PARK - únikové hry Egypt, Armageddon, Záhada z Louvru",
         "url": "https://www.activepass.cz/partner/duel-park-unikove-hry-egypt-armageddon-zahada-z-louvru",
         "address": {
@@ -3761,6 +4007,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Duhový ráj",
         "url": "https://www.activepass.cz/partner/duhovy-raj",
         "address": {
@@ -3774,6 +4021,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Dům jógy Anděl",
         "url": "https://www.activepass.cz/partner/dum-jogy-andel",
         "address": {
@@ -3791,6 +4039,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Dům jógy Chodov",
         "url": "https://www.activepass.cz/partner/dum-jogy-chodov",
         "address": {
@@ -3813,6 +4062,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Dům jógy Vinohrady",
         "url": "https://www.activepass.cz/partner/dum-jogy-vinohrady",
         "address": {
@@ -3830,6 +4080,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Dům přírody Moravského krasu",
         "url": "https://www.activepass.cz/partner/dum-prirody-moravskeho-krasu",
         "address": {
@@ -3840,6 +4091,7 @@ export function loadData(): Places {
         "activities": ["parky", "výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Dům Salve",
         "url": "https://www.activepass.cz/partner/dum-salve",
         "address": {
@@ -3861,6 +4113,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Dům umění",
         "url": "https://www.activepass.cz/partner/dum-umeni",
         "address": {
@@ -3871,6 +4124,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "dv fitness",
         "url": "https://www.activepass.cz/partner/dv-fitness",
         "address": {
@@ -3890,6 +4144,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "dv fitness Alpining",
         "url": "https://www.activepass.cz/partner/dv-fitness-alpining",
         "address": {
@@ -3900,6 +4155,7 @@ export function loadData(): Places {
         "activities": ["alpinning"]
       },
       {
+        "id": 0,
         "name": "E-motion motokáry Ostrava",
         "url": "https://www.activepass.cz/partner/e-motion-motokary-ostrava",
         "address": {
@@ -3910,6 +4166,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "E-strike aréna",
         "url": "https://www.activepass.cz/partner/e-strike-arena",
         "address": {
@@ -3920,6 +4177,7 @@ export function loadData(): Places {
         "activities": ["laser game"]
       },
       {
+        "id": 0,
         "name": "Eagle Fitness",
         "url": "https://www.activepass.cz/partner/eagle-fitness",
         "address": {
@@ -3948,6 +4206,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Ecotours",
         "url": "https://www.activepass.cz/partner/ecotours",
         "address": {
@@ -3958,6 +4217,7 @@ export function loadData(): Places {
         "activities": ["půjčovna kol"]
       },
       {
+        "id": 0,
         "name": "Ekotechnické centrum Alternátor",
         "url": "https://www.activepass.cz/partner/ekotechnicke-centrum-alternator",
         "address": {
@@ -3968,6 +4228,7 @@ export function loadData(): Places {
         "activities": ["naučné parky"]
       },
       {
+        "id": 0,
         "name": "Elite Gym",
         "url": "https://www.activepass.cz/partner/elite-gym",
         "address": {
@@ -3985,6 +4246,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Elite Wellness Fitness",
         "url": "https://www.activepass.cz/partner/elite-wellness-fitness",
         "address": {
@@ -4008,6 +4270,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Eliteathletics",
         "url": "https://www.activepass.cz/partner/eliteathletics",
         "address": {
@@ -4024,6 +4287,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Elixír Studio",
         "url": "https://www.activepass.cz/partner/elixir-studio",
         "address": {
@@ -4044,6 +4308,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "EMERAN KLÍNY",
         "url": "https://www.activepass.cz/partner/emeran-kliny",
         "address": {
@@ -4054,6 +4319,7 @@ export function loadData(): Places {
         "activities": ["minigolf", "tenis", "badminton"]
       },
       {
+        "id": 0,
         "name": "Empire Fitness",
         "url": "https://www.activepass.cz/partner/empire-fitness",
         "address": {
@@ -4070,6 +4336,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "EMstudio Chotěboř",
         "url": "https://www.activepass.cz/partner/emstudio-chotebor",
         "address": {
@@ -4080,6 +4347,7 @@ export function loadData(): Places {
         "activities": ["vacu shape", "rolletic"]
       },
       {
+        "id": 0,
         "name": "EMstudio Havlíčkův Brod",
         "url": "https://www.activepass.cz/partner/emstudio-havlickuv-brod",
         "address": {
@@ -4095,6 +4363,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Energy fitness",
         "url": "https://www.activepass.cz/partner/energy-fitness-1",
         "address": {
@@ -4113,6 +4382,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Energy fitness",
         "url": "https://www.activepass.cz/partner/energy-fitness",
         "address": {
@@ -4135,6 +4405,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Energy Life CZ",
         "url": "https://www.activepass.cz/partner/energy-life-cz",
         "address": {
@@ -4145,6 +4416,7 @@ export function loadData(): Places {
         "activities": ["solná jeskyně", "lymfoven"]
       },
       {
+        "id": 0,
         "name": "Energy Studio HEAVEN",
         "url": "https://www.activepass.cz/partner/energy-studio-heaven",
         "address": {
@@ -4155,6 +4427,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Energy Studio HOME",
         "url": "https://www.activepass.cz/partner/energy-studio-home",
         "address": {
@@ -4165,6 +4438,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "ENERGYM s.r.o.",
         "url": "https://www.activepass.cz/partner/energym-s-r-o",
         "address": {
@@ -4180,6 +4454,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "ER CLUB",
         "url": "https://www.activepass.cz/partner/er-club",
         "address": {
@@ -4201,6 +4476,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "ER CLUB",
         "url": "https://www.activepass.cz/partner/er-club-1",
         "address": {
@@ -4229,6 +4505,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Erpet Golf Centrum",
         "url": "https://www.activepass.cz/partner/erpet-golf-centrum",
         "address": {
@@ -4239,6 +4516,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "ESC room",
         "url": "https://www.activepass.cz/partner/esc-room",
         "address": {
@@ -4249,6 +4527,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Escape game Kladno",
         "url": "https://www.activepass.cz/partner/escape-game-kladno",
         "address": {
@@ -4259,6 +4538,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Escape Master",
         "url": "https://www.activepass.cz/partner/escape-master",
         "address": {
@@ -4269,6 +4549,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Escape Master",
         "url": "https://www.activepass.cz/partner/escape-master-1",
         "address": {
@@ -4279,6 +4560,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Escape Master",
         "url": "https://www.activepass.cz/partner/escape-master-2",
         "address": {
@@ -4289,6 +4571,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Escape Most",
         "url": "https://www.activepass.cz/partner/escape-most",
         "address": {
@@ -4299,6 +4582,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Escape Praha",
         "url": "https://www.activepass.cz/partner/escape-praha",
         "address": {
@@ -4309,6 +4593,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Escape room Beroun",
         "url": "https://www.activepass.cz/partner/escape-room-beroun",
         "address": {
@@ -4319,6 +4604,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Escape the Room",
         "url": "https://www.activepass.cz/partner/escape-the-room",
         "address": {
@@ -4329,6 +4615,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Escapepoint Kobylisy",
         "url": "https://www.activepass.cz/partner/escapepoint-kobylisy",
         "address": {
@@ -4339,6 +4626,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Escapepoint Vinohrady",
         "url": "https://www.activepass.cz/partner/escapepoint-vinohrady",
         "address": {
@@ -4349,6 +4637,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Euforia Fitness",
         "url": "https://www.activepass.cz/partner/euforia-fitness",
         "address": {
@@ -4359,6 +4648,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Euforie - Fitness & Wellness - Pankrác",
         "url": "https://www.activepass.cz/partner/euforie-fitness-wellness-pankrac",
         "address": {
@@ -4398,6 +4688,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Euforie - Fitness & Wellness - Smíchov",
         "url": "https://www.activepass.cz/partner/euforie-fitness-wellness-smichov",
         "address": {
@@ -4437,6 +4728,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Euforie -Fitness & Wellness - Karlín",
         "url": "https://www.activepass.cz/partner/euforie-fitness-wellness-karlin",
         "address": {
@@ -4476,6 +4768,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Euforie -Fitness & Wellness - Žižkov",
         "url": "https://www.activepass.cz/partner/euforie-fitness-wellness-zizkov",
         "address": {
@@ -4515,6 +4808,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "EVA Fitness",
         "url": "https://www.activepass.cz/partner/eva-fitness",
         "address": {
@@ -4525,6 +4819,7 @@ export function loadData(): Places {
         "activities": ["kruhové tréninky"]
       },
       {
+        "id": 0,
         "name": "Everyday Fitness",
         "url": "https://www.activepass.cz/partner/everyday-fitness",
         "address": {
@@ -4535,6 +4830,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "Exit Door - únikové hry",
         "url": "https://www.activepass.cz/partner/exit-door-unikove-hry",
         "address": {
@@ -4545,6 +4841,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Exit Game Aréna",
         "url": "https://www.activepass.cz/partner/exit-game-arena",
         "address": {
@@ -4555,6 +4852,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Exit Game Uherské Hradiště",
         "url": "https://www.activepass.cz/partner/exit-game-uherske-hradiste",
         "address": {
@@ -4565,6 +4863,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Exit room Zlín",
         "url": "https://www.activepass.cz/partner/exit-room-zlin",
         "address": {
@@ -4575,6 +4874,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Exitgame Brno",
         "url": "https://www.activepass.cz/partner/exitgame-brno",
         "address": {
@@ -4585,6 +4885,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Exklusiv mini fitness",
         "url": "https://www.activepass.cz/partner/exklusiv-mini-fitness",
         "address": {
@@ -4600,6 +4901,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Expreska Anděl",
         "url": "https://www.activepass.cz/partner/expreska-andel",
         "address": {
@@ -4610,6 +4912,7 @@ export function loadData(): Places {
         "activities": ["kruhové tréninky"]
       },
       {
+        "id": 0,
         "name": "Expreska Děčín",
         "url": "https://www.activepass.cz/partner/expreska-decin",
         "address": {
@@ -4620,6 +4923,7 @@ export function loadData(): Places {
         "activities": ["kruhové tréninky"]
       },
       {
+        "id": 0,
         "name": "Expreska Kladno",
         "url": "https://www.activepass.cz/partner/expreska-kladno",
         "address": {
@@ -4630,6 +4934,7 @@ export function loadData(): Places {
         "activities": ["kruhové tréninky"]
       },
       {
+        "id": 0,
         "name": "Expreska Olomouc",
         "url": "https://www.activepass.cz/partner/expreska-olomouc",
         "address": {
@@ -4640,6 +4945,7 @@ export function loadData(): Places {
         "activities": ["kruhové tréninky"]
       },
       {
+        "id": 0,
         "name": "Expreska Praha - Národní",
         "url": "https://www.activepass.cz/partner/expreska-praha-narodni",
         "address": {
@@ -4650,6 +4956,7 @@ export function loadData(): Places {
         "activities": ["kruhové tréninky"]
       },
       {
+        "id": 0,
         "name": "Expreska Praha - Řepy",
         "url": "https://www.activepass.cz/partner/expreska-praha-repy",
         "address": {
@@ -4660,6 +4967,7 @@ export function loadData(): Places {
         "activities": ["kruhové tréninky"]
       },
       {
+        "id": 0,
         "name": "EXPRESKA Praha Pankrác",
         "url": "https://www.activepass.cz/partner/expreska-praha-pankrac",
         "address": {
@@ -4670,6 +4978,7 @@ export function loadData(): Places {
         "activities": ["kruhové tréninky"]
       },
       {
+        "id": 0,
         "name": "Expreska Radotín",
         "url": "https://www.activepass.cz/partner/expreska-radotin",
         "address": {
@@ -4680,6 +4989,7 @@ export function loadData(): Places {
         "activities": ["kruhové tréninky"]
       },
       {
+        "id": 0,
         "name": "EXTRIFIT GYM JABLONEC NAD NISOU",
         "url": "https://www.activepass.cz/partner/extrifit-gym-jablonec-nad-nisou",
         "address": {
@@ -4697,6 +5007,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "F4F - Fit 4 fun v Plzni",
         "url": "https://www.activepass.cz/partner/f4f-fit-4-fun-v-plzni",
         "address": {
@@ -4719,6 +5030,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Factory Fitcentrum Duchcov",
         "url": "https://www.activepass.cz/partner/factory-fitcentrum-duchcov",
         "address": {
@@ -4740,6 +5052,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Factory Pro Hradčanská",
         "url": "https://www.activepass.cz/partner/factory-pro-hradcanska",
         "address": {
@@ -4750,6 +5063,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna"]
       },
       {
+        "id": 0,
         "name": "Factory Pro Smíchovské nádraží",
         "url": "https://www.activepass.cz/partner/factory-pro-smichovske-nadrazi",
         "address": {
@@ -4772,6 +5086,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Falcon fitness",
         "url": "https://www.activepass.cz/partner/falcon-fitness",
         "address": {
@@ -4782,6 +5097,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Family gym",
         "url": "https://www.activepass.cz/partner/family-gym",
         "address": {
@@ -4797,6 +5113,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fanatic gym",
         "url": "https://www.activepass.cz/partner/fanatic-gym",
         "address": {
@@ -4807,6 +5124,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Fatima dance a fitness",
         "url": "https://www.activepass.cz/partner/fatima-dance-a-fitness",
         "address": {
@@ -4860,6 +5178,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fatima Dance a Fitness Hrabůvka",
         "url": "https://www.activepass.cz/partner/fatima-dance-a-fitness-hrabuvka",
         "address": {
@@ -4895,6 +5214,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fatima Dance a Fitness Ostrava",
         "url": "https://www.activepass.cz/partner/fatima-dance-a-fitness-ostrava",
         "address": {
@@ -4930,6 +5250,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FCF Fontána Fitness",
         "url": "https://www.activepass.cz/partner/fcf-fontana-fitness",
         "address": {
@@ -4949,6 +5270,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FEEL REAL Chomutov",
         "url": "https://www.activepass.cz/partner/feel-real-chomutov",
         "address": {
@@ -4959,6 +5281,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Fiala´s Gym",
         "url": "https://www.activepass.cz/partner/fiala-s-gym",
         "address": {
@@ -4984,6 +5307,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fight Club",
         "url": "https://www.activepass.cz/partner/fight-club",
         "address": {
@@ -5027,6 +5351,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fightclub Brno",
         "url": "https://www.activepass.cz/partner/fightclub-brno",
         "address": {
@@ -5051,6 +5376,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FINO CLUB",
         "url": "https://www.activepass.cz/partner/fino-club",
         "address": {
@@ -5061,6 +5387,7 @@ export function loadData(): Places {
         "activities": ["tenis", "squash", "kuželky"]
       },
       {
+        "id": 0,
         "name": "Finská sauna města Kladna",
         "url": "https://www.activepass.cz/partner/finska-sauna-mesta-kladna",
         "address": {
@@ -5071,6 +5398,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "FirstStep fitness s.r.o.",
         "url": "https://www.activepass.cz/partner/firststep-fitness-s-r-o",
         "address": {
@@ -5081,6 +5409,7 @@ export function loadData(): Places {
         "activities": ["fitness", "kardiozóna", "posilovna"]
       },
       {
+        "id": 0,
         "name": "FIT & SLIM STUDIO",
         "url": "https://www.activepass.cz/partner/fit-slim-studio",
         "address": {
@@ -5091,6 +5420,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "FIT - GYM s.r.o.",
         "url": "https://www.activepass.cz/partner/fit-gym-s-r-o",
         "address": {
@@ -5101,6 +5431,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "FIT - SPORT",
         "url": "https://www.activepass.cz/partner/fit-sport",
         "address": {
@@ -5111,6 +5442,7 @@ export function loadData(): Places {
         "activities": ["open class lekce", "fitness"]
       },
       {
+        "id": 0,
         "name": "Fit Angel",
         "url": "https://www.activepass.cz/partner/fit-angel",
         "address": {
@@ -5128,6 +5460,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fit Bike s.r.o.",
         "url": "https://www.activepass.cz/partner/fit-bike-s-r-o",
         "address": {
@@ -5144,6 +5477,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FIT CENTRUM RELAX",
         "url": "https://www.activepass.cz/partner/fit-centrum-relax",
         "address": {
@@ -5154,6 +5488,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Fit club Dream",
         "url": "https://www.activepass.cz/partner/fit-club-dream",
         "address": {
@@ -5164,6 +5499,7 @@ export function loadData(): Places {
         "activities": ["fitness", "kardiozóna", "posilovna"]
       },
       {
+        "id": 0,
         "name": "Fit hany bany",
         "url": "https://www.activepass.cz/partner/fit-hany-bany",
         "address": {
@@ -5185,6 +5521,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fit life 24",
         "url": "https://www.activepass.cz/partner/fit-life-24",
         "address": {
@@ -5195,6 +5532,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Fit life Doubravka",
         "url": "https://www.activepass.cz/partner/fit-life-doubravka",
         "address": {
@@ -5210,6 +5548,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fit Pečky",
         "url": "https://www.activepass.cz/partner/fit-pecky",
         "address": {
@@ -5232,6 +5571,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FIT RELAX LADY",
         "url": "https://www.activepass.cz/partner/fit-relax-lady",
         "address": {
@@ -5268,6 +5608,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FIT SILUET - JABLONEC NAD NISOU",
         "url": "https://www.activepass.cz/partner/fit-siluet-jablonec-nad-nisou",
         "address": {
@@ -5283,6 +5624,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FIT SILUET - LIBEREC",
         "url": "https://www.activepass.cz/partner/fit-siluet-liberec",
         "address": {
@@ -5293,6 +5635,7 @@ export function loadData(): Places {
         "activities": ["pilates", "power jóga – energy jóga"]
       },
       {
+        "id": 0,
         "name": "Fit Studio Jitka",
         "url": "https://www.activepass.cz/partner/fit-studio-jitka",
         "address": {
@@ -5321,6 +5664,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FIT STUDIO Kolovraty",
         "url": "https://www.activepass.cz/partner/fit-studio-kolovraty",
         "address": {
@@ -5331,6 +5675,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Fit studio RB",
         "url": "https://www.activepass.cz/partner/fit-studio-rb",
         "address": {
@@ -5362,6 +5707,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fit studio Slavkov",
         "url": "https://www.activepass.cz/partner/fit-studio-slavkov",
         "address": {
@@ -5386,6 +5732,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FIT STUDIO VENUŠE",
         "url": "https://www.activepass.cz/partner/fit-studio-venuse",
         "address": {
@@ -5414,6 +5761,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FIT TIME",
         "url": "https://www.activepass.cz/partner/fit-time",
         "address": {
@@ -5486,6 +5834,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FIT ŽENY UHŘÍNĚVES",
         "url": "https://www.activepass.cz/partner/fit-zeny-uhrineves",
         "address": {
@@ -5496,6 +5845,7 @@ export function loadData(): Places {
         "activities": ["kruhové tréninky"]
       },
       {
+        "id": 0,
         "name": "FIT&FUN Studio Ostrava",
         "url": "https://www.activepass.cz/partner/fit-fun-studio-ostrava",
         "address": {
@@ -5506,6 +5856,7 @@ export function loadData(): Places {
         "activities": ["pilates"]
       },
       {
+        "id": 0,
         "name": "Fit-ko",
         "url": "https://www.activepass.cz/partner/fit-ko",
         "address": {
@@ -5536,6 +5887,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fit-Marathon",
         "url": "https://www.activepass.cz/partner/fit-marathon",
         "address": {
@@ -5554,6 +5906,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fit-point",
         "url": "https://www.activepass.cz/partner/fit-point",
         "address": {
@@ -5577,6 +5930,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fit4all",
         "url": "https://www.activepass.cz/partner/fit4all",
         "address": {
@@ -5602,6 +5956,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fit4fun",
         "url": "https://www.activepass.cz/partner/fit4fun",
         "address": {
@@ -5624,6 +5979,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fit4fun - Flošna",
         "url": "https://www.activepass.cz/partner/fit4fun-flosna",
         "address": {
@@ -5640,6 +5996,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fit4Fun Tišnov",
         "url": "https://www.activepass.cz/partner/fit4fun-tisnov",
         "address": {
@@ -5668,6 +6025,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FITANO club",
         "url": "https://www.activepass.cz/partner/fitano-club",
         "address": {
@@ -5692,6 +6050,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FITANO club - SUNDARA",
         "url": "https://www.activepass.cz/partner/fitano-club-sundara",
         "address": {
@@ -5707,6 +6066,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitcentrum Assen",
         "url": "https://www.activepass.cz/partner/fitcentrum-assen",
         "address": {
@@ -5727,6 +6087,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitcentrum Dragon",
         "url": "https://www.activepass.cz/partner/fitcentrum-dragon",
         "address": {
@@ -5737,6 +6098,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "Fitcentrum Fit plus Relax",
         "url": "https://www.activepass.cz/partner/fitcentrum-fit-plus-relax",
         "address": {
@@ -5754,6 +6116,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitcentrum Maximus",
         "url": "https://www.activepass.cz/partner/fitcentrum-maximus",
         "address": {
@@ -5764,6 +6127,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "Fitcentrum Na Tribuně",
         "url": "https://www.activepass.cz/partner/fitcentrum-na-tribune",
         "address": {
@@ -5783,6 +6147,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FITCENTRUM Podlesí",
         "url": "https://www.activepass.cz/partner/fitcentrum-podlesi",
         "address": {
@@ -5799,6 +6164,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitcentrum Proměny",
         "url": "https://www.activepass.cz/partner/fitcentrum-promeny",
         "address": {
@@ -5824,6 +6190,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FITIMO",
         "url": "https://www.activepass.cz/partner/fitimo",
         "address": {
@@ -5834,6 +6201,7 @@ export function loadData(): Places {
         "activities": ["kruhové tréninky"]
       },
       {
+        "id": 0,
         "name": "Fitklub 1155",
         "url": "https://www.activepass.cz/partner/fitklub-1155",
         "address": {
@@ -5844,6 +6212,7 @@ export function loadData(): Places {
         "activities": ["fitness", "kardiozóna", "posilovna"]
       },
       {
+        "id": 0,
         "name": "Fitko Dobšice",
         "url": "https://www.activepass.cz/partner/fitko-dobsice",
         "address": {
@@ -5854,6 +6223,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Fitko Eden",
         "url": "https://www.activepass.cz/partner/fitko-eden",
         "address": {
@@ -5883,6 +6253,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitko Jeseník",
         "url": "https://www.activepass.cz/partner/fitko-jesenik",
         "address": {
@@ -5911,6 +6282,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitko Kameňák",
         "url": "https://www.activepass.cz/partner/fitko-kamenak",
         "address": {
@@ -5935,6 +6307,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitko Potírna",
         "url": "https://www.activepass.cz/partner/fitko-potirna",
         "address": {
@@ -5959,6 +6332,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitko Václavák",
         "url": "https://www.activepass.cz/partner/fitko-vaclavak",
         "address": {
@@ -5984,6 +6358,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitko Ždírec nad Doubravou - Alena Lexová",
         "url": "https://www.activepass.cz/partner/fitko-zdirec-nad-doubravou-alena-lexova",
         "address": {
@@ -5999,6 +6374,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitko Ždírec nad Doubravou - Aleš Pešek",
         "url": "https://www.activepass.cz/partner/fitko-zdirec-nad-doubravou-ales-pesek",
         "address": {
@@ -6016,6 +6392,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitland",
         "url": "https://www.activepass.cz/partner/fitland",
         "address": {
@@ -6026,6 +6403,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Fitneska Ústí nad Labem",
         "url": "https://www.activepass.cz/partner/fitneska-usti-nad-labem",
         "address": {
@@ -6043,6 +6421,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness & Health Club Malešice",
         "url": "https://www.activepass.cz/partner/fitness-health-club-malesice",
         "address": {
@@ -6062,6 +6441,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness & wellness Hať",
         "url": "https://www.activepass.cz/partner/fitness-wellness-hat",
         "address": {
@@ -6077,6 +6457,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness - star",
         "url": "https://www.activepass.cz/partner/fitness-star",
         "address": {
@@ -6098,6 +6479,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness - Troja",
         "url": "https://www.activepass.cz/partner/fitness-troja",
         "address": {
@@ -6113,6 +6495,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness 14",
         "url": "https://www.activepass.cz/partner/fitness-14",
         "address": {
@@ -6155,6 +6538,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness 2000",
         "url": "https://www.activepass.cz/partner/fitness-2000",
         "address": {
@@ -6165,6 +6549,7 @@ export function loadData(): Places {
         "activities": ["fitness", "kardiozóna", "posilovna"]
       },
       {
+        "id": 0,
         "name": "Fitness 3000",
         "url": "https://www.activepass.cz/partner/fitness-3000",
         "address": {
@@ -6183,6 +6568,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FITNESS 77",
         "url": "https://www.activepass.cz/partner/fitness-77",
         "address": {
@@ -6193,6 +6579,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Fitness AM",
         "url": "https://www.activepass.cz/partner/fitness-am",
         "address": {
@@ -6203,6 +6590,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna"]
       },
       {
+        "id": 0,
         "name": "Fitness Angelo",
         "url": "https://www.activepass.cz/partner/fitness-angelo",
         "address": {
@@ -6213,6 +6601,7 @@ export function loadData(): Places {
         "activities": ["fitness", "sauna"]
       },
       {
+        "id": 0,
         "name": "Fitness aréna - centrum zdravého pohybu",
         "url": "https://www.activepass.cz/partner/fitness-arena-centrum-zdraveho-pohybu",
         "address": {
@@ -6248,6 +6637,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FITNESS AVE",
         "url": "https://www.activepass.cz/partner/fitness-ave",
         "address": {
@@ -6271,6 +6661,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness B.F.C.",
         "url": "https://www.activepass.cz/partner/fitness-b-f-c",
         "address": {
@@ -6281,6 +6672,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "Fitness Balance",
         "url": "https://www.activepass.cz/partner/fitness-balance",
         "address": {
@@ -6302,6 +6694,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness Bitevní pole",
         "url": "https://www.activepass.cz/partner/fitness-bitevni-pole",
         "address": {
@@ -6328,6 +6721,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness Blue Gym - Posilovna",
         "url": "https://www.activepass.cz/partner/fitness-blue-gym-posilovna",
         "address": {
@@ -6360,6 +6754,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness Boby",
         "url": "https://www.activepass.cz/partner/fitness-boby",
         "address": {
@@ -6370,6 +6765,7 @@ export function loadData(): Places {
         "activities": ["fitness", "kardiozóna", "posilovna"]
       },
       {
+        "id": 0,
         "name": "Fitness body active",
         "url": "https://www.activepass.cz/partner/fitness-body-active",
         "address": {
@@ -6380,6 +6776,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "Fitness Bunkr",
         "url": "https://www.activepass.cz/partner/fitness-bunkr",
         "address": {
@@ -6390,6 +6787,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Fitness Centrum ALICE",
         "url": "https://www.activepass.cz/partner/fitness-centrum-alice",
         "address": {
@@ -6400,6 +6798,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "Fitness centrum Čáslav",
         "url": "https://www.activepass.cz/partner/fitness-centrum-caslav",
         "address": {
@@ -6415,6 +6814,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness centrum Fitmexx",
         "url": "https://www.activepass.cz/partner/fitness-centrum-fitmexx",
         "address": {
@@ -6425,6 +6825,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Fitness centrum Flora",
         "url": "https://www.activepass.cz/partner/fitness-centrum-flora",
         "address": {
@@ -6446,6 +6847,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness centrum Gymbip",
         "url": "https://www.activepass.cz/partner/fitness-centrum-gymbip",
         "address": {
@@ -6456,6 +6858,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "Fitness centrum H-Fitness",
         "url": "https://www.activepass.cz/partner/fitness-centrum-h-fitness",
         "address": {
@@ -6466,6 +6869,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Fitness centrum Kutná Hora",
         "url": "https://www.activepass.cz/partner/fitness-centrum-kutna-hora",
         "address": {
@@ -6476,6 +6880,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Fitness Centrum Lípa",
         "url": "https://www.activepass.cz/partner/fitness-centrum-lipa",
         "address": {
@@ -6486,6 +6891,7 @@ export function loadData(): Places {
         "activities": ["fitness", "kardiozóna", "posilovna"]
       },
       {
+        "id": 0,
         "name": "Fitness centrum MK",
         "url": "https://www.activepass.cz/partner/fitness-centrum-mk",
         "address": {
@@ -6496,6 +6902,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Fitness centrum Na \"Konečné\"",
         "url": "https://www.activepass.cz/partner/fitness-centrum-na-konecne",
         "address": {
@@ -6506,6 +6913,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Fitness centrum sportovní hala",
         "url": "https://www.activepass.cz/partner/fitness-centrum-sportovni-hala",
         "address": {
@@ -6516,6 +6924,7 @@ export function loadData(): Places {
         "activities": ["fitness", "kardiozóna", "posilovna"]
       },
       {
+        "id": 0,
         "name": "Fitness centrum Switching",
         "url": "https://www.activepass.cz/partner/fitness-centrum-switching",
         "address": {
@@ -6526,6 +6935,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "FITNESS CENTRUM U KOSTELA",
         "url": "https://www.activepass.cz/partner/fitness-centrum-u-kostela",
         "address": {
@@ -6551,6 +6961,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness centrum Velký průvan",
         "url": "https://www.activepass.cz/partner/fitness-centrum-velky-pruvan",
         "address": {
@@ -6561,6 +6972,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "FITNESS CITY",
         "url": "https://www.activepass.cz/partner/fitness-city",
         "address": {
@@ -6587,6 +6999,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness club",
         "url": "https://www.activepass.cz/partner/fitness-club",
         "address": {
@@ -6613,6 +7026,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness club Kolín",
         "url": "https://www.activepass.cz/partner/fitness-club-kolin",
         "address": {
@@ -6623,6 +7037,7 @@ export function loadData(): Places {
         "activities": ["fitness", "kardiozóna", "posilovna"]
       },
       {
+        "id": 0,
         "name": "FITNESS CLUB LUKY",
         "url": "https://www.activepass.cz/partner/fitness-club-luky",
         "address": {
@@ -6638,6 +7053,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness club No. 32",
         "url": "https://www.activepass.cz/partner/fitness-club-no-32",
         "address": {
@@ -6653,6 +7069,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness club Řepy",
         "url": "https://www.activepass.cz/partner/fitness-club-repy",
         "address": {
@@ -6678,6 +7095,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness Club Start",
         "url": "https://www.activepass.cz/partner/fitness-club-start",
         "address": {
@@ -6688,6 +7106,7 @@ export function loadData(): Places {
         "activities": ["fitness", "kardiozóna", "posilovna"]
       },
       {
+        "id": 0,
         "name": "Fitness club Šternberk",
         "url": "https://www.activepass.cz/partner/fitness-club-sternberk",
         "address": {
@@ -6698,6 +7117,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Fitness Corso",
         "url": "https://www.activepass.cz/partner/fitness-corso",
         "address": {
@@ -6713,6 +7133,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness Factory Olomouc",
         "url": "https://www.activepass.cz/partner/fitness-factory-olomouc",
         "address": {
@@ -6723,6 +7144,7 @@ export function loadData(): Places {
         "activities": ["fitness", "kardiozóna", "posilovna"]
       },
       {
+        "id": 0,
         "name": "Fitness FitPeople Bedřichov",
         "url": "https://www.activepass.cz/partner/fitness-fitpeople-bedrichov",
         "address": {
@@ -6744,6 +7166,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness FitPeople Billa",
         "url": "https://www.activepass.cz/partner/fitness-fitpeople-billa",
         "address": {
@@ -6754,6 +7177,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Fitness FitPeople Modřice",
         "url": "https://www.activepass.cz/partner/fitness-fitpeople-modrice",
         "address": {
@@ -6775,6 +7199,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness Fontána",
         "url": "https://www.activepass.cz/partner/fitness-fontana",
         "address": {
@@ -6791,6 +7216,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FITNESS FOR JOY",
         "url": "https://www.activepass.cz/partner/fitness-for-joy",
         "address": {
@@ -6807,6 +7233,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness Galerie",
         "url": "https://www.activepass.cz/partner/fitness-galerie",
         "address": {
@@ -6821,6 +7248,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness Gottvald",
         "url": "https://www.activepass.cz/partner/fitness-gottvald",
         "address": {
@@ -6831,6 +7259,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Fitness gym Neředín",
         "url": "https://www.activepass.cz/partner/fitness-gym-neredin",
         "address": {
@@ -6846,6 +7275,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness Hala",
         "url": "https://www.activepass.cz/partner/fitness-hala",
         "address": {
@@ -6856,6 +7286,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Fitness Hulk Plzeň",
         "url": "https://www.activepass.cz/partner/fitness-hulk-plzen",
         "address": {
@@ -6866,6 +7297,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "Fitness Institut",
         "url": "https://www.activepass.cz/partner/fitness-institut",
         "address": {
@@ -6876,6 +7308,7 @@ export function loadData(): Places {
         "activities": ["fitness", "in body měření"]
       },
       {
+        "id": 0,
         "name": "Fitness K.B.",
         "url": "https://www.activepass.cz/partner/fitness-k-b",
         "address": {
@@ -6891,6 +7324,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness Klánovice",
         "url": "https://www.activepass.cz/partner/fitness-klanovice",
         "address": {
@@ -6927,6 +7361,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness klub Filip",
         "url": "https://www.activepass.cz/partner/fitness-klub-filip",
         "address": {
@@ -6945,6 +7380,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness Kulaťák",
         "url": "https://www.activepass.cz/partner/fitness-kulatak",
         "address": {
@@ -6963,6 +7399,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness Lhotka",
         "url": "https://www.activepass.cz/partner/fitness-lhotka",
         "address": {
@@ -6980,6 +7417,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness Luka",
         "url": "https://www.activepass.cz/partner/fitness-luka",
         "address": {
@@ -6996,6 +7434,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness Lužiny",
         "url": "https://www.activepass.cz/partner/fitness-luziny",
         "address": {
@@ -7006,6 +7445,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "Fitness Mallorca",
         "url": "https://www.activepass.cz/partner/fitness-mallorca",
         "address": {
@@ -7016,6 +7456,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna"]
       },
       {
+        "id": 0,
         "name": "Fitness Maxi",
         "url": "https://www.activepass.cz/partner/fitness-maxi",
         "address": {
@@ -7041,6 +7482,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness Motivace",
         "url": "https://www.activepass.cz/partner/fitness-motivace",
         "address": {
@@ -7056,6 +7498,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness Motivace",
         "url": "https://www.activepass.cz/partner/fitness-motivace-1",
         "address": {
@@ -7071,6 +7514,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness Muay-Thai",
         "url": "https://www.activepass.cz/partner/fitness-muay-thai",
         "address": {
@@ -7090,6 +7534,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FITNESS Nový Svit",
         "url": "https://www.activepass.cz/partner/fitness-novy-svit",
         "address": {
@@ -7100,6 +7545,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Fitness Páv",
         "url": "https://www.activepass.cz/partner/fitness-pav",
         "address": {
@@ -7110,6 +7556,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "FITNESS PEPA",
         "url": "https://www.activepass.cz/partner/fitness-pepa",
         "address": {
@@ -7125,6 +7572,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FITNESS PODBABA",
         "url": "https://www.activepass.cz/partner/fitness-podbaba",
         "address": {
@@ -7141,6 +7589,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness POUZAR",
         "url": "https://www.activepass.cz/partner/fitness-pouzar",
         "address": {
@@ -7166,6 +7615,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness pro radost",
         "url": "https://www.activepass.cz/partner/fitness-pro-radost",
         "address": {
@@ -7183,6 +7633,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness R.A.P. Factory",
         "url": "https://www.activepass.cz/partner/fitness-r-a-p-factory",
         "address": {
@@ -7210,6 +7661,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness Radotín",
         "url": "https://www.activepass.cz/partner/fitness-radotin",
         "address": {
@@ -7229,6 +7681,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness Riverside",
         "url": "https://www.activepass.cz/partner/fitness-riverside",
         "address": {
@@ -7255,6 +7708,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness Ronnie.cz",
         "url": "https://www.activepass.cz/partner/fitness-ronnie-cz",
         "address": {
@@ -7265,6 +7719,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "Fitness Siesta",
         "url": "https://www.activepass.cz/partner/fitness-siesta",
         "address": {
@@ -7281,6 +7736,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness Slavia",
         "url": "https://www.activepass.cz/partner/fitness-slavia",
         "address": {
@@ -7300,6 +7756,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness Slunce",
         "url": "https://www.activepass.cz/partner/fitness-slunce",
         "address": {
@@ -7325,6 +7782,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness Sokolovna",
         "url": "https://www.activepass.cz/partner/fitness-sokolovna",
         "address": {
@@ -7335,6 +7793,7 @@ export function loadData(): Places {
         "activities": ["fitness", "kardiozóna", "posilovna"]
       },
       {
+        "id": 0,
         "name": "Fitness Solarium Malešice",
         "url": "https://www.activepass.cz/partner/fitness-solarium-malesice",
         "address": {
@@ -7362,6 +7821,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness Station",
         "url": "https://www.activepass.cz/partner/fitness-station",
         "address": {
@@ -7372,6 +7832,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Fitness studio B",
         "url": "https://www.activepass.cz/partner/fitness-studio-b",
         "address": {
@@ -7391,6 +7852,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness studio Beseda",
         "url": "https://www.activepass.cz/partner/fitness-studio-beseda",
         "address": {
@@ -7414,6 +7876,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness studio Hofmannovi - Louny",
         "url": "https://www.activepass.cz/partner/fitness-studio-hofmannovi-louny",
         "address": {
@@ -7429,6 +7892,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness studio L",
         "url": "https://www.activepass.cz/partner/fitness-studio-l",
         "address": {
@@ -7447,6 +7911,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness Svět pod Palmovkou",
         "url": "https://www.activepass.cz/partner/fitness-svet-pod-palmovkou",
         "address": {
@@ -7481,6 +7946,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness Thor Plzeň",
         "url": "https://www.activepass.cz/partner/fitness-thor-plzen",
         "address": {
@@ -7491,6 +7957,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "Fitness U Pešků",
         "url": "https://www.activepass.cz/partner/fitness-u-pesku",
         "address": {
@@ -7501,6 +7968,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Fitness u Pilnáčka",
         "url": "https://www.activepass.cz/partner/fitness-u-pilnacka",
         "address": {
@@ -7511,6 +7979,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Fitness Vagon",
         "url": "https://www.activepass.cz/partner/fitness-vagon",
         "address": {
@@ -7532,6 +8001,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitness Victory",
         "url": "https://www.activepass.cz/partner/fitness-victory",
         "address": {
@@ -7552,6 +8022,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FITNESS VIOLETA",
         "url": "https://www.activepass.cz/partner/fitness-violeta",
         "address": {
@@ -7577,6 +8048,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FitnessAction s.r.o.",
         "url": "https://www.activepass.cz/partner/fitnessaction-s-r-o",
         "address": {
@@ -7592,6 +8064,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FitnessRelax",
         "url": "https://www.activepass.cz/partner/fitnessrelax",
         "address": {
@@ -7608,6 +8081,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fitnesss centrum Malý průvan",
         "url": "https://www.activepass.cz/partner/fitnesss-centrum-maly-pruvan",
         "address": {
@@ -7618,6 +8092,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "Fitpark U Splavu",
         "url": "https://www.activepass.cz/partner/fitpark-u-splavu",
         "address": {
@@ -7635,6 +8110,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FITPLACE",
         "url": "https://www.activepass.cz/partner/fitplace",
         "address": {
@@ -7653,6 +8129,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FitPULS",
         "url": "https://www.activepass.cz/partner/fitpuls",
         "address": {
@@ -7672,6 +8149,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FitShape",
         "url": "https://www.activepass.cz/partner/fitshape",
         "address": {
@@ -7682,6 +8160,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "FITSTAR FITNESS KLUB",
         "url": "https://www.activepass.cz/partner/fitstar-fitness-klub",
         "address": {
@@ -7692,6 +8171,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Fitstudio Stodola",
         "url": "https://www.activepass.cz/partner/fitstudio-stodola",
         "address": {
@@ -7715,6 +8195,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FitStyle",
         "url": "https://www.activepass.cz/partner/fitstyle",
         "address": {
@@ -7737,6 +8218,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fittop fitness&spa",
         "url": "https://www.activepass.cz/partner/fittop-fitness-spa",
         "address": {
@@ -7765,6 +8247,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FittSport",
         "url": "https://www.activepass.cz/partner/fittsport",
         "address": {
@@ -7805,6 +8288,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Flash Wall",
         "url": "https://www.activepass.cz/partner/flash-wall",
         "address": {
@@ -7815,6 +8299,7 @@ export function loadData(): Places {
         "activities": ["boulderové stěny", "lezecké stěny"]
       },
       {
+        "id": 0,
         "name": "Flema studio",
         "url": "https://www.activepass.cz/partner/flema-studio",
         "address": {
@@ -7835,6 +8320,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Flex- Fitness",
         "url": "https://www.activepass.cz/partner/flex-fitness",
         "address": {
@@ -7874,6 +8360,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fly Zone Park",
         "url": "https://www.activepass.cz/partner/fly-zone-park",
         "address": {
@@ -7884,6 +8371,7 @@ export function loadData(): Places {
         "activities": ["jump parky"]
       },
       {
+        "id": 0,
         "name": "Fotbalpark Liberec",
         "url": "https://www.activepass.cz/partner/fotbalpark-liberec",
         "address": {
@@ -7894,6 +8382,7 @@ export function loadData(): Places {
         "activities": ["fotbalgolf"]
       },
       {
+        "id": 0,
         "name": "Fox Gym",
         "url": "https://www.activepass.cz/partner/fox-gym-1",
         "address": {
@@ -7910,6 +8399,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fox Gym",
         "url": "https://www.activepass.cz/partner/fox-gym",
         "address": {
@@ -7931,6 +8421,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FreshBořislavka",
         "url": "https://www.activepass.cz/partner/freshborislavka",
         "address": {
@@ -7941,6 +8432,7 @@ export function loadData(): Places {
         "activities": ["kruhové tréninky"]
       },
       {
+        "id": 0,
         "name": "FreshHarfa",
         "url": "https://www.activepass.cz/partner/freshharfa",
         "address": {
@@ -7951,6 +8443,7 @@ export function loadData(): Places {
         "activities": ["kruhové tréninky"]
       },
       {
+        "id": 0,
         "name": "FRESHKRUHÁČ SPOŘILOV",
         "url": "https://www.activepass.cz/partner/freshkruhac-sporilov",
         "address": {
@@ -7961,6 +8454,7 @@ export function loadData(): Places {
         "activities": ["fitness", "kruhové tréninky"]
       },
       {
+        "id": 0,
         "name": "Friends fitness",
         "url": "https://www.activepass.cz/partner/friends-fitness",
         "address": {
@@ -7990,6 +8484,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FUBO GYM No.1",
         "url": "https://www.activepass.cz/partner/fubo-gym-no-1",
         "address": {
@@ -8007,6 +8502,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Fun Family Fitness",
         "url": "https://www.activepass.cz/partner/fun-family-fitness",
         "address": {
@@ -8024,6 +8520,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Funarena",
         "url": "https://www.activepass.cz/partner/funarena",
         "address": {
@@ -8034,6 +8531,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Funatic club",
         "url": "https://www.activepass.cz/partner/funatic-club",
         "address": {
@@ -8064,6 +8562,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "FUNGOLF",
         "url": "https://www.activepass.cz/partner/fungolf",
         "address": {
@@ -8078,6 +8577,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Funkční fitko",
         "url": "https://www.activepass.cz/partner/funkcni-fitko",
         "address": {
@@ -8095,6 +8595,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Funpark Panda",
         "url": "https://www.activepass.cz/partner/funpark-panda",
         "address": {
@@ -8105,6 +8606,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "G-Fit",
         "url": "https://www.activepass.cz/partner/g-fit",
         "address": {
@@ -8115,6 +8617,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Galaxie sportovní a relaxační centrum",
         "url": "https://www.activepass.cz/partner/galaxie-sportovni-a-relaxacni-centrum",
         "address": {
@@ -8138,6 +8641,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "GLADIATORS ZONE",
         "url": "https://www.activepass.cz/partner/gladiators-zone",
         "address": {
@@ -8148,6 +8652,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "GLADORK Gym",
         "url": "https://www.activepass.cz/partner/gladork-gym",
         "address": {
@@ -8186,6 +8691,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Golf Adventure Kersko",
         "url": "https://www.activepass.cz/partner/golf-adventure-kersko",
         "address": {
@@ -8196,6 +8702,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Golf and Games",
         "url": "https://www.activepass.cz/partner/golf-and-games",
         "address": {
@@ -8206,6 +8713,7 @@ export function loadData(): Places {
         "activities": ["minigolf"]
       },
       {
+        "id": 0,
         "name": "Golf Club Hodkovičky",
         "url": "https://www.activepass.cz/partner/golf-club-hodkovicky",
         "address": {
@@ -8216,6 +8724,7 @@ export function loadData(): Places {
         "activities": ["golfové odpaliště"]
       },
       {
+        "id": 0,
         "name": "Golf Hostivař",
         "url": "https://www.activepass.cz/partner/golf-hostivar",
         "address": {
@@ -8226,6 +8735,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Golf resort Lázně Bohdaneč - půjčovna",
         "url": "https://www.activepass.cz/partner/golf-resort-lazne-bohdanec-pujcovna",
         "address": {
@@ -8236,6 +8746,7 @@ export function loadData(): Places {
         "activities": ["půjčovna koloběžek", "paddleboard"]
       },
       {
+        "id": 0,
         "name": "GOODFELLAS CROSSFIT LIBEREC",
         "url": "https://www.activepass.cz/partner/goodfellas-crossfit-liberec",
         "address": {
@@ -8253,6 +8764,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Greenpark",
         "url": "https://www.activepass.cz/partner/greenpark",
         "address": {
@@ -8263,6 +8775,7 @@ export function loadData(): Places {
         "activities": ["tenis"]
       },
       {
+        "id": 0,
         "name": "GYM & JOY",
         "url": "https://www.activepass.cz/partner/gym-joy",
         "address": {
@@ -8286,6 +8799,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "GYM BARRANDOV",
         "url": "https://www.activepass.cz/partner/gym-barrandov",
         "address": {
@@ -8311,6 +8825,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Gym Blue Sun",
         "url": "https://www.activepass.cz/partner/gym-blue-sun",
         "address": {
@@ -8334,6 +8849,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Gym Café",
         "url": "https://www.activepass.cz/partner/gym-cafe",
         "address": {
@@ -8344,6 +8860,7 @@ export function loadData(): Places {
         "activities": ["fitness", "kardiozóna", "posilovna"]
       },
       {
+        "id": 0,
         "name": "GYM CORNICULA",
         "url": "https://www.activepass.cz/partner/gym-cornicula",
         "address": {
@@ -8354,6 +8871,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "GYM Ladies Studio",
         "url": "https://www.activepass.cz/partner/gym-ladies-studio",
         "address": {
@@ -8364,6 +8882,7 @@ export function loadData(): Places {
         "activities": ["crosstraining"]
       },
       {
+        "id": 0,
         "name": "Gym Napajedla",
         "url": "https://www.activepass.cz/partner/gym-napajedla",
         "address": {
@@ -8382,6 +8901,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Gym Palcát",
         "url": "https://www.activepass.cz/partner/gym-palcat",
         "address": {
@@ -8405,6 +8925,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "GYM PARK CHODOV",
         "url": "https://www.activepass.cz/partner/gym-park-chodov",
         "address": {
@@ -8415,6 +8936,7 @@ export function loadData(): Places {
         "activities": ["kruhové tréninky", "fitness", "sauna"]
       },
       {
+        "id": 0,
         "name": "Gym-Fit Krupka",
         "url": "https://www.activepass.cz/partner/gym-fit-krupka",
         "address": {
@@ -8433,6 +8955,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "H - Centrum",
         "url": "https://www.activepass.cz/partner/h-centrum",
         "address": {
@@ -8474,6 +8997,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "H.E.A.T. centrum Jablonec",
         "url": "https://www.activepass.cz/partner/h-e-a-t-centrum-jablonec",
         "address": {
@@ -8484,6 +9008,7 @@ export function loadData(): Places {
         "activities": ["jóga", "trx", "tabata", "h.e.a.t."]
       },
       {
+        "id": 0,
         "name": "H.E.A.T. Centrum Kladno",
         "url": "https://www.activepass.cz/partner/h-e-a-t-centrum-kladno",
         "address": {
@@ -8494,6 +9019,7 @@ export function loadData(): Places {
         "activities": ["trx", "h.e.a.t."]
       },
       {
+        "id": 0,
         "name": "H.E.A.T. centrum Litoměřice",
         "url": "https://www.activepass.cz/partner/h-e-a-t-centrum-litomerice",
         "address": {
@@ -8504,6 +9030,7 @@ export function loadData(): Places {
         "activities": ["h.e.a.t."]
       },
       {
+        "id": 0,
         "name": "H.E.A.T. Liberec",
         "url": "https://www.activepass.cz/partner/h-e-a-t-liberec",
         "address": {
@@ -8514,6 +9041,7 @@ export function loadData(): Places {
         "activities": ["h.e.a.t."]
       },
       {
+        "id": 0,
         "name": "H.E.A.T. Vanilka",
         "url": "https://www.activepass.cz/partner/h-e-a-t-vanilka",
         "address": {
@@ -8524,6 +9052,7 @@ export function loadData(): Places {
         "activities": ["h.e.a.t."]
       },
       {
+        "id": 0,
         "name": "Hadovka Health & Fitness",
         "url": "https://www.activepass.cz/partner/hadovka-health-fitness",
         "address": {
@@ -8546,6 +9075,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Hammer Strength Fitness – pobočka Sparta",
         "url": "https://www.activepass.cz/partner/hammer-strength-fitness-pobocka-sparta",
         "address": {
@@ -8567,6 +9097,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "HANGAR LEZECKÉ CENTRUM BRNO",
         "url": "https://www.activepass.cz/partner/hangar-lezecke-centrum-brno",
         "address": {
@@ -8577,6 +9108,7 @@ export function loadData(): Places {
         "activities": ["boulderové stěny", "lezecké stěny"]
       },
       {
+        "id": 0,
         "name": "Haniel",
         "url": "https://www.activepass.cz/partner/haniel",
         "address": {
@@ -8594,6 +9126,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Hara Gym",
         "url": "https://www.activepass.cz/partner/hara-gym",
         "address": {
@@ -8623,6 +9156,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Hard Core Gym",
         "url": "https://www.activepass.cz/partner/hard-core-gym",
         "address": {
@@ -8633,6 +9167,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "HARLEQUIN PRAHA",
         "url": "https://www.activepass.cz/partner/harlequin-praha",
         "address": {
@@ -8647,6 +9182,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "HARMONIE ŘÍČANY",
         "url": "https://www.activepass.cz/partner/harmonie-ricany",
         "address": {
@@ -8676,6 +9212,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Harmony Body",
         "url": "https://www.activepass.cz/partner/harmony-body",
         "address": {
@@ -8699,6 +9236,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Harmony Wellness club",
         "url": "https://www.activepass.cz/partner/harmony-wellness-club",
         "address": {
@@ -8757,6 +9295,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "HB FIT STUDIO",
         "url": "https://www.activepass.cz/partner/hb-fit-studio",
         "address": {
@@ -8774,6 +9313,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Health Park",
         "url": "https://www.activepass.cz/partner/health-park",
         "address": {
@@ -8798,6 +9338,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Heat Praha",
         "url": "https://www.activepass.cz/partner/heat-praha",
         "address": {
@@ -8824,6 +9365,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "HEAT program Kolín",
         "url": "https://www.activepass.cz/partner/heat-program-kolin",
         "address": {
@@ -8834,6 +9376,7 @@ export function loadData(): Places {
         "activities": ["h.e.a.t."]
       },
       {
+        "id": 0,
         "name": "HEAT4YOU",
         "url": "https://www.activepass.cz/partner/heat4you",
         "address": {
@@ -8844,6 +9387,7 @@ export function loadData(): Places {
         "activities": ["h.e.a.t.", "trx"]
       },
       {
+        "id": 0,
         "name": "Heaven gym",
         "url": "https://www.activepass.cz/partner/heaven-gym",
         "address": {
@@ -8869,6 +9413,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "HECTOR SPORT CENTRE",
         "url": "https://www.activepass.cz/partner/hector-sport-centre",
         "address": {
@@ -8886,6 +9431,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Hernička Lumpík",
         "url": "https://www.activepass.cz/partner/hernicka-lumpik",
         "address": {
@@ -8896,6 +9442,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "Hipodrom Most",
         "url": "https://www.activepass.cz/partner/hipodrom-most",
         "address": {
@@ -8906,6 +9453,7 @@ export function loadData(): Places {
         "activities": ["fotbalgolf"]
       },
       {
+        "id": 0,
         "name": "HistoryPark Ledčice",
         "url": "https://www.activepass.cz/partner/historypark-ledcice",
         "address": {
@@ -8916,6 +9464,7 @@ export function loadData(): Places {
         "activities": ["dětské zážitkové parky"]
       },
       {
+        "id": 0,
         "name": "HIT Fitness Flora",
         "url": "https://www.activepass.cz/partner/hit-fitness-flora",
         "address": {
@@ -8955,6 +9504,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "HM GYM",
         "url": "https://www.activepass.cz/partner/hm-gym",
         "address": {
@@ -8965,6 +9515,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Hopsárium Děčín",
         "url": "https://www.activepass.cz/partner/hopsarium-decin",
         "address": {
@@ -8975,6 +9526,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "Hopsárium Lipno",
         "url": "https://www.activepass.cz/partner/hopsarium-lipno",
         "address": {
@@ -8985,6 +9537,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "Hopsárium, České Budějovice",
         "url": "https://www.activepass.cz/partner/hopsarium-ceske-budejovice",
         "address": {
@@ -8995,6 +9548,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "Horácké muzeum",
         "url": "https://www.activepass.cz/partner/horacke-muzeum",
         "address": {
@@ -9005,6 +9559,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Horácký tenisový klub Třebíč",
         "url": "https://www.activepass.cz/partner/horacky-tenisovy-klub-trebic",
         "address": {
@@ -9015,6 +9570,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Horolezecká stěna",
         "url": "https://www.activepass.cz/partner/horolezecka-stena",
         "address": {
@@ -9025,6 +9581,7 @@ export function loadData(): Places {
         "activities": ["boulderové stěny", "lezecké stěny"]
       },
       {
+        "id": 0,
         "name": "Horolezecká stěna Šutr cz",
         "url": "https://www.activepass.cz/partner/horolezecka-stena-sutr-cz",
         "address": {
@@ -9035,6 +9592,7 @@ export function loadData(): Places {
         "activities": ["lezecké stěny"]
       },
       {
+        "id": 0,
         "name": "Hotel Břízky - tenis",
         "url": "https://www.activepass.cz/partner/hotel-brizky-tenis",
         "address": {
@@ -9045,6 +9603,7 @@ export function loadData(): Places {
         "activities": ["badminton", "squash"]
       },
       {
+        "id": 0,
         "name": "Hotel Čechie",
         "url": "https://www.activepass.cz/partner/hotel-cechie",
         "address": {
@@ -9060,6 +9619,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Hotel DUO",
         "url": "https://www.activepass.cz/partner/hotel-duo",
         "address": {
@@ -9077,6 +9637,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Hotel Happy Star",
         "url": "https://www.activepass.cz/partner/hotel-happy-star",
         "address": {
@@ -9095,6 +9656,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Hotel HORAL",
         "url": "https://www.activepass.cz/partner/hotel-horal",
         "address": {
@@ -9105,6 +9667,7 @@ export function loadData(): Places {
         "activities": ["fitness", "plavecký bazén", "tenis"]
       },
       {
+        "id": 0,
         "name": "Hotel Olympionik",
         "url": "https://www.activepass.cz/partner/hotel-olympionik",
         "address": {
@@ -9124,6 +9687,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Hotel Rakovec",
         "url": "https://www.activepass.cz/partner/hotel-rakovec",
         "address": {
@@ -9134,6 +9698,7 @@ export function loadData(): Places {
         "activities": ["bowling"]
       },
       {
+        "id": 0,
         "name": "Hotel Žebetínský dvůr Brno",
         "url": "https://www.activepass.cz/partner/hotel-zebetinsky-dvur-brno",
         "address": {
@@ -9144,6 +9709,7 @@ export function loadData(): Places {
         "activities": ["fotbal 2 na 2"]
       },
       {
+        "id": 0,
         "name": "Hra Dědictví by BrainFAQ",
         "url": "https://www.activepass.cz/partner/hra-dedictvi-by-brainfaq",
         "address": {
@@ -9154,6 +9720,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Hra Kukaččí hnízdo by BrainFAQ",
         "url": "https://www.activepass.cz/partner/hra-kukacci-hnizdo-by-brainfaq",
         "address": {
@@ -9164,6 +9731,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Hrad Sovinec",
         "url": "https://www.activepass.cz/partner/hrad-sovinec",
         "address": {
@@ -9174,6 +9742,7 @@ export function loadData(): Places {
         "activities": ["hrady a zámky"]
       },
       {
+        "id": 0,
         "name": "Hřiště Paintball CB",
         "url": "https://www.activepass.cz/partner/hriste-paintball-cb",
         "address": {
@@ -9184,6 +9753,7 @@ export function loadData(): Places {
         "activities": ["paintball"]
       },
       {
+        "id": 0,
         "name": "HUDLISEK",
         "url": "https://www.activepass.cz/partner/hudlisek",
         "address": {
@@ -9194,6 +9764,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny", "solná jeskyně"]
       },
       {
+        "id": 0,
         "name": "HUDY lezecká stěna Brno",
         "url": "https://www.activepass.cz/partner/hudy-lezecka-stena-brno",
         "address": {
@@ -9204,6 +9775,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "HULK GYM",
         "url": "https://www.activepass.cz/partner/hulk-gym",
         "address": {
@@ -9224,6 +9796,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "ICE ARENA - ŘÍČANY",
         "url": "https://www.activepass.cz/partner/ice-arena-ricany",
         "address": {
@@ -9246,6 +9819,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "ICE ARENA FITNESS",
         "url": "https://www.activepass.cz/partner/ice-arena-fitness",
         "address": {
@@ -9275,6 +9849,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Icerink",
         "url": "https://www.activepass.cz/partner/icerink",
         "address": {
@@ -9292,6 +9867,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Idealfitness",
         "url": "https://www.activepass.cz/partner/idealfitness",
         "address": {
@@ -9302,6 +9878,7 @@ export function loadData(): Places {
         "activities": ["kruhové tréninky"]
       },
       {
+        "id": 0,
         "name": "IFC Pardubice",
         "url": "https://www.activepass.cz/partner/ifc-pardubice",
         "address": {
@@ -9312,6 +9889,7 @@ export function loadData(): Places {
         "activities": ["fitness", "kardiozóna", "posilovna"]
       },
       {
+        "id": 0,
         "name": "IMPAKT Fitness",
         "url": "https://www.activepass.cz/partner/impakt-fitness",
         "address": {
@@ -9330,6 +9908,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Individual.Fitness",
         "url": "https://www.activepass.cz/partner/individual-fitness",
         "address": {
@@ -9340,6 +9919,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "Indoor Golf Břeclav",
         "url": "https://www.activepass.cz/partner/indoor-golf-breclav-1",
         "address": {
@@ -9356,6 +9936,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Indoor Golf Břeclav",
         "url": "https://www.activepass.cz/partner/indoor-golf-breclav",
         "address": {
@@ -9366,6 +9947,7 @@ export function loadData(): Places {
         "activities": ["golfové odpaliště"]
       },
       {
+        "id": 0,
         "name": "Infinity Fitness",
         "url": "https://www.activepass.cz/partner/infinity-fitness",
         "address": {
@@ -9385,6 +9967,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "INFIT DANCE CLUB",
         "url": "https://www.activepass.cz/partner/infit-dance-club",
         "address": {
@@ -9413,6 +9996,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "INFITNESS LIBEREC",
         "url": "https://www.activepass.cz/partner/infitness-liberec",
         "address": {
@@ -9423,6 +10007,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Infitness Olomouc",
         "url": "https://www.activepass.cz/partner/infitness-olomouc",
         "address": {
@@ -9439,6 +10024,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Infitness Prostějov",
         "url": "https://www.activepass.cz/partner/infitness-prostejov",
         "address": {
@@ -9457,6 +10043,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Infitness Uherské Hradiště",
         "url": "https://www.activepass.cz/partner/infitness-uherske-hradiste",
         "address": {
@@ -9475,6 +10062,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Infitness Zlín",
         "url": "https://www.activepass.cz/partner/infitness-zlin",
         "address": {
@@ -9485,6 +10073,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "Inline Centrum",
         "url": "https://www.activepass.cz/partner/inline-centrum",
         "address": {
@@ -9500,6 +10089,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Inski",
         "url": "https://www.activepass.cz/partner/inski",
         "address": {
@@ -9510,6 +10100,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Institut IPREA",
         "url": "https://www.activepass.cz/partner/institut-iprea",
         "address": {
@@ -9520,6 +10111,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "IQ PARK",
         "url": "https://www.activepass.cz/partner/iq-park",
         "address": {
@@ -9530,6 +10122,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "IQ POHYB",
         "url": "https://www.activepass.cz/partner/iq-pohyb",
         "address": {
@@ -9550,6 +10143,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "IQLANDIA o.p.s.",
         "url": "https://www.activepass.cz/partner/iqlandia-o-p-s",
         "address": {
@@ -9560,6 +10154,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Ixi Club",
         "url": "https://www.activepass.cz/partner/ixi-club",
         "address": {
@@ -9570,6 +10165,7 @@ export function loadData(): Places {
         "activities": ["stolní tenis", "squash", "bowling"]
       },
       {
+        "id": 0,
         "name": "Iyengar Yoga Institut Praha",
         "url": "https://www.activepass.cz/partner/iyengar-yoga-institut-praha",
         "address": {
@@ -9580,6 +10176,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "I´M FIT",
         "url": "https://www.activepass.cz/partner/i-m-fit",
         "address": {
@@ -9630,6 +10227,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "JaK studio",
         "url": "https://www.activepass.cz/partner/jak-studio",
         "address": {
@@ -9649,6 +10247,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "JakVen - úniková hra",
         "url": "https://www.activepass.cz/partner/jakven-unikova-hra",
         "address": {
@@ -9659,6 +10258,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "JBI - Fitness",
         "url": "https://www.activepass.cz/partner/jbi-fitness",
         "address": {
@@ -9674,6 +10274,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Jedenáctka Chodov",
         "url": "https://www.activepass.cz/partner/jedenactka-chodov",
         "address": {
@@ -9684,6 +10285,7 @@ export function loadData(): Places {
         "activities": ["lázně - wellness", "aquaparky"]
       },
       {
+        "id": 0,
         "name": "Jeskyně Mexiko",
         "url": "https://www.activepass.cz/partner/jeskyne-mexiko",
         "address": {
@@ -9694,6 +10296,7 @@ export function loadData(): Places {
         "activities": ["solná jeskyně"]
       },
       {
+        "id": 0,
         "name": "Jezdecký klub Caballero",
         "url": "https://www.activepass.cz/partner/jezdecky-klub-caballero",
         "address": {
@@ -9704,6 +10307,7 @@ export function loadData(): Places {
         "activities": ["jízda na koni"]
       },
       {
+        "id": 0,
         "name": "Jezdecký klub Mikulov",
         "url": "https://www.activepass.cz/partner/jezdecky-klub-mikulov",
         "address": {
@@ -9714,6 +10318,7 @@ export function loadData(): Places {
         "activities": ["jízda na koni"]
       },
       {
+        "id": 0,
         "name": "Jezdecký klub VIKI Horní Újezd z.s.",
         "url": "https://www.activepass.cz/partner/jezdecky-klub-viki-horni-ujezd-z-s",
         "address": {
@@ -9724,6 +10329,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Jindřišská věž",
         "url": "https://www.activepass.cz/partner/jindrisska-vez",
         "address": {
@@ -9739,6 +10345,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "JK Tenis Arena",
         "url": "https://www.activepass.cz/partner/jk-tenis-arena",
         "address": {
@@ -9749,6 +10356,7 @@ export function loadData(): Places {
         "activities": ["tenis", "badminton"]
       },
       {
+        "id": 0,
         "name": "Joga HK",
         "url": "https://www.activepass.cz/partner/joga-hk",
         "address": {
@@ -9759,6 +10367,7 @@ export function loadData(): Places {
         "activities": ["hatha jóga", "jóga"]
       },
       {
+        "id": 0,
         "name": "Jóga spirit Žižkov",
         "url": "https://www.activepass.cz/partner/joga-spirit-zizkov",
         "address": {
@@ -9776,6 +10385,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Jogové studio Namaste",
         "url": "https://www.activepass.cz/partner/jogove-studio-namaste",
         "address": {
@@ -9786,6 +10396,7 @@ export function loadData(): Places {
         "activities": ["jóga"]
       },
       {
+        "id": 0,
         "name": "Joky fitness",
         "url": "https://www.activepass.cz/partner/joky-fitness",
         "address": {
@@ -9818,6 +10429,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "JOYFIT studio",
         "url": "https://www.activepass.cz/partner/joyfit-studio",
         "address": {
@@ -9834,6 +10446,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "JUMP Ústí nad Labem",
         "url": "https://www.activepass.cz/partner/jump-usti-nad-labem",
         "address": {
@@ -9844,6 +10457,7 @@ export function loadData(): Places {
         "activities": ["jump parky"]
       },
       {
+        "id": 0,
         "name": "justMOVE, s.r.o.",
         "url": "https://www.activepass.cz/partner/justmove-s-r-o",
         "address": {
@@ -9880,6 +10494,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "K&K FAMILY FITNESS",
         "url": "https://www.activepass.cz/partner/k-k-family-fitness",
         "address": {
@@ -9900,6 +10515,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "K&P",
         "url": "https://www.activepass.cz/partner/k-p",
         "address": {
@@ -9910,6 +10526,7 @@ export function loadData(): Places {
         "activities": ["půjčovna koloběžek"]
       },
       {
+        "id": 0,
         "name": "Kantorfitness",
         "url": "https://www.activepass.cz/partner/kantorfitness",
         "address": {
@@ -9928,6 +10545,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "KART ARENA PLZEŇ",
         "url": "https://www.activepass.cz/partner/kart-arena-plzen",
         "address": {
@@ -9938,6 +10556,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "KartPlanet",
         "url": "https://www.activepass.cz/partner/kartplanet",
         "address": {
@@ -9948,6 +10567,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "KASALKA Sport centrum",
         "url": "https://www.activepass.cz/partner/kasalka-sport-centrum",
         "address": {
@@ -9999,6 +10619,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Kemp VT Nová Živohošť",
         "url": "https://www.activepass.cz/partner/kemp-vt-nova-zivohost",
         "address": {
@@ -10009,6 +10630,7 @@ export function loadData(): Places {
         "activities": ["koupaliště"]
       },
       {
+        "id": 0,
         "name": "Kentoya Fitness",
         "url": "https://www.activepass.cz/partner/kentoya-fitness",
         "address": {
@@ -10019,6 +10641,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "KK-aerobik",
         "url": "https://www.activepass.cz/partner/kk-aerobik",
         "address": {
@@ -10045,6 +10668,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Klub kapitána Nema",
         "url": "https://www.activepass.cz/partner/klub-kapitana-nema",
         "address": {
@@ -10060,6 +10684,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "KOHINOR",
         "url": "https://www.activepass.cz/partner/kohinor",
         "address": {
@@ -10076,6 +10701,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Koloběžky Kleť",
         "url": "https://www.activepass.cz/partner/kolobezky-klet",
         "address": {
@@ -10086,6 +10712,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Kolobky.cz",
         "url": "https://www.activepass.cz/partner/kolobky-cz",
         "address": {
@@ -10096,6 +10723,7 @@ export function loadData(): Places {
         "activities": ["půjčovna koloběžek"]
       },
       {
+        "id": 0,
         "name": "KOMEC - Sportovní areál Brno Komárov",
         "url": "https://www.activepass.cz/partner/komec-sportovni-areal-brno-komarov",
         "address": {
@@ -10106,6 +10734,7 @@ export function loadData(): Places {
         "activities": ["tenis", "lezecké stěny"]
       },
       {
+        "id": 0,
         "name": "Koníček o.p.s.",
         "url": "https://www.activepass.cz/partner/konicek-o-p-s",
         "address": {
@@ -10116,6 +10745,7 @@ export function loadData(): Places {
         "activities": ["jízda na koni"]
       },
       {
+        "id": 0,
         "name": "Koníček o.p.s.",
         "url": "https://www.activepass.cz/partner/konicek-o-p-s-1",
         "address": {
@@ -10126,6 +10756,7 @@ export function loadData(): Places {
         "activities": ["rehabilitační cvičení"]
       },
       {
+        "id": 0,
         "name": "Koňo - fit ( koníčkův dvůr)",
         "url": "https://www.activepass.cz/partner/kono-fit-konickuv-dvur",
         "address": {
@@ -10149,6 +10780,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Konrad Tools Team z.s.",
         "url": "https://www.activepass.cz/partner/konrad-tools-team-z-s",
         "address": {
@@ -10170,6 +10802,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Kotelna Slovany",
         "url": "https://www.activepass.cz/partner/kotelna-slovany",
         "address": {
@@ -10186,6 +10819,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Koupaliště Cihelna",
         "url": "https://www.activepass.cz/partner/koupaliste-cihelna",
         "address": {
@@ -10196,6 +10830,7 @@ export function loadData(): Places {
         "activities": ["koupaliště"]
       },
       {
+        "id": 0,
         "name": "Koupaliště Klánovice",
         "url": "https://www.activepass.cz/partner/koupaliste-klanovice",
         "address": {
@@ -10212,6 +10847,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Koupaliště Petynka",
         "url": "https://www.activepass.cz/partner/koupaliste-petynka",
         "address": {
@@ -10222,6 +10858,7 @@ export function loadData(): Places {
         "activities": ["koupaliště"]
       },
       {
+        "id": 0,
         "name": "Koupaliště Polanka",
         "url": "https://www.activepass.cz/partner/koupaliste-polanka",
         "address": {
@@ -10232,6 +10869,7 @@ export function loadData(): Places {
         "activities": ["koupaliště"]
       },
       {
+        "id": 0,
         "name": "Koupaliště Riviéra",
         "url": "https://www.activepass.cz/partner/koupaliste-riviera",
         "address": {
@@ -10242,6 +10880,7 @@ export function loadData(): Places {
         "activities": ["koupaliště"]
       },
       {
+        "id": 0,
         "name": "Koupaliště Slavkov u Brna",
         "url": "https://www.activepass.cz/partner/koupaliste-slavkov-u-brna",
         "address": {
@@ -10252,6 +10891,7 @@ export function loadData(): Places {
         "activities": ["koupaliště"]
       },
       {
+        "id": 0,
         "name": "Koupaliště Sluníčko",
         "url": "https://www.activepass.cz/partner/koupaliste-slunicko",
         "address": {
@@ -10262,6 +10902,7 @@ export function loadData(): Places {
         "activities": ["koupaliště"]
       },
       {
+        "id": 0,
         "name": "Koupaliště Vápenka",
         "url": "https://www.activepass.cz/partner/koupaliste-vapenka",
         "address": {
@@ -10272,6 +10913,7 @@ export function loadData(): Places {
         "activities": ["koupaliště"]
       },
       {
+        "id": 0,
         "name": "Koupaliště Žabák",
         "url": "https://www.activepass.cz/partner/koupaliste-zabak",
         "address": {
@@ -10282,6 +10924,7 @@ export function loadData(): Places {
         "activities": ["koupaliště"]
       },
       {
+        "id": 0,
         "name": "Koupaliště Zábrdovice",
         "url": "https://www.activepass.cz/partner/koupaliste-zabrdovice",
         "address": {
@@ -10292,6 +10935,7 @@ export function loadData(): Places {
         "activities": ["koupaliště"]
       },
       {
+        "id": 0,
         "name": "KOVOZOO",
         "url": "https://www.activepass.cz/partner/kovozoo",
         "address": {
@@ -10302,6 +10946,7 @@ export function loadData(): Places {
         "activities": ["zoo"]
       },
       {
+        "id": 0,
         "name": "Krav Maga Centrum",
         "url": "https://www.activepass.cz/partner/krav-maga-centrum",
         "address": {
@@ -10323,6 +10968,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Krokodýlí Zoo Praha",
         "url": "https://www.activepass.cz/partner/krokodyli-zoo-praha",
         "address": {
@@ -10333,6 +10979,7 @@ export function loadData(): Places {
         "activities": ["zoo"]
       },
       {
+        "id": 0,
         "name": "Krušovická restaurace OMEGA",
         "url": "https://www.activepass.cz/partner/krusovicka-restaurace-omega",
         "address": {
@@ -10343,6 +10990,7 @@ export function loadData(): Places {
         "activities": ["squash"]
       },
       {
+        "id": 0,
         "name": "Kryocentrum Ostrava",
         "url": "https://www.activepass.cz/partner/kryocentrum-ostrava",
         "address": {
@@ -10353,6 +11001,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "KRYOCENTRUM PRAHA",
         "url": "https://www.activepass.cz/partner/kryocentrum-praha",
         "address": {
@@ -10363,6 +11012,7 @@ export function loadData(): Places {
         "activities": ["solná jeskyně"]
       },
       {
+        "id": 0,
         "name": "Krytý bazén",
         "url": "https://www.activepass.cz/partner/kryty-bazen",
         "address": {
@@ -10377,6 +11027,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Krytý plavecký bazén Ponávka",
         "url": "https://www.activepass.cz/partner/kryty-plavecky-bazen-ponavka",
         "address": {
@@ -10387,6 +11038,7 @@ export function loadData(): Places {
         "activities": ["plavecký bazén"]
       },
       {
+        "id": 0,
         "name": "Krytý plavecký bazén Roudnice nad Labem",
         "url": "https://www.activepass.cz/partner/kryty-plavecky-bazen-roudnice-nad-labem",
         "address": {
@@ -10397,6 +11049,7 @@ export function loadData(): Places {
         "activities": ["plavecký bazén"]
       },
       {
+        "id": 0,
         "name": "Krytý plavecký bazén, sauna Chrudim",
         "url": "https://www.activepass.cz/partner/kryty-plavecky-bazen-sauna-chrudim",
         "address": {
@@ -10407,6 +11060,7 @@ export function loadData(): Places {
         "activities": ["plavecký bazén"]
       },
       {
+        "id": 0,
         "name": "Kubík Fitness",
         "url": "https://www.activepass.cz/partner/kubik-fitness",
         "address": {
@@ -10425,6 +11079,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Kurz 3D tisku - MAKERSLAB",
         "url": "https://www.activepass.cz/partner/kurz-3d-tisku-makerslab",
         "address": {
@@ -10435,6 +11090,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "KVALITA profi fitness",
         "url": "https://www.activepass.cz/partner/kvalita-profi-fitness",
         "address": {
@@ -10445,6 +11101,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "KWK FIT - fitness",
         "url": "https://www.activepass.cz/partner/kwk-fit-fitness",
         "address": {
@@ -10459,6 +11116,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "La Danza",
         "url": "https://www.activepass.cz/partner/la-danza",
         "address": {
@@ -10475,6 +11133,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "La Macumba",
         "url": "https://www.activepass.cz/partner/la-macumba",
         "address": {
@@ -10489,6 +11148,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Labyrint Divadla Drak",
         "url": "https://www.activepass.cz/partner/labyrint-divadla-drak",
         "address": {
@@ -10499,6 +11159,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Labyrint klub bowling",
         "url": "https://www.activepass.cz/partner/labyrint-klub-bowling",
         "address": {
@@ -10509,6 +11170,7 @@ export function loadData(): Places {
         "activities": ["bowling", "kulečník"]
       },
       {
+        "id": 0,
         "name": "Laces - Kunratický park",
         "url": "https://www.activepass.cz/partner/laces-kunraticky-park",
         "address": {
@@ -10519,6 +11181,7 @@ export function loadData(): Places {
         "activities": ["open class lekce", "běh"]
       },
       {
+        "id": 0,
         "name": "Laces - Ladronka",
         "url": "https://www.activepass.cz/partner/laces-ladronka",
         "address": {
@@ -10529,6 +11192,7 @@ export function loadData(): Places {
         "activities": ["open class lekce", "běh"]
       },
       {
+        "id": 0,
         "name": "Laces - Stromovka",
         "url": "https://www.activepass.cz/partner/laces-stromovka",
         "address": {
@@ -10539,6 +11203,7 @@ export function loadData(): Places {
         "activities": ["open class lekce", "běh"]
       },
       {
+        "id": 0,
         "name": "Ladies Fitness",
         "url": "https://www.activepass.cz/partner/ladies-fitness",
         "address": {
@@ -10549,6 +11214,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "Ladies Fitness Liberec",
         "url": "https://www.activepass.cz/partner/ladies-fitness-liberec",
         "address": {
@@ -10568,6 +11234,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "LADY FIT CLUB",
         "url": "https://www.activepass.cz/partner/lady-fit-club",
         "address": {
@@ -10594,6 +11261,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Lady Fitness",
         "url": "https://www.activepass.cz/partner/lady-fitness",
         "address": {
@@ -10604,6 +11272,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "LANNA GYM",
         "url": "https://www.activepass.cz/partner/lanna-gym",
         "address": {
@@ -10624,6 +11293,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Lanová dráha obce Holubov",
         "url": "https://www.activepass.cz/partner/lanova-draha-obce-holubov",
         "address": {
@@ -10634,6 +11304,7 @@ export function loadData(): Places {
         "activities": ["lanovka"]
       },
       {
+        "id": 0,
         "name": "Laser aréna Olomouc",
         "url": "https://www.activepass.cz/partner/laser-arena-olomouc",
         "address": {
@@ -10644,6 +11315,7 @@ export function loadData(): Places {
         "activities": ["laser game"]
       },
       {
+        "id": 0,
         "name": "Laser Aréna Ostrava",
         "url": "https://www.activepass.cz/partner/laser-arena-ostrava",
         "address": {
@@ -10654,6 +11326,7 @@ export function loadData(): Places {
         "activities": ["laser game"]
       },
       {
+        "id": 0,
         "name": "Laser Arena Praha",
         "url": "https://www.activepass.cz/partner/laser-arena-praha",
         "address": {
@@ -10664,6 +11337,7 @@ export function loadData(): Places {
         "activities": ["laser game"]
       },
       {
+        "id": 0,
         "name": "LASER GAME BRNO",
         "url": "https://www.activepass.cz/partner/laser-game-brno",
         "address": {
@@ -10674,6 +11348,7 @@ export function loadData(): Places {
         "activities": ["laser game"]
       },
       {
+        "id": 0,
         "name": "Laser Game HK",
         "url": "https://www.activepass.cz/partner/laser-game-hk",
         "address": {
@@ -10684,6 +11359,7 @@ export function loadData(): Places {
         "activities": ["laser game"]
       },
       {
+        "id": 0,
         "name": "Laser Game Ostrava",
         "url": "https://www.activepass.cz/partner/laser-game-ostrava",
         "address": {
@@ -10694,6 +11370,7 @@ export function loadData(): Places {
         "activities": ["laser game"]
       },
       {
+        "id": 0,
         "name": "Laser Game Zlín",
         "url": "https://www.activepass.cz/partner/laser-game-zlin",
         "address": {
@@ -10704,6 +11381,7 @@ export function loadData(): Places {
         "activities": ["laser game"]
       },
       {
+        "id": 0,
         "name": "Laser Mania",
         "url": "https://www.activepass.cz/partner/laser-mania",
         "address": {
@@ -10714,6 +11392,7 @@ export function loadData(): Places {
         "activities": ["laser game"]
       },
       {
+        "id": 0,
         "name": "LASERMASTER LIBEREC",
         "url": "https://www.activepass.cz/partner/lasermaster-liberec",
         "address": {
@@ -10724,6 +11403,7 @@ export function loadData(): Places {
         "activities": ["laser game"]
       },
       {
+        "id": 0,
         "name": "Laskavá joga",
         "url": "https://www.activepass.cz/partner/laskava-joga",
         "address": {
@@ -10734,6 +11414,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Lázeňské a relaxační centrum Rašínova",
         "url": "https://www.activepass.cz/partner/lazenske-a-relaxacni-centrum-rasinova",
         "address": {
@@ -10749,6 +11430,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "LazerFun",
         "url": "https://www.activepass.cz/partner/lazerfun",
         "address": {
@@ -10759,6 +11441,7 @@ export function loadData(): Places {
         "activities": ["laser game"]
       },
       {
+        "id": 0,
         "name": "Lázně Zlín - posilovna",
         "url": "https://www.activepass.cz/partner/lazne-zlin-posilovna",
         "address": {
@@ -10769,6 +11452,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "LEGION GYM",
         "url": "https://www.activepass.cz/partner/legion-gym",
         "address": {
@@ -10779,6 +11463,7 @@ export function loadData(): Places {
         "activities": ["funkční trénink", "kruhové tréninky"]
       },
       {
+        "id": 0,
         "name": "Letňany Lagoon",
         "url": "https://www.activepass.cz/partner/letnany-lagoon",
         "address": {
@@ -10793,6 +11478,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Letní koupaliště",
         "url": "https://www.activepass.cz/partner/letni-koupaliste",
         "address": {
@@ -10803,6 +11489,7 @@ export function loadData(): Places {
         "activities": ["koupaliště"]
       },
       {
+        "id": 0,
         "name": "Letní koupaliště Bažantnice",
         "url": "https://www.activepass.cz/partner/letni-koupaliste-bazantnice",
         "address": {
@@ -10813,6 +11500,7 @@ export function loadData(): Places {
         "activities": ["koupaliště"]
       },
       {
+        "id": 0,
         "name": "Letní koupaliště Sletiště",
         "url": "https://www.activepass.cz/partner/letni-koupaliste-sletiste",
         "address": {
@@ -10823,6 +11511,7 @@ export function loadData(): Places {
         "activities": ["koupaliště"]
       },
       {
+        "id": 0,
         "name": "LeVITAs",
         "url": "https://www.activepass.cz/partner/levitas-1",
         "address": {
@@ -10850,6 +11539,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "LeVITAs",
         "url": "https://www.activepass.cz/partner/levitas",
         "address": {
@@ -10865,6 +11555,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Lezecká stěna Duro - singing rock",
         "url": "https://www.activepass.cz/partner/lezecka-stena-duro-singing-rock",
         "address": {
@@ -10875,6 +11566,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Lezecká stěna Hudy",
         "url": "https://www.activepass.cz/partner/lezecka-stena-hudy",
         "address": {
@@ -10885,6 +11577,7 @@ export function loadData(): Places {
         "activities": ["boulderové stěny", "lezecké stěny"]
       },
       {
+        "id": 0,
         "name": "Lezecká stěna Olympia",
         "url": "https://www.activepass.cz/partner/lezecka-stena-olympia",
         "address": {
@@ -10895,6 +11588,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Lezecká stěna Ruzyně",
         "url": "https://www.activepass.cz/partner/lezecka-stena-ruzyne",
         "address": {
@@ -10905,6 +11599,7 @@ export function loadData(): Places {
         "activities": ["lezecké stěny", "fitness"]
       },
       {
+        "id": 0,
         "name": "Lezecká stěna Týnská",
         "url": "https://www.activepass.cz/partner/lezecka-stena-tynska",
         "address": {
@@ -10915,6 +11610,7 @@ export function loadData(): Places {
         "activities": ["boulderové stěny", "lezecké stěny"]
       },
       {
+        "id": 0,
         "name": "Lezecká stěna V16",
         "url": "https://www.activepass.cz/partner/lezecka-stena-v16",
         "address": {
@@ -10925,6 +11621,7 @@ export function loadData(): Places {
         "activities": ["boulderové stěny"]
       },
       {
+        "id": 0,
         "name": "Lezecké centrum Holešovice",
         "url": "https://www.activepass.cz/partner/lezecke-centrum-holesovice",
         "address": {
@@ -10935,6 +11632,7 @@ export function loadData(): Places {
         "activities": ["lezecké stěny"]
       },
       {
+        "id": 0,
         "name": "Lezecké centrum Klajda",
         "url": "https://www.activepass.cz/partner/lezecke-centrum-klajda",
         "address": {
@@ -10945,6 +11643,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Lezecké centrum Vertikon - Singingrock",
         "url": "https://www.activepass.cz/partner/lezecke-centrum-vertikon-singingrock",
         "address": {
@@ -10955,6 +11654,7 @@ export function loadData(): Places {
         "activities": ["lezecké stěny"]
       },
       {
+        "id": 0,
         "name": "LION CROSS ARENA",
         "url": "https://www.activepass.cz/partner/lion-cross-arena",
         "address": {
@@ -10985,6 +11685,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Líšeňáček",
         "url": "https://www.activepass.cz/partner/lisenacek",
         "address": {
@@ -10995,6 +11696,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "Loděnice Malše",
         "url": "https://www.activepass.cz/partner/lodenice-malse",
         "address": {
@@ -11005,6 +11707,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Lokal Blok z.s.",
         "url": "https://www.activepass.cz/partner/lokal-blok-z-s",
         "address": {
@@ -11020,6 +11723,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Lyžařský areál Stupava",
         "url": "https://www.activepass.cz/partner/lyzarsky-areal-stupava",
         "address": {
@@ -11030,6 +11734,7 @@ export function loadData(): Places {
         "activities": ["lyžování a snowboarding"]
       },
       {
+        "id": 0,
         "name": "M&M Fitness Centrum",
         "url": "https://www.activepass.cz/partner/m-m-fitness-centrum",
         "address": {
@@ -11048,6 +11753,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Madness Gym",
         "url": "https://www.activepass.cz/partner/madness-gym",
         "address": {
@@ -11067,6 +11773,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "MAKAK ARENA",
         "url": "https://www.activepass.cz/partner/makak-arena",
         "address": {
@@ -11077,6 +11784,7 @@ export function loadData(): Places {
         "activities": ["lezecké stěny"]
       },
       {
+        "id": 0,
         "name": "MAKAK BOULDER LIBEREC",
         "url": "https://www.activepass.cz/partner/makak-boulder-liberec",
         "address": {
@@ -11087,6 +11795,7 @@ export function loadData(): Places {
         "activities": ["boulderové stěny"]
       },
       {
+        "id": 0,
         "name": "MANDALA - centrum energetické rovnováhy Kladno",
         "url": "https://www.activepass.cz/partner/mandala-centrum-energeticke-rovnovahy-kladno",
         "address": {
@@ -11103,6 +11812,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "MANGALA YOGA",
         "url": "https://www.activepass.cz/partner/mangala-yoga",
         "address": {
@@ -11113,6 +11823,7 @@ export function loadData(): Places {
         "activities": ["jóga"]
       },
       {
+        "id": 0,
         "name": "MARVEL GYM SPORTOVNÍ HALA",
         "url": "https://www.activepass.cz/partner/marvel-gym-sportovni-hala",
         "address": {
@@ -11123,6 +11834,7 @@ export function loadData(): Places {
         "activities": ["thaibox", "jiu-jitsu", "mma"]
       },
       {
+        "id": 0,
         "name": "MARVEL GYM VÝSTAVIŠŤE",
         "url": "https://www.activepass.cz/partner/marvel-gym-vystaviste",
         "address": {
@@ -11133,6 +11845,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "Master Escape Mladá Boleslav",
         "url": "https://www.activepass.cz/partner/master-escape-mlada-boleslav",
         "address": {
@@ -11143,6 +11856,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Matrix Club Jihlava",
         "url": "https://www.activepass.cz/partner/matrix-club-jihlava",
         "address": {
@@ -11181,6 +11895,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Max Lasergame & Bar",
         "url": "https://www.activepass.cz/partner/max-lasergame-bar",
         "address": {
@@ -11191,6 +11906,7 @@ export function loadData(): Places {
         "activities": ["laser game"]
       },
       {
+        "id": 0,
         "name": "Maximus Resort",
         "url": "https://www.activepass.cz/partner/maximus-resort",
         "address": {
@@ -11201,6 +11917,7 @@ export function loadData(): Places {
         "activities": ["tenis", "bowling"]
       },
       {
+        "id": 0,
         "name": "MB SAUNY",
         "url": "https://www.activepass.cz/partner/mb-sauny",
         "address": {
@@ -11211,6 +11928,7 @@ export function loadData(): Places {
         "activities": ["sauna"]
       },
       {
+        "id": 0,
         "name": "MEDIfitness",
         "url": "https://www.activepass.cz/partner/medifitness",
         "address": {
@@ -11225,6 +11943,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "MediSpo, s.r.o.",
         "url": "https://www.activepass.cz/partner/medispo-s-r-o",
         "address": {
@@ -11238,6 +11957,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Meka Fitness",
         "url": "https://www.activepass.cz/partner/meka-fitness",
         "address": {
@@ -11260,6 +11980,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Mendl Ski",
         "url": "https://www.activepass.cz/partner/mendl-ski",
         "address": {
@@ -11270,6 +11991,7 @@ export function loadData(): Places {
         "activities": ["lyžování a snowboarding"]
       },
       {
+        "id": 0,
         "name": "Mercuria Laser Game - Braník",
         "url": "https://www.activepass.cz/partner/mercuria-laser-game-branik",
         "address": {
@@ -11280,6 +12002,7 @@ export function loadData(): Places {
         "activities": ["laser game", "virtuální realita"]
       },
       {
+        "id": 0,
         "name": "Mercuria LaserGame",
         "url": "https://www.activepass.cz/partner/mercuria-lasergame",
         "address": {
@@ -11290,6 +12013,7 @@ export function loadData(): Places {
         "activities": ["laser game"]
       },
       {
+        "id": 0,
         "name": "Městská plovárna Louka Znojmo",
         "url": "https://www.activepass.cz/partner/mestska-plovarna-louka-znojmo",
         "address": {
@@ -11300,6 +12024,7 @@ export function loadData(): Places {
         "activities": ["plavecký bazén", "sauna"]
       },
       {
+        "id": 0,
         "name": "Městská sportovní hala",
         "url": "https://www.activepass.cz/partner/mestska-sportovni-hala",
         "address": {
@@ -11310,6 +12035,7 @@ export function loadData(): Places {
         "activities": ["fitness", "stolní tenis", "badminton"]
       },
       {
+        "id": 0,
         "name": "Městská sportovní Turnov - Koupaliště",
         "url": "https://www.activepass.cz/partner/mestska-sportovni-turnov-koupaliste",
         "address": {
@@ -11320,6 +12046,7 @@ export function loadData(): Places {
         "activities": ["koupaliště"]
       },
       {
+        "id": 0,
         "name": "Městská sportovní Turnov - Plavecký bazén Výšinka",
         "url": "https://www.activepass.cz/partner/mestska-sportovni-turnov-plavecky-bazen-vysinka",
         "address": {
@@ -11330,6 +12057,7 @@ export function loadData(): Places {
         "activities": ["aquaaerobic", "plavecký bazén"]
       },
       {
+        "id": 0,
         "name": "Městská sportovní Turnov - Zimní stadion",
         "url": "https://www.activepass.cz/partner/mestska-sportovni-turnov-zimni-stadion",
         "address": {
@@ -11340,6 +12068,7 @@ export function loadData(): Places {
         "activities": ["bruslení"]
       },
       {
+        "id": 0,
         "name": "Městské lázně Boskovice - plavecký a rekreační bazén",
         "url": "https://www.activepass.cz/partner/mestske-lazne-boskovice-plavecky-a-rekreacni-bazen",
         "address": {
@@ -11350,6 +12079,7 @@ export function loadData(): Places {
         "activities": ["plavecký bazén"]
       },
       {
+        "id": 0,
         "name": "Městské lázně Prostějov",
         "url": "https://www.activepass.cz/partner/mestske-lazne-prostejov",
         "address": {
@@ -11360,6 +12090,7 @@ export function loadData(): Places {
         "activities": ["plavecký bazén", "sauna"]
       },
       {
+        "id": 0,
         "name": "Městské lázně Znojmo",
         "url": "https://www.activepass.cz/partner/mestske-lazne-znojmo",
         "address": {
@@ -11370,6 +12101,7 @@ export function loadData(): Places {
         "activities": ["koupaliště"]
       },
       {
+        "id": 0,
         "name": "Městské muzeum Polná",
         "url": "https://www.activepass.cz/partner/mestske-muzeum-polna",
         "address": {
@@ -11380,6 +12112,7 @@ export function loadData(): Places {
         "activities": ["hrady a zámky"]
       },
       {
+        "id": 0,
         "name": "Městský bazén",
         "url": "https://www.activepass.cz/partner/mestsky-bazen",
         "address": {
@@ -11390,6 +12123,7 @@ export function loadData(): Places {
         "activities": ["plavecký bazén"]
       },
       {
+        "id": 0,
         "name": "Městský plavecký stadion Lužánky",
         "url": "https://www.activepass.cz/partner/mestsky-plavecky-stadion-luzanky",
         "address": {
@@ -11400,6 +12134,7 @@ export function loadData(): Places {
         "activities": ["plavecký bazén"]
       },
       {
+        "id": 0,
         "name": "MH Fit & Health studio",
         "url": "https://www.activepass.cz/partner/mh-fit-health-studio",
         "address": {
@@ -11418,6 +12153,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Mind Studio",
         "url": "https://www.activepass.cz/partner/mind-studio",
         "address": {
@@ -11428,6 +12164,7 @@ export function loadData(): Places {
         "activities": ["jóga"]
       },
       {
+        "id": 0,
         "name": "MindMaze",
         "url": "https://www.activepass.cz/partner/mindmaze",
         "address": {
@@ -11438,6 +12175,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "MindMaze",
         "url": "https://www.activepass.cz/partner/mindmaze-1",
         "address": {
@@ -11448,6 +12186,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Mini-lázně Veronika, Humpolec",
         "url": "https://www.activepass.cz/partner/mini-lazne-veronika-humpolec",
         "address": {
@@ -11458,6 +12197,7 @@ export function loadData(): Places {
         "activities": ["meditace"]
       },
       {
+        "id": 0,
         "name": "Minigolf ONE, Brno - Bohunice",
         "url": "https://www.activepass.cz/partner/minigolf-one-brno-bohunice",
         "address": {
@@ -11468,6 +12208,7 @@ export function loadData(): Places {
         "activities": ["minigolf"]
       },
       {
+        "id": 0,
         "name": "Minigolf ONE, Brno - Královo Pole",
         "url": "https://www.activepass.cz/partner/minigolf-one-brno-kralovo-pole",
         "address": {
@@ -11478,6 +12219,7 @@ export function loadData(): Places {
         "activities": ["minigolf"]
       },
       {
+        "id": 0,
         "name": "Minoritský klášter",
         "url": "https://www.activepass.cz/partner/minoritsky-klaster",
         "address": {
@@ -11488,6 +12230,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "MIŠMAŠ",
         "url": "https://www.activepass.cz/partner/mismas",
         "address": {
@@ -11498,6 +12241,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Mistr úniku",
         "url": "https://www.activepass.cz/partner/mistr-uniku",
         "address": {
@@ -11508,6 +12252,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "MIX GYM",
         "url": "https://www.activepass.cz/partner/mix-gym",
         "address": {
@@ -11524,6 +12269,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "MMA Liberec",
         "url": "https://www.activepass.cz/partner/mma-liberec",
         "address": {
@@ -11554,6 +12300,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Mobilní Kluziště za Lužánkami",
         "url": "https://www.activepass.cz/partner/mobilni-kluziste-za-luzankami",
         "address": {
@@ -11564,6 +12311,7 @@ export function loadData(): Places {
         "activities": ["bruslení"]
       },
       {
+        "id": 0,
         "name": "MOJA tenis",
         "url": "https://www.activepass.cz/partner/moja-tenis",
         "address": {
@@ -11574,6 +12322,7 @@ export function loadData(): Places {
         "activities": ["tenis"]
       },
       {
+        "id": 0,
         "name": "Mommy time",
         "url": "https://www.activepass.cz/partner/mommy-time",
         "address": {
@@ -11587,6 +12336,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Monkey's Gym Galerie Harfa",
         "url": "https://www.activepass.cz/partner/monkey-s-gym-galerie-harfa",
         "address": {
@@ -11597,6 +12347,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "Monkey's Gym OC Šestka",
         "url": "https://www.activepass.cz/partner/monkey-s-gym-oc-sestka",
         "address": {
@@ -11607,6 +12358,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "MORAVA Camp",
         "url": "https://www.activepass.cz/partner/morava-camp",
         "address": {
@@ -11621,6 +12373,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Mořský svět",
         "url": "https://www.activepass.cz/partner/morsky-svet",
         "address": {
@@ -11631,6 +12384,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "moteel",
         "url": "https://www.activepass.cz/partner/moteel",
         "address": {
@@ -11641,6 +12395,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Motokar centrum",
         "url": "https://www.activepass.cz/partner/motokar-centrum",
         "address": {
@@ -11651,6 +12406,7 @@ export function loadData(): Places {
         "activities": ["motokáry"]
       },
       {
+        "id": 0,
         "name": "Motokáry Hodonín",
         "url": "https://www.activepass.cz/partner/motokary-hodonin",
         "address": {
@@ -11661,6 +12417,7 @@ export function loadData(): Places {
         "activities": ["motokáry"]
       },
       {
+        "id": 0,
         "name": "Motokáry Modřice",
         "url": "https://www.activepass.cz/partner/motokary-modrice",
         "address": {
@@ -11671,6 +12428,7 @@ export function loadData(): Places {
         "activities": ["motokáry"]
       },
       {
+        "id": 0,
         "name": "MOVE & FOOD",
         "url": "https://www.activepass.cz/partner/move-food",
         "address": {
@@ -11681,6 +12439,7 @@ export function loadData(): Places {
         "activities": ["fitness", "kruhové tréninky"]
       },
       {
+        "id": 0,
         "name": "MOVE ENERGY",
         "url": "https://www.activepass.cz/partner/move-energy",
         "address": {
@@ -11709,6 +12468,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "MOVE YOUR BODY",
         "url": "https://www.activepass.cz/partner/move-your-body",
         "address": {
@@ -11726,6 +12486,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "MOVE YOUR LIMITS - fitness",
         "url": "https://www.activepass.cz/partner/move-your-limits-fitness",
         "address": {
@@ -11745,6 +12506,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "MoveFit Gym",
         "url": "https://www.activepass.cz/partner/movefit-gym",
         "address": {
@@ -11761,6 +12523,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "MOVENDO",
         "url": "https://www.activepass.cz/partner/movendo",
         "address": {
@@ -11779,6 +12542,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Mráz léčí",
         "url": "https://www.activepass.cz/partner/mraz-leci",
         "address": {
@@ -11789,6 +12553,7 @@ export function loadData(): Places {
         "activities": ["kryokomora"]
       },
       {
+        "id": 0,
         "name": "MTV Fitness & Squash",
         "url": "https://www.activepass.cz/partner/mtv-fitness-squash",
         "address": {
@@ -11810,6 +12575,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "MTV Fitness Praha 10",
         "url": "https://www.activepass.cz/partner/mtv-fitness-praha-10",
         "address": {
@@ -11826,6 +12592,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "MTV Fitness Praha 3",
         "url": "https://www.activepass.cz/partner/mtv-fitness-praha-3",
         "address": {
@@ -11842,6 +12609,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "MTV Fitness Praha 9",
         "url": "https://www.activepass.cz/partner/mtv-fitness-praha-9",
         "address": {
@@ -11852,6 +12620,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "MujGym",
         "url": "https://www.activepass.cz/partner/mujgym",
         "address": {
@@ -11876,6 +12645,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Museum Iluzí - Illusion Art Museum Prague",
         "url": "https://www.activepass.cz/partner/museum-iluzi-illusion-art-museum-prague",
         "address": {
@@ -11886,6 +12656,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Museum Tortury a mučících nástrojů",
         "url": "https://www.activepass.cz/partner/museum-tortury-a-mucicich-nastroju",
         "address": {
@@ -11896,6 +12667,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Muzeum a Pojizerská galerie Semily",
         "url": "https://www.activepass.cz/partner/muzeum-a-pojizerska-galerie-semily",
         "address": {
@@ -11906,6 +12678,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Muzeum alchymistů a mágů staré Prahy",
         "url": "https://www.activepass.cz/partner/muzeum-alchymistu-a-magu-stare-prahy",
         "address": {
@@ -11916,6 +12689,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Muzeum amerického západu, Plzeň",
         "url": "https://www.activepass.cz/partner/muzeum-americkeho-zapadu-plzen",
         "address": {
@@ -11926,6 +12700,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Muzeum berounské keramiky",
         "url": "https://www.activepass.cz/partner/muzeum-berounske-keramiky",
         "address": {
@@ -11940,6 +12715,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Muzeum Českého ráje v Turnově",
         "url": "https://www.activepass.cz/partner/muzeum-ceskeho-raje-v-turnove",
         "address": {
@@ -11950,6 +12726,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Muzeum hodin",
         "url": "https://www.activepass.cz/partner/muzeum-hodin",
         "address": {
@@ -11960,6 +12737,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Muzeum hraček Ostrava",
         "url": "https://www.activepass.cz/partner/muzeum-hracek-ostrava",
         "address": {
@@ -11970,6 +12748,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Muzeum Karla Zemana",
         "url": "https://www.activepass.cz/partner/muzeum-karla-zemana",
         "address": {
@@ -11980,6 +12759,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Muzeum lega Tábor",
         "url": "https://www.activepass.cz/partner/muzeum-lega-tabor",
         "address": {
@@ -11990,6 +12770,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Muzeum naftového dobývání a geologie",
         "url": "https://www.activepass.cz/partner/muzeum-naftoveho-dobyvani-a-geologie",
         "address": {
@@ -12000,6 +12781,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Muzeum Napajedla",
         "url": "https://www.activepass.cz/partner/muzeum-napajedla",
         "address": {
@@ -12010,6 +12792,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Muzeum Nové Strašecí",
         "url": "https://www.activepass.cz/partner/muzeum-nove-straseci",
         "address": {
@@ -12020,6 +12803,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Muzeum policie České republiky",
         "url": "https://www.activepass.cz/partner/muzeum-policie-ceske-republiky",
         "address": {
@@ -12030,6 +12814,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Muzeum pražských pověstí a strašidel",
         "url": "https://www.activepass.cz/partner/muzeum-prazskych-povesti-a-strasidel",
         "address": {
@@ -12040,6 +12825,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Muzeum rekordů a kuriozit Pelhřimov",
         "url": "https://www.activepass.cz/partner/muzeum-rekordu-a-kuriozit-pelhrimov",
         "address": {
@@ -12050,6 +12836,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Muzeum Smyslů",
         "url": "https://www.activepass.cz/partner/muzeum-smyslu",
         "address": {
@@ -12060,6 +12847,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Muzeum strašidel",
         "url": "https://www.activepass.cz/partner/muzeum-strasidel",
         "address": {
@@ -12070,6 +12858,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Muzeum T.G.M. Rakovník",
         "url": "https://www.activepass.cz/partner/muzeum-t-g-m-rakovnik",
         "address": {
@@ -12080,6 +12869,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Muzeum T.G.M. v Lánech",
         "url": "https://www.activepass.cz/partner/muzeum-t-g-m-v-lanech",
         "address": {
@@ -12090,6 +12880,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Muzeum Vysočiny Havlíčkův Brod",
         "url": "https://www.activepass.cz/partner/muzeum-vysociny-havlickuv-brod",
         "address": {
@@ -12100,6 +12891,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Muzeum Vysočiny Jihlava",
         "url": "https://www.activepass.cz/partner/muzeum-vysociny-jihlava",
         "address": {
@@ -12110,6 +12902,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Muzeum Vysočiny Jihlava, pobočka Třešť",
         "url": "https://www.activepass.cz/partner/muzeum-vysociny-jihlava-pobocka-trest",
         "address": {
@@ -12120,6 +12913,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "My Body Fitness",
         "url": "https://www.activepass.cz/partner/my-body-fitness",
         "address": {
@@ -12155,6 +12949,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "MY FIT studio",
         "url": "https://www.activepass.cz/partner/my-fit-studio",
         "address": {
@@ -12188,6 +12983,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "NaFilM: Národní filmové muzeum",
         "url": "https://www.activepass.cz/partner/nafilm-narodni-filmove-muzeum",
         "address": {
@@ -12198,6 +12994,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "NamOMent",
         "url": "https://www.activepass.cz/partner/namoment",
         "address": {
@@ -12215,6 +13012,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "NB studio",
         "url": "https://www.activepass.cz/partner/nb-studio",
         "address": {
@@ -12225,6 +13023,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Nemocvična",
         "url": "https://www.activepass.cz/partner/nemocvicna",
         "address": {
@@ -12249,6 +13048,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Neviditelná výstava",
         "url": "https://www.activepass.cz/partner/neviditelna-vystava",
         "address": {
@@ -12259,6 +13059,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "NH Hotels Praha",
         "url": "https://www.activepass.cz/partner/nh-hotels-praha",
         "address": {
@@ -12274,6 +13075,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Nisa Park Vratislavice",
         "url": "https://www.activepass.cz/partner/nisa-park-vratislavice",
         "address": {
@@ -12284,6 +13086,7 @@ export function loadData(): Places {
         "activities": ["dětské zážitkové parky"]
       },
       {
+        "id": 0,
         "name": "OK GYM Dubina",
         "url": "https://www.activepass.cz/partner/ok-gym-dubina",
         "address": {
@@ -12294,6 +13097,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "OK Gym Dubina - Macak's Gym",
         "url": "https://www.activepass.cz/partner/ok-gym-dubina-macak-s-gym",
         "address": {
@@ -12310,6 +13114,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "OK GYM Dukla",
         "url": "https://www.activepass.cz/partner/ok-gym-dukla",
         "address": {
@@ -12320,6 +13125,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "OLFIN CAR Fitness Horská",
         "url": "https://www.activepass.cz/partner/olfin-car-fitness-horska",
         "address": {
@@ -12344,6 +13150,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Olymp Fitness Nový Bor",
         "url": "https://www.activepass.cz/partner/olymp-fitness-novy-bor",
         "address": {
@@ -12366,6 +13173,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Olympia Fitness",
         "url": "https://www.activepass.cz/partner/olympia-fitness-1",
         "address": {
@@ -12376,6 +13184,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Olympia Fitness",
         "url": "https://www.activepass.cz/partner/olympia-fitness",
         "address": {
@@ -12386,6 +13195,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "OM YOGA s.r.o.",
         "url": "https://www.activepass.cz/partner/om-yoga-s-r-o",
         "address": {
@@ -12403,6 +13213,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Open gym",
         "url": "https://www.activepass.cz/partner/open-gym",
         "address": {
@@ -12413,6 +13224,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Orange gym",
         "url": "https://www.activepass.cz/partner/orange-gym",
         "address": {
@@ -12440,6 +13252,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Oslí farma",
         "url": "https://www.activepass.cz/partner/osli-farma",
         "address": {
@@ -12450,6 +13263,7 @@ export function loadData(): Places {
         "activities": ["farmy", "dětské zážitkové parky"]
       },
       {
+        "id": 0,
         "name": "Otevřeno",
         "url": "https://www.activepass.cz/partner/otevreno",
         "address": {
@@ -12465,6 +13279,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Ozdravné centrum Ještěrka",
         "url": "https://www.activepass.cz/partner/ozdravne-centrum-jesterka",
         "address": {
@@ -12475,6 +13290,7 @@ export function loadData(): Places {
         "activities": ["badminton", "plavecký bazén", "sauna"]
       },
       {
+        "id": 0,
         "name": "Paddl",
         "url": "https://www.activepass.cz/partner/paddl",
         "address": {
@@ -12485,6 +13301,7 @@ export function loadData(): Places {
         "activities": ["šlapadla"]
       },
       {
+        "id": 0,
         "name": "Paintball Chotěšov",
         "url": "https://www.activepass.cz/partner/paintball-chotesov",
         "address": {
@@ -12495,6 +13312,7 @@ export function loadData(): Places {
         "activities": ["paintball"]
       },
       {
+        "id": 0,
         "name": "Paintball Game Olomouc",
         "url": "https://www.activepass.cz/partner/paintball-game-olomouc",
         "address": {
@@ -12505,6 +13323,7 @@ export function loadData(): Places {
         "activities": ["paintball"]
       },
       {
+        "id": 0,
         "name": "Paintball Hradec Králové",
         "url": "https://www.activepass.cz/partner/paintball-hradec-kralove",
         "address": {
@@ -12515,6 +13334,7 @@ export function loadData(): Places {
         "activities": ["extreme archery", "paintball"]
       },
       {
+        "id": 0,
         "name": "Paintball Wood",
         "url": "https://www.activepass.cz/partner/paintball-wood",
         "address": {
@@ -12525,6 +13345,7 @@ export function loadData(): Places {
         "activities": ["paintball"]
       },
       {
+        "id": 0,
         "name": "Pallso paintball Soběšice",
         "url": "https://www.activepass.cz/partner/pallso-paintball-sobesice",
         "address": {
@@ -12535,6 +13356,7 @@ export function loadData(): Places {
         "activities": ["paintball"]
       },
       {
+        "id": 0,
         "name": "Památník Joachima Barranda Skryje",
         "url": "https://www.activepass.cz/partner/pamatnik-joachima-barranda-skryje",
         "address": {
@@ -12545,6 +13367,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Pampalánie - dětský svět",
         "url": "https://www.activepass.cz/partner/pampalanie-detsky-svet",
         "address": {
@@ -12555,6 +13378,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "Panorama Hotel Prague",
         "url": "https://www.activepass.cz/partner/panorama-hotel-prague",
         "address": {
@@ -12572,6 +13396,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Panther Gym Čakovice",
         "url": "https://www.activepass.cz/partner/panther-gym-cakovice",
         "address": {
@@ -12593,6 +13418,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Papilonia - Motýlí dům",
         "url": "https://www.activepass.cz/partner/papilonia-motyli-dum",
         "address": {
@@ -12603,6 +13429,7 @@ export function loadData(): Places {
         "activities": ["naučné parky"]
       },
       {
+        "id": 0,
         "name": "PARAZOO Vlašim",
         "url": "https://www.activepass.cz/partner/parazoo-vlasim",
         "address": {
@@ -12613,6 +13440,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Parkourová hala Praha",
         "url": "https://www.activepass.cz/partner/parkourova-hala-praha",
         "address": {
@@ -12623,6 +13451,7 @@ export function loadData(): Places {
         "activities": ["parkour"]
       },
       {
+        "id": 0,
         "name": "Party Fit Karlín",
         "url": "https://www.activepass.cz/partner/party-fit-karlin",
         "address": {
@@ -12643,6 +13472,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Pártyfit Ládví",
         "url": "https://www.activepass.cz/partner/partyfit-ladvi",
         "address": {
@@ -12664,6 +13494,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Pavel Hájek - Čchi-kung",
         "url": "https://www.activepass.cz/partner/pavel-hajek-cchi-kung",
         "address": {
@@ -12674,6 +13505,7 @@ export function loadData(): Places {
         "activities": ["tai chi čchi-kung"]
       },
       {
+        "id": 0,
         "name": "Peklo Čertovina - recepce, suvenýry",
         "url": "https://www.activepass.cz/partner/peklo-certovina-recepce-suvenyry",
         "address": {
@@ -12684,6 +13516,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Pension Residence",
         "url": "https://www.activepass.cz/partner/pension-residence",
         "address": {
@@ -12694,6 +13527,7 @@ export function loadData(): Places {
         "activities": ["squash", "badminton"]
       },
       {
+        "id": 0,
         "name": "Performance Power Center FM",
         "url": "https://www.activepass.cz/partner/performance-power-center-fm",
         "address": {
@@ -12711,6 +13545,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Performance Power Center Ostrava",
         "url": "https://www.activepass.cz/partner/performance-power-center-ostrava",
         "address": {
@@ -12736,6 +13571,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "PéZet Fitness",
         "url": "https://www.activepass.cz/partner/pezet-fitness",
         "address": {
@@ -12756,6 +13592,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "PFEFERONKA YOGA CENTRUM",
         "url": "https://www.activepass.cz/partner/pfeferonka-yoga-centrum",
         "address": {
@@ -12766,6 +13603,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Phoenix Academy",
         "url": "https://www.activepass.cz/partner/phoenix-academy",
         "address": {
@@ -12783,6 +13621,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Phoenix GYM",
         "url": "https://www.activepass.cz/partner/phoenix-gym",
         "address": {
@@ -12793,6 +13632,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "PILATEA",
         "url": "https://www.activepass.cz/partner/pilatea",
         "address": {
@@ -12803,6 +13643,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Pilates - Ka",
         "url": "https://www.activepass.cz/partner/pilates-ka",
         "address": {
@@ -12813,6 +13654,7 @@ export function loadData(): Places {
         "activities": ["pilates"]
       },
       {
+        "id": 0,
         "name": "Pilates Blansko",
         "url": "https://www.activepass.cz/partner/pilates-blansko",
         "address": {
@@ -12834,6 +13676,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Pilates Pro",
         "url": "https://www.activepass.cz/partner/pilates-pro",
         "address": {
@@ -12844,6 +13687,7 @@ export function loadData(): Places {
         "activities": ["pilates"]
       },
       {
+        "id": 0,
         "name": "Pirana paintball",
         "url": "https://www.activepass.cz/partner/pirana-paintball",
         "address": {
@@ -12854,6 +13698,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Planetárium Praha",
         "url": "https://www.activepass.cz/partner/planetarium-praha",
         "address": {
@@ -12864,6 +13709,7 @@ export function loadData(): Places {
         "activities": ["exkurze"]
       },
       {
+        "id": 0,
         "name": "Plavecký areál Rokycany",
         "url": "https://www.activepass.cz/partner/plavecky-areal-rokycany",
         "address": {
@@ -12874,6 +13720,7 @@ export function loadData(): Places {
         "activities": ["plavecký bazén", "koupaliště"]
       },
       {
+        "id": 0,
         "name": "Plavecký bazén - Sportareál",
         "url": "https://www.activepass.cz/partner/plavecky-bazen-sportareal",
         "address": {
@@ -12895,6 +13742,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Plavecký bazén a posilovna Neratovice",
         "url": "https://www.activepass.cz/partner/plavecky-bazen-a-posilovna-neratovice",
         "address": {
@@ -12905,6 +13753,7 @@ export function loadData(): Places {
         "activities": ["fitness", "plavecký bazén"]
       },
       {
+        "id": 0,
         "name": "Plavecký bazén AXA",
         "url": "https://www.activepass.cz/partner/plavecky-bazen-axa",
         "address": {
@@ -12915,6 +13764,7 @@ export function loadData(): Places {
         "activities": ["plavecký bazén"]
       },
       {
+        "id": 0,
         "name": "Plavecký bazén Benešov",
         "url": "https://www.activepass.cz/partner/plavecky-bazen-benesov",
         "address": {
@@ -12925,6 +13775,7 @@ export function loadData(): Places {
         "activities": ["plavecký bazén"]
       },
       {
+        "id": 0,
         "name": "Plavecký bazén Jablonec nad Nisou",
         "url": "https://www.activepass.cz/partner/plavecky-bazen-jablonec-nad-nisou",
         "address": {
@@ -12935,6 +13786,7 @@ export function loadData(): Places {
         "activities": ["plavecký bazén", "sauna"]
       },
       {
+        "id": 0,
         "name": "Plavecký bazén Litvínov",
         "url": "https://www.activepass.cz/partner/plavecky-bazen-litvinov",
         "address": {
@@ -12945,6 +13797,7 @@ export function loadData(): Places {
         "activities": ["plavecký bazén", "aquaaerobic"]
       },
       {
+        "id": 0,
         "name": "Plavecký bazén Mělník",
         "url": "https://www.activepass.cz/partner/plavecky-bazen-melnik",
         "address": {
@@ -12962,6 +13815,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "PLUS FITNESS",
         "url": "https://www.activepass.cz/partner/plus-fitness",
         "address": {
@@ -12985,6 +13839,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Plzeňská hala",
         "url": "https://www.activepass.cz/partner/plzenska-hala",
         "address": {
@@ -12995,6 +13850,7 @@ export function loadData(): Places {
         "activities": ["parkour"]
       },
       {
+        "id": 0,
         "name": "Podkrušnohorské technické muzeum",
         "url": "https://www.activepass.cz/partner/podkrusnohorske-technicke-muzeum",
         "address": {
@@ -13005,6 +13861,7 @@ export function loadData(): Places {
         "activities": ["památky", "výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Pohybové studio K6",
         "url": "https://www.activepass.cz/partner/pohybove-studio-k6",
         "address": {
@@ -13015,6 +13872,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Pohybové studio Žaneta",
         "url": "https://www.activepass.cz/partner/pohybove-studio-zaneta",
         "address": {
@@ -13037,6 +13895,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Pole Gym Kladno",
         "url": "https://www.activepass.cz/partner/pole-gym-kladno",
         "address": {
@@ -13051,6 +13910,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Posilovna Rozdělov",
         "url": "https://www.activepass.cz/partner/posilovna-rozdelov",
         "address": {
@@ -13061,6 +13921,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "Posilovna Správní chlapi",
         "url": "https://www.activepass.cz/partner/posilovna-spravni-chlapi",
         "address": {
@@ -13071,6 +13932,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "Power fitness",
         "url": "https://www.activepass.cz/partner/power-fitness",
         "address": {
@@ -13093,6 +13955,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Power of Development",
         "url": "https://www.activepass.cz/partner/power-of-development",
         "address": {
@@ -13108,6 +13971,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Pragulic",
         "url": "https://www.activepass.cz/partner/pragulic",
         "address": {
@@ -13118,6 +13982,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Pravá solná jeskyně",
         "url": "https://www.activepass.cz/partner/prava-solna-jeskyne",
         "address": {
@@ -13128,6 +13993,7 @@ export function loadData(): Places {
         "activities": ["solná jeskyně"]
       },
       {
+        "id": 0,
         "name": "Prime Laser Arena",
         "url": "https://www.activepass.cz/partner/prime-laser-arena",
         "address": {
@@ -13138,6 +14004,7 @@ export function loadData(): Places {
         "activities": ["laser game"]
       },
       {
+        "id": 0,
         "name": "Přirodovědné centrum",
         "url": "https://www.activepass.cz/partner/prirodovedne-centrum",
         "address": {
@@ -13148,6 +14015,7 @@ export function loadData(): Places {
         "activities": ["zoo"]
       },
       {
+        "id": 0,
         "name": "PROACTIVITY",
         "url": "https://www.activepass.cz/partner/proactivity",
         "address": {
@@ -13170,6 +14038,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Profi Fitness Millenium - fitness",
         "url": "https://www.activepass.cz/partner/profi-fitness-millenium-fitness",
         "address": {
@@ -13194,6 +14063,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "PROFI WELLNESS",
         "url": "https://www.activepass.cz/partner/profi-wellness",
         "address": {
@@ -13214,6 +14084,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Profit Sport",
         "url": "https://www.activepass.cz/partner/profit-sport",
         "address": {
@@ -13234,6 +14105,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Profitko training center",
         "url": "https://www.activepass.cz/partner/profitko-training-center",
         "address": {
@@ -13250,6 +14122,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "První volnočasový EKOPark Liberec",
         "url": "https://www.activepass.cz/partner/prvni-volnocasovy-ekopark-liberec",
         "address": {
@@ -13260,6 +14133,7 @@ export function loadData(): Places {
         "activities": ["parky"]
       },
       {
+        "id": 0,
         "name": "PS FITNESS",
         "url": "https://www.activepass.cz/partner/ps-fitness",
         "address": {
@@ -13280,6 +14154,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Půjčovna lodí Ontario",
         "url": "https://www.activepass.cz/partner/pujcovna-lodi-ontario",
         "address": {
@@ -13290,6 +14165,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Půjčovna šlapacích aut",
         "url": "https://www.activepass.cz/partner/pujcovna-slapacich-aut",
         "address": {
@@ -13300,6 +14176,7 @@ export function loadData(): Places {
         "activities": ["půjčovna koloběžek"]
       },
       {
+        "id": 0,
         "name": "Půjčovna vybavení - HOPsej.cz",
         "url": "https://www.activepass.cz/partner/pujcovna-vybaveni-hopsej-cz",
         "address": {
@@ -13316,6 +14193,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Pulse fitness",
         "url": "https://www.activepass.cz/partner/pulse-fitness",
         "address": {
@@ -13326,6 +14204,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny", "sauna"]
       },
       {
+        "id": 0,
         "name": "Pulse Fitness Club",
         "url": "https://www.activepass.cz/partner/pulse-fitness-club",
         "address": {
@@ -13346,6 +14225,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "PZ GYM",
         "url": "https://www.activepass.cz/partner/pz-gym",
         "address": {
@@ -13356,6 +14236,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Quatro fitness",
         "url": "https://www.activepass.cz/partner/quatro-fitness",
         "address": {
@@ -13366,6 +14247,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "R5 - fitness centrum",
         "url": "https://www.activepass.cz/partner/r5-fitness-centrum",
         "address": {
@@ -13394,6 +14276,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "RAKETA Bowling",
         "url": "https://www.activepass.cz/partner/raketa-bowling",
         "address": {
@@ -13404,6 +14287,7 @@ export function loadData(): Places {
         "activities": ["bowling"]
       },
       {
+        "id": 0,
         "name": "Rambajs Café Park",
         "url": "https://www.activepass.cz/partner/rambajs-cafe-park",
         "address": {
@@ -13414,6 +14298,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "Real Escape",
         "url": "https://www.activepass.cz/partner/real-escape",
         "address": {
@@ -13424,6 +14309,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Red Fit Praha 4 - Dámské Fitness",
         "url": "https://www.activepass.cz/partner/red-fit-praha-4-damske-fitness",
         "address": {
@@ -13442,6 +14328,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Rehabfit",
         "url": "https://www.activepass.cz/partner/rehabfit",
         "address": {
@@ -13457,6 +14344,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Rehatape",
         "url": "https://www.activepass.cz/partner/rehatape",
         "address": {
@@ -13467,6 +14355,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Rekondiční centrum Sofif",
         "url": "https://www.activepass.cz/partner/rekondicni-centrum-sofif",
         "address": {
@@ -13477,6 +14366,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Rekondiční studio MODELACE",
         "url": "https://www.activepass.cz/partner/rekondicni-studio-modelace",
         "address": {
@@ -13487,6 +14377,7 @@ export function loadData(): Places {
         "activities": ["kruhové tréninky"]
       },
       {
+        "id": 0,
         "name": "Relax centrum Homolka",
         "url": "https://www.activepass.cz/partner/relax-centrum-homolka",
         "address": {
@@ -13510,6 +14401,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Relax centrum Orlová",
         "url": "https://www.activepass.cz/partner/relax-centrum-orlova",
         "address": {
@@ -13525,6 +14417,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "RELAX Sauna",
         "url": "https://www.activepass.cz/partner/relax-sauna",
         "address": {
@@ -13535,6 +14428,7 @@ export function loadData(): Places {
         "activities": ["sauna"]
       },
       {
+        "id": 0,
         "name": "Relax Třebešín",
         "url": "https://www.activepass.cz/partner/relax-trebesin",
         "address": {
@@ -13551,6 +14445,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Relaxační centrum Adam",
         "url": "https://www.activepass.cz/partner/relaxacni-centrum-adam",
         "address": {
@@ -13561,6 +14456,7 @@ export function loadData(): Places {
         "activities": ["solná jeskyně"]
       },
       {
+        "id": 0,
         "name": "Relaxační centrum U Souseda",
         "url": "https://www.activepass.cz/partner/relaxacni-centrum-u-souseda",
         "address": {
@@ -13575,6 +14471,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Relaxační studio HAVAJ",
         "url": "https://www.activepass.cz/partner/relaxacni-studio-havaj",
         "address": {
@@ -13601,6 +14498,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Relaxační studio Na dvorku",
         "url": "https://www.activepass.cz/partner/relaxacni-studio-na-dvorku",
         "address": {
@@ -13611,6 +14509,7 @@ export function loadData(): Places {
         "activities": ["sauna"]
       },
       {
+        "id": 0,
         "name": "Restaurace Kotelna",
         "url": "https://www.activepass.cz/partner/restaurace-kotelna",
         "address": {
@@ -13621,6 +14520,7 @@ export function loadData(): Places {
         "activities": ["bowling"]
       },
       {
+        "id": 0,
         "name": "Riddle Twist",
         "url": "https://www.activepass.cz/partner/riddle-twist",
         "address": {
@@ -13631,6 +14531,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "RIVER BOWLING",
         "url": "https://www.activepass.cz/partner/river-bowling",
         "address": {
@@ -13641,6 +14542,7 @@ export function loadData(): Places {
         "activities": ["bowling"]
       },
       {
+        "id": 0,
         "name": "RK Training",
         "url": "https://www.activepass.cz/partner/rk-training",
         "address": {
@@ -13658,6 +14560,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "ROBiQ - vzdělávací centrum Robotiky",
         "url": "https://www.activepass.cz/partner/robiq-vzdelavaci-centrum-robotiky",
         "address": {
@@ -13668,6 +14571,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Rodinný zábavní park Tongo",
         "url": "https://www.activepass.cz/partner/rodinny-zabavni-park-tongo",
         "address": {
@@ -13678,6 +14582,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "RS Gym",
         "url": "https://www.activepass.cz/partner/rs-gym",
         "address": {
@@ -13704,6 +14609,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "RS Sportcentrum, s.r.o.",
         "url": "https://www.activepass.cz/partner/rs-sportcentrum-s-r-o",
         "address": {
@@ -13714,6 +14620,7 @@ export function loadData(): Places {
         "activities": ["tenis", "sauna"]
       },
       {
+        "id": 0,
         "name": "Running zone",
         "url": "https://www.activepass.cz/partner/running-zone",
         "address": {
@@ -13734,6 +14641,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "S-Fitness Pardubice",
         "url": "https://www.activepass.cz/partner/s-fitness-pardubice",
         "address": {
@@ -13764,6 +14672,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "S-FITNESS PRAHA s.r.o.",
         "url": "https://www.activepass.cz/partner/s-fitness-praha-s-r-o",
         "address": {
@@ -13789,6 +14698,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Salon King",
         "url": "https://www.activepass.cz/partner/salon-king",
         "address": {
@@ -13799,6 +14709,7 @@ export function loadData(): Places {
         "activities": ["solná jeskyně"]
       },
       {
+        "id": 0,
         "name": "Sauna",
         "url": "https://www.activepass.cz/partner/sauna",
         "address": {
@@ -13809,6 +14720,7 @@ export function loadData(): Places {
         "activities": ["sauna"]
       },
       {
+        "id": 0,
         "name": "Sauna - Masáže Relax",
         "url": "https://www.activepass.cz/partner/sauna-masaze-relax",
         "address": {
@@ -13819,6 +14731,7 @@ export function loadData(): Places {
         "activities": ["sauna"]
       },
       {
+        "id": 0,
         "name": "Sauna 365",
         "url": "https://www.activepass.cz/partner/sauna-365",
         "address": {
@@ -13829,6 +14742,7 @@ export function loadData(): Places {
         "activities": ["badminton", "stolní tenis"]
       },
       {
+        "id": 0,
         "name": "Sauna Andersen",
         "url": "https://www.activepass.cz/partner/sauna-andersen",
         "address": {
@@ -13839,6 +14753,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Sauna Arena Chomutov",
         "url": "https://www.activepass.cz/partner/sauna-arena-chomutov",
         "address": {
@@ -13849,6 +14764,7 @@ export function loadData(): Places {
         "activities": ["sauna"]
       },
       {
+        "id": 0,
         "name": "Sauna Boskovice",
         "url": "https://www.activepass.cz/partner/sauna-boskovice",
         "address": {
@@ -13859,6 +14775,7 @@ export function loadData(): Places {
         "activities": ["sauna"]
       },
       {
+        "id": 0,
         "name": "Sauna Central",
         "url": "https://www.activepass.cz/partner/sauna-central",
         "address": {
@@ -13869,6 +14786,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "SAUNA Černý Most",
         "url": "https://www.activepass.cz/partner/sauna-cerny-most",
         "address": {
@@ -13879,6 +14797,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Sauna Dejvice",
         "url": "https://www.activepass.cz/partner/sauna-dejvice",
         "address": {
@@ -13889,6 +14808,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Sauna Hadovka",
         "url": "https://www.activepass.cz/partner/sauna-hadovka",
         "address": {
@@ -13899,6 +14819,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Sauna klub Finská",
         "url": "https://www.activepass.cz/partner/sauna-klub-finska",
         "address": {
@@ -13909,6 +14830,7 @@ export function loadData(): Places {
         "activities": ["jóga", "sauna", "pilates"]
       },
       {
+        "id": 0,
         "name": "SAUNA NAD DZBÁNEM",
         "url": "https://www.activepass.cz/partner/sauna-nad-dzbanem",
         "address": {
@@ -13919,6 +14841,7 @@ export function loadData(): Places {
         "activities": ["sauna"]
       },
       {
+        "id": 0,
         "name": "SAUNA NAD ZIMÁKEM",
         "url": "https://www.activepass.cz/partner/sauna-nad-zimakem",
         "address": {
@@ -13929,6 +14852,7 @@ export function loadData(): Places {
         "activities": ["sauna"]
       },
       {
+        "id": 0,
         "name": "Sauna Spot - Dvorce",
         "url": "https://www.activepass.cz/partner/sauna-spot-dvorce",
         "address": {
@@ -13939,6 +14863,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "SAUNABAR",
         "url": "https://www.activepass.cz/partner/saunabar",
         "address": {
@@ -13949,6 +14874,7 @@ export function loadData(): Places {
         "activities": ["sauna"]
       },
       {
+        "id": 0,
         "name": "Saunia OC Brno Letmo",
         "url": "https://www.activepass.cz/partner/saunia-oc-brno-letmo",
         "address": {
@@ -13959,6 +14885,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Saunia Campus Square",
         "url": "https://www.activepass.cz/partner/saunia-campus-square",
         "address": {
@@ -13969,6 +14896,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Saunia Černý most",
         "url": "https://www.activepass.cz/partner/saunia-cerny-most",
         "address": {
@@ -13979,6 +14907,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Saunia Chodov",
         "url": "https://www.activepass.cz/partner/saunia-chodov",
         "address": {
@@ -13989,6 +14918,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Saunia Forum Liberec",
         "url": "https://www.activepass.cz/partner/saunia-forum-liberec",
         "address": {
@@ -13999,6 +14929,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Saunia Futurum Ostrava",
         "url": "https://www.activepass.cz/partner/saunia-futurum-ostrava",
         "address": {
@@ -14009,6 +14940,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Saunia Galerie Butovice",
         "url": "https://www.activepass.cz/partner/saunia-galerie-butovice",
         "address": {
@@ -14019,6 +14951,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Saunia Harfa",
         "url": "https://www.activepass.cz/partner/saunia-harfa",
         "address": {
@@ -14029,6 +14962,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Saunia Hostivař",
         "url": "https://www.activepass.cz/partner/saunia-hostivar",
         "address": {
@@ -14039,6 +14973,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Saunia Krakov",
         "url": "https://www.activepass.cz/partner/saunia-krakov",
         "address": {
@@ -14049,6 +14984,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "SB Centrum",
         "url": "https://www.activepass.cz/partner/sb-centrum",
         "address": {
@@ -14059,6 +14995,7 @@ export function loadData(): Places {
         "activities": ["fitness", "pilates"]
       },
       {
+        "id": 0,
         "name": "SBA Sportcentrum Havránek",
         "url": "https://www.activepass.cz/partner/sba-sportcentrum-havranek",
         "address": {
@@ -14076,6 +15013,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "SC Eden Beroun",
         "url": "https://www.activepass.cz/partner/sc-eden-beroun",
         "address": {
@@ -14105,6 +15043,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "SC Fajne",
         "url": "https://www.activepass.cz/partner/sc-fajne",
         "address": {
@@ -14122,6 +15061,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "SC OSTRAVA",
         "url": "https://www.activepass.cz/partner/sc-ostrava",
         "address": {
@@ -14138,6 +15078,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "SC Palmovka",
         "url": "https://www.activepass.cz/partner/sc-palmovka",
         "address": {
@@ -14162,6 +15103,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Schola Artist",
         "url": "https://www.activepass.cz/partner/schola-artist",
         "address": {
@@ -14176,6 +15118,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sdružení Sport Centrum Pavlovice",
         "url": "https://www.activepass.cz/partner/sdruzeni-sport-centrum-pavlovice",
         "address": {
@@ -14193,6 +15136,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "SECTOR",
         "url": "https://www.activepass.cz/partner/sector",
         "address": {
@@ -14212,6 +15156,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "SIDDHA YOGA",
         "url": "https://www.activepass.cz/partner/siddha-yoga",
         "address": {
@@ -14228,6 +15173,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sikisport Gym",
         "url": "https://www.activepass.cz/partner/sikisport-gym",
         "address": {
@@ -14243,6 +15189,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Simply Fitness",
         "url": "https://www.activepass.cz/partner/simply-fitness",
         "address": {
@@ -14253,6 +15200,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "SIMPLYFIT",
         "url": "https://www.activepass.cz/partner/simplyfit",
         "address": {
@@ -14263,6 +15211,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "SK Aritma Praha",
         "url": "https://www.activepass.cz/partner/sk-aritma-praha",
         "address": {
@@ -14273,6 +15222,7 @@ export function loadData(): Places {
         "activities": ["plážový volejbal", "tenis"]
       },
       {
+        "id": 0,
         "name": "SK Beachvoleyball Slavkov",
         "url": "https://www.activepass.cz/partner/sk-beachvoleyball-slavkov",
         "address": {
@@ -14283,6 +15233,7 @@ export function loadData(): Places {
         "activities": ["plážový volejbal"]
       },
       {
+        "id": 0,
         "name": "SK Gym Humpolec",
         "url": "https://www.activepass.cz/partner/sk-gym-humpolec",
         "address": {
@@ -14312,6 +15263,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "SK Motorlet Praha - Plavecký areál",
         "url": "https://www.activepass.cz/partner/sk-motorlet-praha-plavecky-areal",
         "address": {
@@ -14322,6 +15274,7 @@ export function loadData(): Places {
         "activities": ["plavecký bazén"]
       },
       {
+        "id": 0,
         "name": "SK OÁZA PRAHA",
         "url": "https://www.activepass.cz/partner/sk-oaza-praha",
         "address": {
@@ -14332,6 +15285,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "SK Quatro sport klub",
         "url": "https://www.activepass.cz/partner/sk-quatro-sport-klub",
         "address": {
@@ -14342,6 +15296,7 @@ export function loadData(): Places {
         "activities": ["ricochet"]
       },
       {
+        "id": 0,
         "name": "SK tenis Tišňov",
         "url": "https://www.activepass.cz/partner/sk-tenis-tisnov",
         "address": {
@@ -14352,6 +15307,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Ski areál Bedřichov",
         "url": "https://www.activepass.cz/partner/ski-areal-bedrichov",
         "address": {
@@ -14367,6 +15323,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Ski areál Severák",
         "url": "https://www.activepass.cz/partner/ski-areal-severak",
         "address": {
@@ -14382,6 +15339,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Ski areál Špičák",
         "url": "https://www.activepass.cz/partner/ski-areal-spicak",
         "address": {
@@ -14397,6 +15355,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Ski areál U Vodárny",
         "url": "https://www.activepass.cz/partner/ski-areal-u-vodarny",
         "address": {
@@ -14414,6 +15373,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "SKIAREÁL Červenohorské sedlo",
         "url": "https://www.activepass.cz/partner/skiareal-cervenohorske-sedlo",
         "address": {
@@ -14424,6 +15384,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Skiareál Rozhledna Karasín",
         "url": "https://www.activepass.cz/partner/skiareal-rozhledna-karasin",
         "address": {
@@ -14434,6 +15395,7 @@ export function loadData(): Places {
         "activities": ["lyžování a snowboarding"]
       },
       {
+        "id": 0,
         "name": "Školní sportovní areál Nová Ves",
         "url": "https://www.activepass.cz/partner/skolni-sportovni-areal-nova-ves",
         "address": {
@@ -14444,6 +15406,7 @@ export function loadData(): Places {
         "activities": ["plavecký bazén"]
       },
       {
+        "id": 0,
         "name": "SKY GYM",
         "url": "https://www.activepass.cz/partner/sky-gym",
         "address": {
@@ -14472,6 +15435,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Smajlíkov",
         "url": "https://www.activepass.cz/partner/smajlikov",
         "address": {
@@ -14485,6 +15449,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Smart Gym",
         "url": "https://www.activepass.cz/partner/smart-gym",
         "address": {
@@ -14507,6 +15472,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sokolovna Litvínov",
         "url": "https://www.activepass.cz/partner/sokolovna-litvinov",
         "address": {
@@ -14526,6 +15492,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "SOLANKA",
         "url": "https://www.activepass.cz/partner/solanka",
         "address": {
@@ -14536,6 +15503,7 @@ export function loadData(): Places {
         "activities": ["solná jeskyně"]
       },
       {
+        "id": 0,
         "name": "Solná jeskyně a polárium SOLANKA",
         "url": "https://www.activepass.cz/partner/solna-jeskyne-a-polarium-solanka",
         "address": {
@@ -14546,6 +15514,7 @@ export function loadData(): Places {
         "activities": ["solná jeskyně"]
       },
       {
+        "id": 0,
         "name": "Solná jeskyně AniKa",
         "url": "https://www.activepass.cz/partner/solna-jeskyne-anika",
         "address": {
@@ -14556,6 +15525,7 @@ export function loadData(): Places {
         "activities": ["solná jeskyně"]
       },
       {
+        "id": 0,
         "name": "Solná jeskyně DAKAR",
         "url": "https://www.activepass.cz/partner/solna-jeskyne-dakar",
         "address": {
@@ -14566,6 +15536,7 @@ export function loadData(): Places {
         "activities": ["solná jeskyně"]
       },
       {
+        "id": 0,
         "name": "Solná jeskyně Halos Ostrava",
         "url": "https://www.activepass.cz/partner/solna-jeskyne-halos-ostrava",
         "address": {
@@ -14576,6 +15547,7 @@ export function loadData(): Places {
         "activities": ["solná jeskyně"]
       },
       {
+        "id": 0,
         "name": "Solná jeskyně Kuska",
         "url": "https://www.activepass.cz/partner/solna-jeskyne-kuska",
         "address": {
@@ -14586,6 +15558,7 @@ export function loadData(): Places {
         "activities": ["solná jeskyně"]
       },
       {
+        "id": 0,
         "name": "Solná jeskyně Lastura",
         "url": "https://www.activepass.cz/partner/solna-jeskyne-lastura",
         "address": {
@@ -14596,6 +15569,7 @@ export function loadData(): Places {
         "activities": ["solná jeskyně"]
       },
       {
+        "id": 0,
         "name": "Solná jeskyně Pod Parkem",
         "url": "https://www.activepass.cz/partner/solna-jeskyne-pod-parkem",
         "address": {
@@ -14606,6 +15580,7 @@ export function loadData(): Places {
         "activities": ["solná jeskyně"]
       },
       {
+        "id": 0,
         "name": "Solná jeskyně Semily",
         "url": "https://www.activepass.cz/partner/solna-jeskyne-semily",
         "address": {
@@ -14616,6 +15591,7 @@ export function loadData(): Places {
         "activities": ["solná jeskyně"]
       },
       {
+        "id": 0,
         "name": "Solná jeskyně Solenka",
         "url": "https://www.activepass.cz/partner/solna-jeskyne-solenka",
         "address": {
@@ -14626,6 +15602,7 @@ export function loadData(): Places {
         "activities": ["solná jeskyně"]
       },
       {
+        "id": 0,
         "name": "Solná štola",
         "url": "https://www.activepass.cz/partner/solna-stola",
         "address": {
@@ -14636,6 +15613,7 @@ export function loadData(): Places {
         "activities": ["solná jeskyně"]
       },
       {
+        "id": 0,
         "name": "Solnička penzion a relaxační centrum",
         "url": "https://www.activepass.cz/partner/solnicka-penzion-a-relaxacni-centrum",
         "address": {
@@ -14646,6 +15624,7 @@ export function loadData(): Places {
         "activities": ["solná jeskyně"]
       },
       {
+        "id": 0,
         "name": "Solný chrám Letňany",
         "url": "https://www.activepass.cz/partner/solny-chram-letnany",
         "address": {
@@ -14656,6 +15635,7 @@ export function loadData(): Places {
         "activities": ["solná jeskyně"]
       },
       {
+        "id": 0,
         "name": "SPARTAN GYM",
         "url": "https://www.activepass.cz/partner/spartan-gym",
         "address": {
@@ -14694,6 +15674,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Spinning & Fitness Brno",
         "url": "https://www.activepass.cz/partner/spinning-fitness-brno",
         "address": {
@@ -14704,6 +15685,7 @@ export function loadData(): Places {
         "activities": ["spinning (indoor cycling)"]
       },
       {
+        "id": 0,
         "name": "Spinning and HEAT Centrum",
         "url": "https://www.activepass.cz/partner/spinning-and-heat-centrum",
         "address": {
@@ -14717,6 +15699,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Spinning Arena",
         "url": "https://www.activepass.cz/partner/spinning-arena",
         "address": {
@@ -14739,6 +15722,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Spinning Radlice",
         "url": "https://www.activepass.cz/partner/spinning-radlice",
         "address": {
@@ -14749,6 +15733,7 @@ export function loadData(): Places {
         "activities": ["spinning (indoor cycling)"]
       },
       {
+        "id": 0,
         "name": "SPINNING s občerstvením - JBC",
         "url": "https://www.activepass.cz/partner/spinning-s-obcerstvenim-jbc",
         "address": {
@@ -14772,6 +15757,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Spinning-MB",
         "url": "https://www.activepass.cz/partner/spinning-mb",
         "address": {
@@ -14782,6 +15768,7 @@ export function loadData(): Places {
         "activities": ["spinning (indoor cycling)"]
       },
       {
+        "id": 0,
         "name": "Spirit Space Studio",
         "url": "https://www.activepass.cz/partner/spirit-space-studio",
         "address": {
@@ -14798,6 +15785,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "SPIRIT SPORTOVNÍ CENTRUM",
         "url": "https://www.activepass.cz/partner/spirit-sportovni-centrum",
         "address": {
@@ -14819,6 +15807,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sport areál Klíny",
         "url": "https://www.activepass.cz/partner/sport-areal-kliny",
         "address": {
@@ -14829,6 +15818,7 @@ export function loadData(): Places {
         "activities": ["lanovka", "bobové dráhy"]
       },
       {
+        "id": 0,
         "name": "Sport Arena",
         "url": "https://www.activepass.cz/partner/sport-arena",
         "address": {
@@ -14844,6 +15834,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sport Balkán s.r.o.",
         "url": "https://www.activepass.cz/partner/sport-balkan-s-r-o",
         "address": {
@@ -14854,6 +15845,7 @@ export function loadData(): Places {
         "activities": ["squash"]
       },
       {
+        "id": 0,
         "name": "Sport centrum ATLAS s.r.o.",
         "url": "https://www.activepass.cz/partner/sport-centrum-atlas-s-r-o",
         "address": {
@@ -14877,6 +15869,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sport centrum Chodov",
         "url": "https://www.activepass.cz/partner/sport-centrum-chodov",
         "address": {
@@ -14909,6 +15902,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sport centrum Evropská",
         "url": "https://www.activepass.cz/partner/sport-centrum-evropska",
         "address": {
@@ -14928,6 +15922,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "SPORT CENTRUM VIKTORIA",
         "url": "https://www.activepass.cz/partner/sport-centrum-viktoria",
         "address": {
@@ -14943,6 +15938,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sport centrum Zastávka",
         "url": "https://www.activepass.cz/partner/sport-centrum-zastavka",
         "address": {
@@ -14967,6 +15963,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sport hotel České Budějovice",
         "url": "https://www.activepass.cz/partner/sport-hotel-ceske-budejovice",
         "address": {
@@ -14977,6 +15974,7 @@ export function loadData(): Places {
         "activities": ["stolní tenis"]
       },
       {
+        "id": 0,
         "name": "Sport Park Liberec",
         "url": "https://www.activepass.cz/partner/sport-park-liberec",
         "address": {
@@ -14994,6 +15992,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "SPORT PERFEKT OPAVA",
         "url": "https://www.activepass.cz/partner/sport-perfekt-opava",
         "address": {
@@ -15013,6 +16012,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sport Studio",
         "url": "https://www.activepass.cz/partner/sport-studio",
         "address": {
@@ -15037,6 +16037,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "SPORT STUDIO PRIMA",
         "url": "https://www.activepass.cz/partner/sport-studio-prima",
         "address": {
@@ -15047,6 +16048,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "Sport4fighter",
         "url": "https://www.activepass.cz/partner/sport4fighter",
         "address": {
@@ -15062,6 +16064,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sportareál Družstevní",
         "url": "https://www.activepass.cz/partner/sportareal-druzstevni",
         "address": {
@@ -15072,6 +16075,7 @@ export function loadData(): Places {
         "activities": ["aquaaerobic", "plavecký bazén"]
       },
       {
+        "id": 0,
         "name": "Sportcentrum a wellnes Paráda",
         "url": "https://www.activepass.cz/partner/sportcentrum-a-wellnes-parada",
         "address": {
@@ -15098,6 +16102,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "SPORTCENTRUM DUNA",
         "url": "https://www.activepass.cz/partner/sportcentrum-duna",
         "address": {
@@ -15108,6 +16113,7 @@ export function loadData(): Places {
         "activities": ["squash", "bowling"]
       },
       {
+        "id": 0,
         "name": "Sportcentrum Horní Počaply",
         "url": "https://www.activepass.cz/partner/sportcentrum-horni-pocaply",
         "address": {
@@ -15118,6 +16124,7 @@ export function loadData(): Places {
         "activities": ["spinning (indoor cycling)", "fitness"]
       },
       {
+        "id": 0,
         "name": "Sportcentrum Hoštka",
         "url": "https://www.activepass.cz/partner/sportcentrum-hostka",
         "address": {
@@ -15136,6 +16143,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sportcentrum Hrušková",
         "url": "https://www.activepass.cz/partner/sportcentrum-hruskova",
         "address": {
@@ -15153,6 +16161,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sportcentrum Ivanovice",
         "url": "https://www.activepass.cz/partner/sportcentrum-ivanovice",
         "address": {
@@ -15173,6 +16182,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sportcentrum KOLOSEUM",
         "url": "https://www.activepass.cz/partner/sportcentrum-koloseum",
         "address": {
@@ -15188,6 +16198,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "SPORTCENTRUM KUBUS",
         "url": "https://www.activepass.cz/partner/sportcentrum-kubus",
         "address": {
@@ -15211,6 +16222,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "SportCentrum Kuklenská",
         "url": "https://www.activepass.cz/partner/sportcentrum-kuklenska",
         "address": {
@@ -15221,6 +16233,7 @@ export function loadData(): Places {
         "activities": ["badminton", "funkční trénink"]
       },
       {
+        "id": 0,
         "name": "Sportcentrum Malenovice",
         "url": "https://www.activepass.cz/partner/sportcentrum-malenovice",
         "address": {
@@ -15255,6 +16268,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sportcentrum Maty",
         "url": "https://www.activepass.cz/partner/sportcentrum-maty",
         "address": {
@@ -15265,6 +16279,7 @@ export function loadData(): Places {
         "activities": ["badminton"]
       },
       {
+        "id": 0,
         "name": "Sportcentrum Maty - skupinové lekce",
         "url": "https://www.activepass.cz/partner/sportcentrum-maty-skupinove-lekce",
         "address": {
@@ -15294,6 +16309,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "SportCentrum Písek",
         "url": "https://www.activepass.cz/partner/sportcentrum-pisek",
         "address": {
@@ -15304,6 +16320,7 @@ export function loadData(): Places {
         "activities": ["badminton", "squash"]
       },
       {
+        "id": 0,
         "name": "Sportcentrum Sára",
         "url": "https://www.activepass.cz/partner/sportcentrum-sara",
         "address": {
@@ -15320,6 +16337,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sportcentrum TJ Turnov",
         "url": "https://www.activepass.cz/partner/sportcentrum-tj-turnov",
         "address": {
@@ -15336,6 +16354,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sportcentrum YMCA",
         "url": "https://www.activepass.cz/partner/sportcentrum-ymca",
         "address": {
@@ -15377,6 +16396,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sportclub Metalurg",
         "url": "https://www.activepass.cz/partner/sportclub-metalurg",
         "address": {
@@ -15387,6 +16407,7 @@ export function loadData(): Places {
         "activities": ["badminton"]
       },
       {
+        "id": 0,
         "name": "Sportclub u divadla",
         "url": "https://www.activepass.cz/partner/sportclub-u-divadla",
         "address": {
@@ -15404,6 +16425,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sportfly",
         "url": "https://www.activepass.cz/partner/sportfly",
         "address": {
@@ -15414,6 +16436,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "SPORTLIFE FITNESS 4U",
         "url": "https://www.activepass.cz/partner/sportlife-fitness-4u",
         "address": {
@@ -15424,6 +16447,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "SPORTMAX",
         "url": "https://www.activepass.cz/partner/sportmax",
         "address": {
@@ -15444,6 +16468,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sportoviště města Hlinska",
         "url": "https://www.activepass.cz/partner/sportoviste-mesta-hlinska",
         "address": {
@@ -15454,6 +16479,7 @@ export function loadData(): Places {
         "activities": ["squash", "plavecký bazén", "sauna"]
       },
       {
+        "id": 0,
         "name": "Sportovně kulturní centrum",
         "url": "https://www.activepass.cz/partner/sportovne-kulturni-centrum",
         "address": {
@@ -15469,6 +16495,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sportovní a rekreační areál Pražačka",
         "url": "https://www.activepass.cz/partner/sportovni-a-rekreacni-areal-prazacka",
         "address": {
@@ -15485,6 +16512,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sportovní a relaxační centrum Kotelna",
         "url": "https://www.activepass.cz/partner/sportovni-a-relaxacni-centrum-kotelna",
         "address": {
@@ -15509,6 +16537,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sportovní a vzdělávací centrum Body Care",
         "url": "https://www.activepass.cz/partner/sportovni-a-vzdelavaci-centrum-body-care",
         "address": {
@@ -15530,6 +16559,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sportovní areál",
         "url": "https://www.activepass.cz/partner/sportovni-areal",
         "address": {
@@ -15540,6 +16570,7 @@ export function loadData(): Places {
         "activities": ["tenis", "kuželky"]
       },
       {
+        "id": 0,
         "name": "Sportovní areál HAMR - Braník",
         "url": "https://www.activepass.cz/partner/sportovni-areal-hamr-branik",
         "address": {
@@ -15556,6 +16587,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sportovní areál HAMR - Štěrboholy",
         "url": "https://www.activepass.cz/partner/sportovni-areal-hamr-sterboholy",
         "address": {
@@ -15572,6 +16604,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sportovní areál HAMR-Záběhlice",
         "url": "https://www.activepass.cz/partner/sportovni-areal-hamr-zabehlice",
         "address": {
@@ -15607,6 +16640,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sportovní areál Hroch",
         "url": "https://www.activepass.cz/partner/sportovni-areal-hroch",
         "address": {
@@ -15617,6 +16651,7 @@ export function loadData(): Places {
         "activities": ["plážový volejbal"]
       },
       {
+        "id": 0,
         "name": "sportovní areál Šibeniční vrch",
         "url": "https://www.activepass.cz/partner/sportovni-areal-sibenicni-vrch",
         "address": {
@@ -15633,6 +16668,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sportovní centrum Cardiofitness",
         "url": "https://www.activepass.cz/partner/sportovni-centrum-cardiofitness",
         "address": {
@@ -15643,6 +16679,7 @@ export function loadData(): Places {
         "activities": ["fitness", "jumping", "trx"]
       },
       {
+        "id": 0,
         "name": "Sportovní centrum Hrádek",
         "url": "https://www.activepass.cz/partner/sportovni-centrum-hradek",
         "address": {
@@ -15663,6 +16700,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sportovní centrum Mlýn",
         "url": "https://www.activepass.cz/partner/sportovni-centrum-mlyn",
         "address": {
@@ -15690,6 +16728,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sportovní centrum RESTAART",
         "url": "https://www.activepass.cz/partner/sportovni-centrum-restaart",
         "address": {
@@ -15717,6 +16756,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sportovní centrum Semily",
         "url": "https://www.activepass.cz/partner/sportovni-centrum-semily",
         "address": {
@@ -15733,6 +16773,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sportovní centrum Trojka Kolín",
         "url": "https://www.activepass.cz/partner/sportovni-centrum-trojka-kolin",
         "address": {
@@ -15769,6 +16810,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sportovní Centrum Velké Meziříčí",
         "url": "https://www.activepass.cz/partner/sportovni-centrum-velke-mezirici",
         "address": {
@@ -15808,6 +16850,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sportovní hala Mikulov",
         "url": "https://www.activepass.cz/partner/sportovni-hala-mikulov",
         "address": {
@@ -15818,6 +16861,7 @@ export function loadData(): Places {
         "activities": ["squash"]
       },
       {
+        "id": 0,
         "name": "Sportovní hala Žabčice",
         "url": "https://www.activepass.cz/partner/sportovni-hala-zabcice",
         "address": {
@@ -15828,6 +16872,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Sportovní klub Troja",
         "url": "https://www.activepass.cz/partner/sportovni-klub-troja",
         "address": {
@@ -15838,6 +16883,7 @@ export function loadData(): Places {
         "activities": ["tenis", "badminton", "sauna"]
       },
       {
+        "id": 0,
         "name": "SPORTPARK HIT",
         "url": "https://www.activepass.cz/partner/sportpark-hit",
         "address": {
@@ -15848,6 +16894,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Sportpark Rybníček - areál Rybníček",
         "url": "https://www.activepass.cz/partner/sportpark-rybnicek-areal-rybnicek",
         "address": {
@@ -15863,6 +16910,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sportpark Rybníček - areál Sokolovna",
         "url": "https://www.activepass.cz/partner/sportpark-rybnicek-areal-sokolovna",
         "address": {
@@ -15877,6 +16925,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sports Resort Gejzírpark",
         "url": "https://www.activepass.cz/partner/sports-resort-gejzirpark",
         "address": {
@@ -15887,6 +16936,7 @@ export function loadData(): Places {
         "activities": ["tenis", "badminton"]
       },
       {
+        "id": 0,
         "name": "Squash & Spinning",
         "url": "https://www.activepass.cz/partner/squash-spinning",
         "address": {
@@ -15897,6 +16947,7 @@ export function loadData(): Places {
         "activities": ["spinning (indoor cycling)", "squash"]
       },
       {
+        "id": 0,
         "name": "SQUASH - HAŠTAL",
         "url": "https://www.activepass.cz/partner/squash-hastal",
         "address": {
@@ -15907,6 +16958,7 @@ export function loadData(): Places {
         "activities": ["sauna"]
       },
       {
+        "id": 0,
         "name": "Squash a fitness centrum Arbes",
         "url": "https://www.activepass.cz/partner/squash-a-fitness-centrum-arbes",
         "address": {
@@ -15923,6 +16975,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Squash arena Liberec",
         "url": "https://www.activepass.cz/partner/squash-arena-liberec",
         "address": {
@@ -15938,6 +16991,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Squash Bobycentrum",
         "url": "https://www.activepass.cz/partner/squash-bobycentrum",
         "address": {
@@ -15948,6 +17002,7 @@ export function loadData(): Places {
         "activities": ["squash", "stolní tenis"]
       },
       {
+        "id": 0,
         "name": "Squash centrum",
         "url": "https://www.activepass.cz/partner/squash-centrum-1",
         "address": {
@@ -15971,6 +17026,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Squash centrum",
         "url": "https://www.activepass.cz/partner/squash-centrum",
         "address": {
@@ -15981,6 +17037,7 @@ export function loadData(): Places {
         "activities": ["squash"]
       },
       {
+        "id": 0,
         "name": "Squash centrum Poruba",
         "url": "https://www.activepass.cz/partner/squash-centrum-poruba",
         "address": {
@@ -15991,6 +17048,7 @@ export function loadData(): Places {
         "activities": ["squash", "ricochet"]
       },
       {
+        "id": 0,
         "name": "Squash centrum Vyškov",
         "url": "https://www.activepass.cz/partner/squash-centrum-vyskov",
         "address": {
@@ -16017,6 +17075,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Squash Fitness Wellness Žatec",
         "url": "https://www.activepass.cz/partner/squash-fitness-wellness-zatec",
         "address": {
@@ -16027,6 +17086,7 @@ export function loadData(): Places {
         "activities": ["fitness", "squash"]
       },
       {
+        "id": 0,
         "name": "Squash Haštal",
         "url": "https://www.activepass.cz/partner/squash-hastal-1",
         "address": {
@@ -16043,6 +17103,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Squash Holešovice",
         "url": "https://www.activepass.cz/partner/squash-holesovice",
         "address": {
@@ -16053,6 +17114,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Squash Modrý svět",
         "url": "https://www.activepass.cz/partner/squash-modry-svet",
         "address": {
@@ -16063,6 +17125,7 @@ export function loadData(): Places {
         "activities": ["squash"]
       },
       {
+        "id": 0,
         "name": "Squash Ohradní",
         "url": "https://www.activepass.cz/partner/squash-ohradni",
         "address": {
@@ -16073,6 +17136,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Squash Strahov",
         "url": "https://www.activepass.cz/partner/squash-strahov",
         "address": {
@@ -16083,6 +17147,7 @@ export function loadData(): Places {
         "activities": ["squash"]
       },
       {
+        "id": 0,
         "name": "Squashpoint",
         "url": "https://www.activepass.cz/partner/squashpoint",
         "address": {
@@ -16115,6 +17180,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Stará vodárna",
         "url": "https://www.activepass.cz/partner/stara-vodarna",
         "address": {
@@ -16125,6 +17191,7 @@ export function loadData(): Places {
         "activities": ["plážový volejbal", "nohejbal"]
       },
       {
+        "id": 0,
         "name": "Stará vodárna - půjčovna",
         "url": "https://www.activepass.cz/partner/stara-vodarna-pujcovna",
         "address": {
@@ -16135,6 +17202,7 @@ export function loadData(): Places {
         "activities": ["půjčovna kánoe", "kajak"]
       },
       {
+        "id": 0,
         "name": "Šťastná Země",
         "url": "https://www.activepass.cz/partner/stastna-zeme",
         "address": {
@@ -16149,6 +17217,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Statek u zvířátek",
         "url": "https://www.activepass.cz/partner/statek-u-zviratek",
         "address": {
@@ -16165,6 +17234,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "STAYFIT - cvičební studio",
         "url": "https://www.activepass.cz/partner/stayfit-cvicebni-studio",
         "address": {
@@ -16191,6 +17261,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Steampunk Laboratory Brno",
         "url": "https://www.activepass.cz/partner/steampunk-laboratory-brno",
         "address": {
@@ -16201,6 +17272,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Štefánikova hvězdárna",
         "url": "https://www.activepass.cz/partner/stefanikova-hvezdarna",
         "address": {
@@ -16211,6 +17283,7 @@ export function loadData(): Places {
         "activities": ["exkurze"]
       },
       {
+        "id": 0,
         "name": "ŠtolaGym",
         "url": "https://www.activepass.cz/partner/stolagym",
         "address": {
@@ -16233,6 +17306,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Stolní tenis & Hravý bar",
         "url": "https://www.activepass.cz/partner/stolni-tenis-hravy-bar",
         "address": {
@@ -16243,6 +17317,7 @@ export function loadData(): Places {
         "activities": ["stolní tenis"]
       },
       {
+        "id": 0,
         "name": "Stone Bowling bar",
         "url": "https://www.activepass.cz/partner/stone-bowling-bar",
         "address": {
@@ -16253,6 +17328,7 @@ export function loadData(): Places {
         "activities": ["adventure minigolf", "bowling"]
       },
       {
+        "id": 0,
         "name": "Strahov Gym",
         "url": "https://www.activepass.cz/partner/strahov-gym",
         "address": {
@@ -16268,6 +17344,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Strašidelný dům Olomouc",
         "url": "https://www.activepass.cz/partner/strasidelny-dum-olomouc",
         "address": {
@@ -16278,6 +17355,7 @@ export function loadData(): Places {
         "activities": ["indoor aktivity/ areny"]
       },
       {
+        "id": 0,
         "name": "STRĚLNICE SPORTPARK LIBEREC",
         "url": "https://www.activepass.cz/partner/strelnice-sportpark-liberec",
         "address": {
@@ -16288,6 +17366,7 @@ export function loadData(): Places {
         "activities": ["střelnice pro palné zbraně"]
       },
       {
+        "id": 0,
         "name": "Studio Beyond",
         "url": "https://www.activepass.cz/partner/studio-beyond",
         "address": {
@@ -16325,6 +17404,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Studio Dity Patrmanové",
         "url": "https://www.activepass.cz/partner/studio-dity-patrmanove",
         "address": {
@@ -16335,6 +17415,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Studio DRILL",
         "url": "https://www.activepass.cz/partner/studio-drill",
         "address": {
@@ -16345,6 +17426,7 @@ export function loadData(): Places {
         "activities": ["bosu", "kalanetika", "jumping", "trx"]
       },
       {
+        "id": 0,
         "name": "Studio Ella",
         "url": "https://www.activepass.cz/partner/studio-ella",
         "address": {
@@ -16355,6 +17437,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "Studio ELLE",
         "url": "https://www.activepass.cz/partner/studio-elle",
         "address": {
@@ -16371,6 +17454,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "STUDIO FIGHTER´S STRAHOV",
         "url": "https://www.activepass.cz/partner/studio-fighter-s-strahov",
         "address": {
@@ -16397,6 +17481,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Studio Formička",
         "url": "https://www.activepass.cz/partner/studio-formicka",
         "address": {
@@ -16418,6 +17503,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Studio Hvězda",
         "url": "https://www.activepass.cz/partner/studio-hvezda",
         "address": {
@@ -16436,6 +17522,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "STUDIO IDA",
         "url": "https://www.activepass.cz/partner/studio-ida",
         "address": {
@@ -16446,6 +17533,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Studio Iyengar jógy",
         "url": "https://www.activepass.cz/partner/studio-iyengar-jogy",
         "address": {
@@ -16456,6 +17544,7 @@ export function loadData(): Places {
         "activities": ["jóga"]
       },
       {
+        "id": 0,
         "name": "Studio Karmayoga",
         "url": "https://www.activepass.cz/partner/studio-karmayoga",
         "address": {
@@ -16477,6 +17566,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Studio Lady Fit",
         "url": "https://www.activepass.cz/partner/studio-lady-fit",
         "address": {
@@ -16496,6 +17586,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Studio Lapé",
         "url": "https://www.activepass.cz/partner/studio-lape",
         "address": {
@@ -16506,6 +17597,7 @@ export function loadData(): Places {
         "activities": ["jóga", "funkční trénink", "trx"]
       },
       {
+        "id": 0,
         "name": "Studio Manuela",
         "url": "https://www.activepass.cz/partner/studio-manuela",
         "address": {
@@ -16516,6 +17608,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Studio Modelace",
         "url": "https://www.activepass.cz/partner/studio-modelace",
         "address": {
@@ -16526,6 +17619,7 @@ export function loadData(): Places {
         "activities": ["kruhové tréninky"]
       },
       {
+        "id": 0,
         "name": "Studio Namaste",
         "url": "https://www.activepass.cz/partner/studio-namaste",
         "address": {
@@ -16536,6 +17630,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Studio ONE2ONE",
         "url": "https://www.activepass.cz/partner/studio-one2one",
         "address": {
@@ -16553,6 +17648,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Studio Silueta",
         "url": "https://www.activepass.cz/partner/studio-silueta",
         "address": {
@@ -16570,6 +17666,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Studio Tanes",
         "url": "https://www.activepass.cz/partner/studio-tanes",
         "address": {
@@ -16593,6 +17690,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Studio TOPRELAX",
         "url": "https://www.activepass.cz/partner/studio-toprelax",
         "address": {
@@ -16603,6 +17701,7 @@ export function loadData(): Places {
         "activities": ["solná jeskyně"]
       },
       {
+        "id": 0,
         "name": "STUDIO VERBENA",
         "url": "https://www.activepass.cz/partner/studio-verbena",
         "address": {
@@ -16613,6 +17712,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Studio Vrabí",
         "url": "https://www.activepass.cz/partner/studio-vrabi",
         "address": {
@@ -16623,6 +17723,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "StudioFit activity",
         "url": "https://www.activepass.cz/partner/studiofit-activity",
         "address": {
@@ -16641,6 +17742,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Sundara",
         "url": "https://www.activepass.cz/partner/sundara",
         "address": {
@@ -16651,6 +17753,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Superfitness",
         "url": "https://www.activepass.cz/partner/superfitness",
         "address": {
@@ -16674,6 +17777,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Surf Arena Praha",
         "url": "https://www.activepass.cz/partner/surf-arena-praha",
         "address": {
@@ -16684,6 +17788,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Svět FitZone",
         "url": "https://www.activepass.cz/partner/svet-fitzone",
         "address": {
@@ -16709,6 +17814,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Svět plavání",
         "url": "https://www.activepass.cz/partner/svet-plavani",
         "address": {
@@ -16725,6 +17831,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Svíčkárna Rodas Plzeň",
         "url": "https://www.activepass.cz/partner/svickarna-rodas-plzen",
         "address": {
@@ -16735,6 +17842,7 @@ export function loadData(): Places {
         "activities": ["speciální kurzy aj."]
       },
       {
+        "id": 0,
         "name": "Sweet Orange Club",
         "url": "https://www.activepass.cz/partner/sweet-orange-club",
         "address": {
@@ -16749,6 +17857,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Switch Street Work Out",
         "url": "https://www.activepass.cz/partner/switch-street-work-out",
         "address": {
@@ -16763,6 +17872,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Synergy Club Anděl",
         "url": "https://www.activepass.cz/partner/synergy-club-andel",
         "address": {
@@ -16773,6 +17883,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "T- CLUB - sport, zdravá výživa",
         "url": "https://www.activepass.cz/partner/t-club-sport-zdrava-vyziva",
         "address": {
@@ -16805,6 +17916,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Tajemná cesta",
         "url": "https://www.activepass.cz/partner/tajemna-cesta",
         "address": {
@@ -16815,6 +17927,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Taneční škola Aura",
         "url": "https://www.activepass.cz/partner/tanecni-skola-aura",
         "address": {
@@ -16847,6 +17960,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Taneční škola Bonstep",
         "url": "https://www.activepass.cz/partner/tanecni-skola-bonstep",
         "address": {
@@ -16868,6 +17982,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Taneční studio \"Tančit může každý!\"",
         "url": "https://www.activepass.cz/partner/tanecni-studio-tancit-muze-kazdy",
         "address": {
@@ -16891,6 +18006,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Taneční studio NO FEET (Komárov)",
         "url": "https://www.activepass.cz/partner/tanecni-studio-no-feet-komarov",
         "address": {
@@ -16910,6 +18026,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Taneční studio NO FEET (Masarykova čtvrť)",
         "url": "https://www.activepass.cz/partner/tanecni-studio-no-feet-masarykova-ctvrt",
         "address": {
@@ -16938,6 +18055,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Taneční studio Stolárna",
         "url": "https://www.activepass.cz/partner/tanecni-studio-stolarna",
         "address": {
@@ -16948,6 +18066,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Taurus Club Brno",
         "url": "https://www.activepass.cz/partner/taurus-club-brno",
         "address": {
@@ -16973,6 +18092,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Team Exit: úniková hra Jihlava",
         "url": "https://www.activepass.cz/partner/team-exit-unikova-hra-jihlava",
         "address": {
@@ -16983,6 +18103,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Technické muzem Liberec",
         "url": "https://www.activepass.cz/partner/technicke-muzem-liberec",
         "address": {
@@ -16993,6 +18114,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Tělovýchovně sportovní klub Turnov",
         "url": "https://www.activepass.cz/partner/telovychovne-sportovni-klub-turnov",
         "address": {
@@ -17003,6 +18125,7 @@ export function loadData(): Places {
         "activities": ["fitness", "kardiozóna", "posilovna"]
       },
       {
+        "id": 0,
         "name": "Tempo Tenis, areál Lhotka",
         "url": "https://www.activepass.cz/partner/tempo-tenis-areal-lhotka",
         "address": {
@@ -17013,6 +18136,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Tempo Tenis, areál Modřany",
         "url": "https://www.activepass.cz/partner/tempo-tenis-areal-modrany",
         "address": {
@@ -17023,6 +18147,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Tenba - multifunkční hala",
         "url": "https://www.activepass.cz/partner/tenba-multifunkcni-hala",
         "address": {
@@ -17033,6 +18158,7 @@ export function loadData(): Places {
         "activities": ["badminton"]
       },
       {
+        "id": 0,
         "name": "Tendon Blok",
         "url": "https://www.activepass.cz/partner/tendon-blok",
         "address": {
@@ -17043,6 +18169,7 @@ export function loadData(): Places {
         "activities": ["lezecké stěny"]
       },
       {
+        "id": 0,
         "name": "TENIS CENTRUM HEAD Uhříněves",
         "url": "https://www.activepass.cz/partner/tenis-centrum-head-uhrineves",
         "address": {
@@ -17053,6 +18180,7 @@ export function loadData(): Places {
         "activities": ["tenis", "badminton"]
       },
       {
+        "id": 0,
         "name": "Tenis klub Pelhřimov",
         "url": "https://www.activepass.cz/partner/tenis-klub-pelhrimov",
         "address": {
@@ -17063,6 +18191,7 @@ export function loadData(): Places {
         "activities": ["tenis", "badminton"]
       },
       {
+        "id": 0,
         "name": "Tenis Paradise",
         "url": "https://www.activepass.cz/partner/tenis-paradise",
         "address": {
@@ -17073,6 +18202,7 @@ export function loadData(): Places {
         "activities": ["tenis"]
       },
       {
+        "id": 0,
         "name": "Tenis Praha",
         "url": "https://www.activepass.cz/partner/tenis-praha",
         "address": {
@@ -17083,6 +18213,7 @@ export function loadData(): Places {
         "activities": ["tenis"]
       },
       {
+        "id": 0,
         "name": "Tenis SHARK",
         "url": "https://www.activepass.cz/partner/tenis-shark",
         "address": {
@@ -17093,6 +18224,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Tenis Velešín",
         "url": "https://www.activepass.cz/partner/tenis-velesin",
         "address": {
@@ -17103,6 +18235,7 @@ export function loadData(): Places {
         "activities": ["infra sauna"]
       },
       {
+        "id": 0,
         "name": "Tenisová hala Radouňka",
         "url": "https://www.activepass.cz/partner/tenisova-hala-radounka",
         "address": {
@@ -17113,6 +18246,7 @@ export function loadData(): Places {
         "activities": ["tenis"]
       },
       {
+        "id": 0,
         "name": "Tenisové Centrum Kraví Hora",
         "url": "https://www.activepass.cz/partner/tenisove-centrum-kravi-hora",
         "address": {
@@ -17123,6 +18257,7 @@ export function loadData(): Places {
         "activities": ["tenis"]
       },
       {
+        "id": 0,
         "name": "Tenisové kurty BLTC v Lužánkách",
         "url": "https://www.activepass.cz/partner/tenisove-kurty-bltc-v-luzankach",
         "address": {
@@ -17133,6 +18268,7 @@ export function loadData(): Places {
         "activities": ["tenis"]
       },
       {
+        "id": 0,
         "name": "Tenisové kurty MILO",
         "url": "https://www.activepass.cz/partner/tenisove-kurty-milo",
         "address": {
@@ -17143,6 +18279,7 @@ export function loadData(): Places {
         "activities": ["tenis"]
       },
       {
+        "id": 0,
         "name": "Tenisový areál LTC 2005",
         "url": "https://www.activepass.cz/partner/tenisovy-areal-ltc-2005",
         "address": {
@@ -17153,6 +18290,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Tenisový klub Kunovice",
         "url": "https://www.activepass.cz/partner/tenisovy-klub-kunovice",
         "address": {
@@ -17163,6 +18301,7 @@ export function loadData(): Places {
         "activities": ["tenis"]
       },
       {
+        "id": 0,
         "name": "Tenisový klub Opava",
         "url": "https://www.activepass.cz/partner/tenisovy-klub-opava",
         "address": {
@@ -17173,6 +18312,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "The Chamber - Únikové hry v Ostravě",
         "url": "https://www.activepass.cz/partner/the-chamber-unikove-hry-v-ostrave",
         "address": {
@@ -17183,6 +18323,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "The GYM HOUSE",
         "url": "https://www.activepass.cz/partner/the-gym-house",
         "address": {
@@ -17202,6 +18343,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Therapy Point Evropská",
         "url": "https://www.activepass.cz/partner/therapy-point-evropska",
         "address": {
@@ -17212,6 +18354,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Therapy Point Horní Počernice",
         "url": "https://www.activepass.cz/partner/therapy-point-horni-pocernice",
         "address": {
@@ -17222,6 +18365,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Tiger gym I. P. Pavlova",
         "url": "https://www.activepass.cz/partner/tiger-gym-i-p-pavlova",
         "address": {
@@ -17232,6 +18376,7 @@ export function loadData(): Places {
         "activities": ["kick box"]
       },
       {
+        "id": 0,
         "name": "Tiger gym Luka",
         "url": "https://www.activepass.cz/partner/tiger-gym-luka",
         "address": {
@@ -17251,6 +18396,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Tiger gym Řepy",
         "url": "https://www.activepass.cz/partner/tiger-gym-repy",
         "address": {
@@ -17270,6 +18416,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "TIGER TEAM - PANKRÁC",
         "url": "https://www.activepass.cz/partner/tiger-team-pankrac",
         "address": {
@@ -17285,6 +18432,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "TIME OUT PLUS Arkády Pankrác Praha",
         "url": "https://www.activepass.cz/partner/time-out-plus-arkady-pankrac-praha",
         "address": {
@@ -17295,6 +18443,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "TIME OUT PLUS Avion Shopping Park Ostrava",
         "url": "https://www.activepass.cz/partner/time-out-plus-avion-shopping-park-ostrava",
         "address": {
@@ -17305,6 +18454,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "TIME OUT PLUS Centrum Černý Most",
         "url": "https://www.activepass.cz/partner/time-out-plus-centrum-cerny-most",
         "address": {
@@ -17315,6 +18465,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "TIME OUT PLUS Fashion Arena Prague Outlet",
         "url": "https://www.activepass.cz/partner/time-out-plus-fashion-arena-prague-outlet",
         "address": {
@@ -17325,6 +18476,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "TIME OUT PLUS Globus Brno",
         "url": "https://www.activepass.cz/partner/time-out-plus-globus-brno",
         "address": {
@@ -17335,6 +18487,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "TIME OUT PLUS Globus Plzeň",
         "url": "https://www.activepass.cz/partner/time-out-plus-globus-plzen",
         "address": {
@@ -17345,6 +18498,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "TIME OUT PLUS Globus Zličín",
         "url": "https://www.activepass.cz/partner/time-out-plus-globus-zlicin",
         "address": {
@@ -17355,6 +18509,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "TIME OUT PLUS Nákupní Centrum Chodov",
         "url": "https://www.activepass.cz/partner/time-out-plus-nakupni-centrum-chodov",
         "address": {
@@ -17365,6 +18520,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "TIME OUT PLUS Nákupní centrum Metropole Zličín",
         "url": "https://www.activepass.cz/partner/time-out-plus-nakupni-centrum-metropole-zlicin",
         "address": {
@@ -17375,6 +18531,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "TIME OUT PLUS Obchodní centrum Nový Smíchov",
         "url": "https://www.activepass.cz/partner/time-out-plus-obchodni-centrum-novy-smichov",
         "address": {
@@ -17385,6 +18542,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "TIME OUT PLUS Obchodní centrum Olympia Plzeň",
         "url": "https://www.activepass.cz/partner/time-out-plus-obchodni-centrum-olympia-plzen",
         "address": {
@@ -17395,6 +18553,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "TIME OUT PLUS Obchodní centrum Šestka",
         "url": "https://www.activepass.cz/partner/time-out-plus-obchodni-centrum-sestka",
         "address": {
@@ -17405,6 +18564,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "Tipsport Laguna",
         "url": "https://www.activepass.cz/partner/tipsport-laguna",
         "address": {
@@ -17415,6 +18575,7 @@ export function loadData(): Places {
         "activities": ["lázně - wellness", "plavecký bazén"]
       },
       {
+        "id": 0,
         "name": "TJ Montas Hradec Králové",
         "url": "https://www.activepass.cz/partner/tj-montas-hradec-kralove",
         "address": {
@@ -17425,6 +18586,7 @@ export function loadData(): Places {
         "activities": ["stolní tenis", "badminton"]
       },
       {
+        "id": 0,
         "name": "TJ Ostrava",
         "url": "https://www.activepass.cz/partner/tj-ostrava",
         "address": {
@@ -17435,6 +18597,7 @@ export function loadData(): Places {
         "activities": ["tenis"]
       },
       {
+        "id": 0,
         "name": "TJ SOKOL BEDŘICHOV Jihlava",
         "url": "https://www.activepass.cz/partner/tj-sokol-bedrichov-jihlava",
         "address": {
@@ -17445,6 +18608,7 @@ export function loadData(): Places {
         "activities": ["tenis"]
       },
       {
+        "id": 0,
         "name": "TJ Start Brno",
         "url": "https://www.activepass.cz/partner/tj-start-brno",
         "address": {
@@ -17455,6 +18619,7 @@ export function loadData(): Places {
         "activities": ["tenis"]
       },
       {
+        "id": 0,
         "name": "TJ TESLA Pardubice",
         "url": "https://www.activepass.cz/partner/tj-tesla-pardubice",
         "address": {
@@ -17465,6 +18630,7 @@ export function loadData(): Places {
         "activities": ["tenis"]
       },
       {
+        "id": 0,
         "name": "TK Sparta Praha",
         "url": "https://www.activepass.cz/partner/tk-sparta-praha",
         "address": {
@@ -17475,6 +18641,7 @@ export function loadData(): Places {
         "activities": ["tenis"]
       },
       {
+        "id": 0,
         "name": "TK Znojmo",
         "url": "https://www.activepass.cz/partner/tk-znojmo",
         "address": {
@@ -17485,6 +18652,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Top Figure Fitness",
         "url": "https://www.activepass.cz/partner/top-figure-fitness",
         "address": {
@@ -17495,6 +18663,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Top Fitness Dubina",
         "url": "https://www.activepass.cz/partner/top-fitness-dubina",
         "address": {
@@ -17510,6 +18679,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "TOP FITNESS OSTRAVA - PORUBA",
         "url": "https://www.activepass.cz/partner/top-fitness-ostrava-poruba",
         "address": {
@@ -17528,6 +18698,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "TORNADO SPORT",
         "url": "https://www.activepass.cz/partner/tornado-sport",
         "address": {
@@ -17559,6 +18730,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Tower park Praha - Žižkovská věž",
         "url": "https://www.activepass.cz/partner/tower-park-praha-zizkovska-vez",
         "address": {
@@ -17574,6 +18746,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Trabant Muzeum",
         "url": "https://www.activepass.cz/partner/trabant-muzeum",
         "address": {
@@ -17584,6 +18757,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Trampolínový park města Kladna",
         "url": "https://www.activepass.cz/partner/trampolinovy-park-mesta-kladna",
         "address": {
@@ -17594,6 +18768,7 @@ export function loadData(): Places {
         "activities": ["jump parky"]
       },
       {
+        "id": 0,
         "name": "Trap Zone",
         "url": "https://www.activepass.cz/partner/trap-zone",
         "address": {
@@ -17604,6 +18779,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Trapcatch - úniková hra",
         "url": "https://www.activepass.cz/partner/trapcatch-unikova-hra",
         "address": {
@@ -17614,6 +18790,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Trapcatch - úniková hra",
         "url": "https://www.activepass.cz/partner/trapcatch-unikova-hra-1",
         "address": {
@@ -17624,6 +18801,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Trinity Club",
         "url": "https://www.activepass.cz/partner/trinity-club",
         "address": {
@@ -17634,6 +18812,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "Tron Laser Aréna",
         "url": "https://www.activepass.cz/partner/tron-laser-arena",
         "address": {
@@ -17644,6 +18823,7 @@ export function loadData(): Places {
         "activities": ["laser game"]
       },
       {
+        "id": 0,
         "name": "TROUBLE GYM",
         "url": "https://www.activepass.cz/partner/trouble-gym",
         "address": {
@@ -17661,6 +18841,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Trumf Pilsner Pub",
         "url": "https://www.activepass.cz/partner/trumf-pilsner-pub",
         "address": {
@@ -17671,6 +18852,7 @@ export function loadData(): Places {
         "activities": ["bowling"]
       },
       {
+        "id": 0,
         "name": "Tvůj Gym 24 hod Nonstop",
         "url": "https://www.activepass.cz/partner/tvuj-gym-24-hod-nonstop",
         "address": {
@@ -17687,6 +18869,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Twister Fitness Club",
         "url": "https://www.activepass.cz/partner/twister-fitness-club",
         "address": {
@@ -17697,6 +18880,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "Týna Fitness",
         "url": "https://www.activepass.cz/partner/tyna-fitness",
         "address": {
@@ -17726,6 +18910,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "U Barcuchů restaurace, bowling",
         "url": "https://www.activepass.cz/partner/u-barcuchu-restaurace-bowling",
         "address": {
@@ -17736,6 +18921,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "U Kerama",
         "url": "https://www.activepass.cz/partner/u-kerama",
         "address": {
@@ -17752,6 +18938,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "UFC OSTRAVA",
         "url": "https://www.activepass.cz/partner/ufc-ostrava",
         "address": {
@@ -17770,6 +18957,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Uličník Gym",
         "url": "https://www.activepass.cz/partner/ulicnik-gym",
         "address": {
@@ -17802,6 +18990,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Únikáři",
         "url": "https://www.activepass.cz/partner/unikari",
         "address": {
@@ -17812,6 +19001,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Úniková hra HK",
         "url": "https://www.activepass.cz/partner/unikova-hra-hk",
         "address": {
@@ -17822,6 +19012,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "UNIRELAX FITNESS",
         "url": "https://www.activepass.cz/partner/unirelax-fitness",
         "address": {
@@ -17832,6 +19023,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna", "fitness"]
       },
       {
+        "id": 0,
         "name": "UNNOSPORT / Padronato, s.r.o.",
         "url": "https://www.activepass.cz/partner/unnosport-padronato-s-r-o",
         "address": {
@@ -17863,6 +19055,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "URBAN GYM",
         "url": "https://www.activepass.cz/partner/urban-gym",
         "address": {
@@ -17879,6 +19072,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "URBAN JUMP ARENA",
         "url": "https://www.activepass.cz/partner/urban-jump-arena",
         "address": {
@@ -17889,6 +19083,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Útěk z pevnosti",
         "url": "https://www.activepass.cz/partner/utek-z-pevnosti",
         "address": {
@@ -17899,6 +19094,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Včelí svět Hulice",
         "url": "https://www.activepass.cz/partner/vceli-svet-hulice",
         "address": {
@@ -17909,6 +19105,7 @@ export function loadData(): Places {
         "activities": ["naučné parky"]
       },
       {
+        "id": 0,
         "name": "Vektor Sportcentrum",
         "url": "https://www.activepass.cz/partner/vektor-sportcentrum",
         "address": {
@@ -17950,6 +19147,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "VERTEX Fitness",
         "url": "https://www.activepass.cz/partner/vertex-fitness",
         "address": {
@@ -18001,6 +19199,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Vertex Fitness",
         "url": "https://www.activepass.cz/partner/vertex-fitness-1",
         "address": {
@@ -18022,6 +19221,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Vertigo pole fitness",
         "url": "https://www.activepass.cz/partner/vertigo-pole-fitness",
         "address": {
@@ -18044,6 +19244,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Víceúčelová sportovní hala Slaný",
         "url": "https://www.activepass.cz/partner/viceucelova-sportovni-hala-slany",
         "address": {
@@ -18054,6 +19255,7 @@ export function loadData(): Places {
         "activities": ["plavecký bazén", "bruslení"]
       },
       {
+        "id": 0,
         "name": "VIDA! science centrum",
         "url": "https://www.activepass.cz/partner/vida-science-centrum",
         "address": {
@@ -18064,6 +19266,7 @@ export function loadData(): Places {
         "activities": ["iq parky"]
       },
       {
+        "id": 0,
         "name": "Viking Fitness Solárium Nýřany",
         "url": "https://www.activepass.cz/partner/viking-fitness-solarium-nyrany",
         "address": {
@@ -18074,6 +19277,7 @@ export function loadData(): Places {
         "activities": ["fitness", "kardiozóna", "posilovna"]
       },
       {
+        "id": 0,
         "name": "Viking gym",
         "url": "https://www.activepass.cz/partner/viking-gym",
         "address": {
@@ -18084,6 +19288,7 @@ export function loadData(): Places {
         "activities": ["fitness", "kardiozóna", "posilovna"]
       },
       {
+        "id": 0,
         "name": "Virtual Games",
         "url": "https://www.activepass.cz/partner/virtual-games",
         "address": {
@@ -18094,6 +19299,7 @@ export function loadData(): Places {
         "activities": ["virtuální realita"]
       },
       {
+        "id": 0,
         "name": "VIRTUÁLNÍ REALITA",
         "url": "https://www.activepass.cz/partner/virtualni-realita",
         "address": {
@@ -18104,6 +19310,7 @@ export function loadData(): Places {
         "activities": ["týmové hry (quickgame", "aj.)"]
       },
       {
+        "id": 0,
         "name": "Virtuální realita Ostrava",
         "url": "https://www.activepass.cz/partner/virtualni-realita-ostrava",
         "address": {
@@ -18114,6 +19321,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "VISTA resort & club",
         "url": "https://www.activepass.cz/partner/vista-resort-club",
         "address": {
@@ -18124,6 +19332,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "Vitální svět Čechovka",
         "url": "https://www.activepass.cz/partner/vitalni-svet-cechovka",
         "address": {
@@ -18141,6 +19350,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Vlastivědné Muzeum Jesenice",
         "url": "https://www.activepass.cz/partner/vlastivedne-muzeum-jesenice",
         "address": {
@@ -18151,6 +19361,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Vlastivědné muzeum v Olomouci",
         "url": "https://www.activepass.cz/partner/vlastivedne-muzeum-v-olomouci",
         "address": {
@@ -18161,6 +19372,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Vodácké centrum České Budějovice",
         "url": "https://www.activepass.cz/partner/vodacke-centrum-ceske-budejovice",
         "address": {
@@ -18179,6 +19391,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Vodní areál",
         "url": "https://www.activepass.cz/partner/vodni-areal",
         "address": {
@@ -18193,6 +19406,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Vodní Dům",
         "url": "https://www.activepass.cz/partner/vodni-dum",
         "address": {
@@ -18203,6 +19417,7 @@ export function loadData(): Places {
         "activities": ["naučné parky"]
       },
       {
+        "id": 0,
         "name": "Vodní svět",
         "url": "https://www.activepass.cz/partner/vodni-svet",
         "address": {
@@ -18218,6 +19433,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Volcano Health Club",
         "url": "https://www.activepass.cz/partner/volcano-health-club",
         "address": {
@@ -18228,6 +19444,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "VR Future Plzeň",
         "url": "https://www.activepass.cz/partner/vr-future-plzen",
         "address": {
@@ -18238,6 +19455,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "VR studio Weiss",
         "url": "https://www.activepass.cz/partner/vr-studio-weiss",
         "address": {
@@ -18248,6 +19466,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Výstaviště Praha",
         "url": "https://www.activepass.cz/partner/vystaviste-praha",
         "address": {
@@ -18262,6 +19481,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Výtvarná dílna Kajjka",
         "url": "https://www.activepass.cz/partner/vytvarna-dilna-kajjka",
         "address": {
@@ -18272,6 +19492,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Vzdělávací spolek uměleckých řemesel",
         "url": "https://www.activepass.cz/partner/vzdelavaci-spolek-umeleckych-remesel",
         "address": {
@@ -18282,6 +19503,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Wake sport Česká Lípa",
         "url": "https://www.activepass.cz/partner/wake-sport-ceska-lipa",
         "address": {
@@ -18292,6 +19514,7 @@ export function loadData(): Places {
         "activities": ["minigolf", "paddleboard"]
       },
       {
+        "id": 0,
         "name": "Wax Museum Český Krumlov",
         "url": "https://www.activepass.cz/partner/wax-museum-cesky-krumlov",
         "address": {
@@ -18302,6 +19525,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Wax Museum Karlštejn",
         "url": "https://www.activepass.cz/partner/wax-museum-karlstejn",
         "address": {
@@ -18312,6 +19536,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Wax Museum Prague",
         "url": "https://www.activepass.cz/partner/wax-museum-prague",
         "address": {
@@ -18322,6 +19547,7 @@ export function loadData(): Places {
         "activities": ["výstavy a muzea"]
       },
       {
+        "id": 0,
         "name": "Weisser Sport Centrum s.r.o.",
         "url": "https://www.activepass.cz/partner/weisser-sport-centrum-s-r-o",
         "address": {
@@ -18345,6 +19571,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Wellnes centrum Radlice",
         "url": "https://www.activepass.cz/partner/wellnes-centrum-radlice",
         "address": {
@@ -18366,6 +19593,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Wellness & SPA",
         "url": "https://www.activepass.cz/partner/wellness-spa",
         "address": {
@@ -18376,6 +19604,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "WELLNESS A FITNESS CENTRUM OCTÁRNA",
         "url": "https://www.activepass.cz/partner/wellness-a-fitness-centrum-octarna",
         "address": {
@@ -18391,6 +19620,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "WELLNESS AEROBIC CLUB LITVÍNOV",
         "url": "https://www.activepass.cz/partner/wellness-aerobic-club-litvinov",
         "address": {
@@ -18409,6 +19639,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Wellness BONITA",
         "url": "https://www.activepass.cz/partner/wellness-bonita",
         "address": {
@@ -18435,6 +19666,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Wellness centrum 4Comfort",
         "url": "https://www.activepass.cz/partner/wellness-centrum-4comfort",
         "address": {
@@ -18445,6 +19677,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Wellness centrum Martiny Zábranské",
         "url": "https://www.activepass.cz/partner/wellness-centrum-martiny-zabranske",
         "address": {
@@ -18461,6 +19694,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Wellness club Plzeň",
         "url": "https://www.activepass.cz/partner/wellness-club-plzen",
         "address": {
@@ -18471,6 +19705,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Wellness Niagara",
         "url": "https://www.activepass.cz/partner/wellness-niagara",
         "address": {
@@ -18481,6 +19716,7 @@ export function loadData(): Places {
         "activities": ["sauna", "infra sauna"]
       },
       {
+        "id": 0,
         "name": "Wellness Vyškov",
         "url": "https://www.activepass.cz/partner/wellness-vyskov",
         "address": {
@@ -18491,6 +19727,7 @@ export function loadData(): Places {
         "activities": ["sauna"]
       },
       {
+        "id": 0,
         "name": "Wildgym Kutná Hora",
         "url": "https://www.activepass.cz/partner/wildgym-kutna-hora",
         "address": {
@@ -18501,6 +19738,7 @@ export function loadData(): Places {
         "activities": ["core fitness", "funkční trénink"]
       },
       {
+        "id": 0,
         "name": "Wolverine Gym Plzeň",
         "url": "https://www.activepass.cz/partner/wolverine-gym-plzen",
         "address": {
@@ -18511,6 +19749,7 @@ export function loadData(): Places {
         "activities": ["fitness"]
       },
       {
+        "id": 0,
         "name": "Xarena Slatina Badminton Club",
         "url": "https://www.activepass.cz/partner/xarena-slatina-badminton-club",
         "address": {
@@ -18521,6 +19760,7 @@ export function loadData(): Places {
         "activities": ["badminton"]
       },
       {
+        "id": 0,
         "name": "Xbowling Strašnice",
         "url": "https://www.activepass.cz/partner/xbowling-strasnice",
         "address": {
@@ -18531,6 +19771,7 @@ export function loadData(): Places {
         "activities": ["bowling"]
       },
       {
+        "id": 0,
         "name": "Xbowling Žižkov",
         "url": "https://www.activepass.cz/partner/xbowling-zizkov",
         "address": {
@@ -18541,6 +19782,7 @@ export function loadData(): Places {
         "activities": ["bowling"]
       },
       {
+        "id": 0,
         "name": "Xfitness",
         "url": "https://www.activepass.cz/partner/xfitness",
         "address": {
@@ -18566,6 +19808,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "XFITNESS",
         "url": "https://www.activepass.cz/partner/xfitness-1",
         "address": {
@@ -18576,6 +19819,7 @@ export function loadData(): Places {
         "activities": ["kardiozóna", "posilovna"]
       },
       {
+        "id": 0,
         "name": "Xplore Fitness Na Příkopě",
         "url": "https://www.activepass.cz/partner/xplore-fitness-na-prikope",
         "address": {
@@ -18591,6 +19835,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Yacht Club CERE",
         "url": "https://www.activepass.cz/partner/yacht-club-cere",
         "address": {
@@ -18618,6 +19863,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "YOGA - Živé Vobrazy, z.s.",
         "url": "https://www.activepass.cz/partner/yoga-zive-vobrazy-z-s",
         "address": {
@@ -18636,6 +19882,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Yoga Brno - studio Dobrák",
         "url": "https://www.activepass.cz/partner/yoga-brno-studio-dobrak",
         "address": {
@@ -18646,6 +19893,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Yoga Brno - studio Zábrdovická",
         "url": "https://www.activepass.cz/partner/yoga-brno-studio-zabrdovicka",
         "address": {
@@ -18664,6 +19912,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Yoga Dream",
         "url": "https://www.activepass.cz/partner/yoga-dream",
         "address": {
@@ -18689,6 +19938,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Yoga House",
         "url": "https://www.activepass.cz/partner/yoga-house",
         "address": {
@@ -18699,6 +19949,7 @@ export function loadData(): Places {
         "activities": ["jóga", "open class lekce"]
       },
       {
+        "id": 0,
         "name": "Yoga Karlín",
         "url": "https://www.activepass.cz/partner/yoga-karlin",
         "address": {
@@ -18725,6 +19976,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "yoga light studio",
         "url": "https://www.activepass.cz/partner/yoga-light-studio",
         "address": {
@@ -18740,6 +19992,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "YOGA ME STUDIO",
         "url": "https://www.activepass.cz/partner/yoga-me-studio",
         "address": {
@@ -18750,6 +20003,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Yoga Mija",
         "url": "https://www.activepass.cz/partner/yoga-mija",
         "address": {
@@ -18767,6 +20021,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Yoga Oáza Mikulov",
         "url": "https://www.activepass.cz/partner/yoga-oaza-mikulov",
         "address": {
@@ -18790,6 +20045,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "YOGA PILATES STUDIO",
         "url": "https://www.activepass.cz/partner/yoga-pilates-studio",
         "address": {
@@ -18810,6 +20066,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "YOGA SHALA BRNO",
         "url": "https://www.activepass.cz/partner/yoga-shala-brno",
         "address": {
@@ -18831,6 +20088,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "YOGA THERAPEUTIC CENTRE",
         "url": "https://www.activepass.cz/partner/yoga-therapeutic-centre",
         "address": {
@@ -18854,6 +20112,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "YogaCentrum Ďáblice",
         "url": "https://www.activepass.cz/partner/yogacentrum-dablice",
         "address": {
@@ -18869,6 +20128,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "YogaCentrum Holešovice",
         "url": "https://www.activepass.cz/partner/yogacentrum-holesovice",
         "address": {
@@ -18884,6 +20144,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Yogaholick - Liberec",
         "url": "https://www.activepass.cz/partner/yogaholick-liberec",
         "address": {
@@ -18894,6 +20155,7 @@ export function loadData(): Places {
         "activities": ["jóga", "funkční trénink"]
       },
       {
+        "id": 0,
         "name": "Yogaholick - Turnov",
         "url": "https://www.activepass.cz/partner/yogaholick-turnov",
         "address": {
@@ -18904,6 +20166,7 @@ export function loadData(): Places {
         "activities": ["jóga", "funkční trénink"]
       },
       {
+        "id": 0,
         "name": "yogAlive",
         "url": "https://www.activepass.cz/partner/yogalive",
         "address": {
@@ -18914,6 +20177,7 @@ export function loadData(): Places {
         "activities": ["jóga"]
       },
       {
+        "id": 0,
         "name": "YOGAPLANET",
         "url": "https://www.activepass.cz/partner/yogaplanet",
         "address": {
@@ -18924,6 +20188,7 @@ export function loadData(): Places {
         "activities": []
       },
       {
+        "id": 0,
         "name": "Zábavní centrum Hornik",
         "url": "https://www.activepass.cz/partner/zabavni-centrum-hornik",
         "address": {
@@ -18934,6 +20199,7 @@ export function loadData(): Places {
         "activities": ["laser game"]
       },
       {
+        "id": 0,
         "name": "Zábavný park Fábula",
         "url": "https://www.activepass.cz/partner/zabavny-park-fabula",
         "address": {
@@ -18944,6 +20210,7 @@ export function loadData(): Places {
         "activities": ["dětské koutky/herny"]
       },
       {
+        "id": 0,
         "name": "Zámek Bruntál",
         "url": "https://www.activepass.cz/partner/zamek-bruntal",
         "address": {
@@ -18954,6 +20221,7 @@ export function loadData(): Places {
         "activities": ["hrady a zámky"]
       },
       {
+        "id": 0,
         "name": "Zámek Červený Hrádek",
         "url": "https://www.activepass.cz/partner/zamek-cerveny-hradek",
         "address": {
@@ -18964,6 +20232,7 @@ export function loadData(): Places {
         "activities": ["hrady a zámky"]
       },
       {
+        "id": 0,
         "name": "Zámek Klášterec nad Ohří",
         "url": "https://www.activepass.cz/partner/zamek-klasterec-nad-ohri",
         "address": {
@@ -18974,6 +20243,7 @@ export function loadData(): Places {
         "activities": ["hrady a zámky"]
       },
       {
+        "id": 0,
         "name": "Zážitkový park Zeměráj",
         "url": "https://www.activepass.cz/partner/zazitkovy-park-zemeraj",
         "address": {
@@ -18984,6 +20254,7 @@ export function loadData(): Places {
         "activities": ["naučné parky"]
       },
       {
+        "id": 0,
         "name": "ZENERGY JÓGA STUDIO",
         "url": "https://www.activepass.cz/partner/zenergy-joga-studio",
         "address": {
@@ -19002,6 +20273,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Zimlet Klíny",
         "url": "https://www.activepass.cz/partner/zimlet-kliny",
         "address": {
@@ -19016,6 +20288,7 @@ export function loadData(): Places {
         ]
       },
       {
+        "id": 0,
         "name": "Zimní stadion Benešov",
         "url": "https://www.activepass.cz/partner/zimni-stadion-benesov",
         "address": {
@@ -19026,6 +20299,7 @@ export function loadData(): Places {
         "activities": ["bruslení"]
       },
       {
+        "id": 0,
         "name": "Zimní stadión Chrudim",
         "url": "https://www.activepass.cz/partner/zimni-stadion-chrudim",
         "address": {
@@ -19036,6 +20310,7 @@ export function loadData(): Places {
         "activities": ["bruslení"]
       },
       {
+        "id": 0,
         "name": "ZOO Hluboká",
         "url": "https://www.activepass.cz/partner/zoo-hluboka",
         "address": {
@@ -19046,6 +20321,7 @@ export function loadData(): Places {
         "activities": ["zoo"]
       },
       {
+        "id": 0,
         "name": "Zoo Plasy",
         "url": "https://www.activepass.cz/partner/zoo-plasy",
         "address": {
@@ -19056,6 +20332,7 @@ export function loadData(): Places {
         "activities": ["zoo"]
       },
       {
+        "id": 0,
         "name": "Zoologická a botanická zahrada města Plzně",
         "url": "https://www.activepass.cz/partner/zoologicka-a-botanicka-zahrada-mesta-plzne",
         "address": {
@@ -19066,6 +20343,7 @@ export function loadData(): Places {
         "activities": ["zoo"]
       },
       {
+        "id": 0,
         "name": "Zoologická zahrada Chleby",
         "url": "https://www.activepass.cz/partner/zoologicka-zahrada-chleby",
         "address": {
@@ -19076,6 +20354,7 @@ export function loadData(): Places {
         "activities": ["zoo"]
       },
       {
+        "id": 0,
         "name": "Zoologická zahrada Dvorec",
         "url": "https://www.activepass.cz/partner/zoologicka-zahrada-dvorec",
         "address": {
@@ -19086,6 +20365,7 @@ export function loadData(): Places {
         "activities": ["zoo"]
       },
       {
+        "id": 0,
         "name": "Zoologická zahrada Jihlava",
         "url": "https://www.activepass.cz/partner/zoologicka-zahrada-jihlava",
         "address": {
@@ -19096,6 +20376,7 @@ export function loadData(): Places {
         "activities": ["zoo"]
       },
       {
+        "id": 0,
         "name": "Zoologická zahrada Liberec",
         "url": "https://www.activepass.cz/partner/zoologicka-zahrada-liberec",
         "address": {
@@ -19106,6 +20387,7 @@ export function loadData(): Places {
         "activities": ["zoo"]
       },
       {
+        "id": 0,
         "name": "Zoologická zahrada Olomouc",
         "url": "https://www.activepass.cz/partner/zoologicka-zahrada-olomouc",
         "address": {
@@ -19116,6 +20398,7 @@ export function loadData(): Places {
         "activities": ["zoo"]
       },
       {
+        "id": 0,
         "name": "Zoopark Stěžery",
         "url": "https://www.activepass.cz/partner/zoopark-stezery",
         "address": {
@@ -19126,6 +20409,7 @@ export function loadData(): Places {
         "activities": ["zoo"]
       },
       {
+        "id": 0,
         "name": "Zoopark Vyškov + Dinopark Vyškov",
         "url": "https://www.activepass.cz/partner/zoopark-vyskov-dinopark-vyskov",
         "address": {
@@ -19136,6 +20420,7 @@ export function loadData(): Places {
         "activities": ["zoo"]
       },
       {
+        "id": 0,
         "name": "ZŠ Hradská Humpolec",
         "url": "https://www.activepass.cz/partner/zs-hradska-humpolec",
         "address": {
@@ -19146,6 +20431,7 @@ export function loadData(): Places {
         "activities": ["tai chi čchi-kung"]
       },
       {
+        "id": 0,
         "name": "Zumba s Katkou",
         "url": "https://www.activepass.cz/partner/zumba-s-katkou",
         "address": {
