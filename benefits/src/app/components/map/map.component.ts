@@ -54,17 +54,28 @@ export class MapComponent implements OnInit, AfterViewInit, OnChanges {
   ngOnChanges(changes: SimpleChanges) {
     // console.log(changes.results);
     if (changes.results && changes.results.currentValue) {
-      for (const marker of this.markers){
+      for (const marker of this.markers) {
         marker.setMap(null);
       }
       this.markers = [];
+
+      // Creates var for new bounds
+      const bounds = new google.maps.LatLngBounds();
+
       for (const place of changes.results.currentValue) {
         const newMarker = new google.maps.Marker({
           position: new google.maps.LatLng(place.coordinates.lat, place.coordinates.lng)
         });
         this.markers.push(newMarker);
+
+        // Add bounds to map
+        bounds.extend(newMarker.getPosition());
         newMarker.setMap(this.map);
       }
+
+      // Resize map to fit all markers
+      this.map.fitBounds(bounds);
+
     }
     // for (i = 0; i < markers.length; i++) {
     //  markers[i].setMap(null);
