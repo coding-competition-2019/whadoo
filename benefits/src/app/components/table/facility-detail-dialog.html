@@ -9,6 +9,10 @@
       <td>Address</td>
       <td>{{data.place.address.street}}<br>{{data.place.address.zipCode}}, {{data.place.address.city}}</td>
     </tr>
+    <tr>
+      <td>Distance</td>
+      <td>{{data.place.distance | number:'1.2-2'}} km</td>
+    </tr>
   </table>
 </div>
 <div mat-dialog-actions>
