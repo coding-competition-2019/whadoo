@@ -27,6 +27,7 @@ export class AppComponent implements OnInit {
   ngOnInit() {
     this.locationService.getLocation().then(c => this.currentPosition = c);
     this.places = this.facilityService.getData();
+    this.locationService.setWatchedPlaces(this.places);
     this.allActivities = this.places.places.map((p) => {
       return p.activities;
     }).reduce((previousValue, currentValue) => {

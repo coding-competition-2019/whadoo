@@ -8,6 +8,7 @@ import {FacilityService} from "../../services/facility.service";
 import {map, startWith} from "rxjs/operators";
 import {MatChipInputEvent} from "@angular/material/chips/typings/chip-input";
 import {SearchResult} from "../../entities/search-result";
+import {LocationService} from "../../services/location.service";
 
 @Component({
   selector: 'app-search',
@@ -36,25 +37,19 @@ export class SearchComponent implements OnInit {
   @ViewChild('activityInput') activityInput: ElementRef<HTMLInputElement>;
   @ViewChild('auto') matAutocomplete: MatAutocomplete;
 
-  constructor(private facilityService: FacilityService) {
+  constructor(private locationService: LocationService) {
   }
 
   ngOnInit() {
     this.filteredActivities = this.activityCtrl.valueChanges.pipe(
       startWith(null),
       map((activity: string | null) => activity ? this._filter(activity) : this.allActivities.slice()));
+
+    this.locationService.setOnLocationChangeHandler(() => this.showResults());
   }
 
   showResults() {
     this.result.emit({activities: this.activities, range: this.range});
-  }
-
-  formatLabel(value: number) {
-    if (value >= 1000) {
-      return Math.round(value / 1000) + 'k';
-    }
-
-    return value + ' km';
   }
 
   add(event: MatChipInputEvent): void {

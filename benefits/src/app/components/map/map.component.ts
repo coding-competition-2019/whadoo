@@ -46,6 +46,7 @@ export class MapComponent implements OnInit, AfterViewInit, OnChanges {
   listenerHandle = null;
 
   enableSelection() {
+    this.snackBar.open('Pick a location on map', 'OK', {duration: 2000});
     this.map.setOptions({draggableCursor: 'crosshair'});
     this.listenerHandle = google.maps.event.addListener(this.map, 'click', (event) => {
       const latitude = event.latLng.lat();
@@ -64,8 +65,7 @@ export class MapComponent implements OnInit, AfterViewInit, OnChanges {
 
   mapInitializer() {
     this.map = new google.maps.Map(this.gmap.nativeElement, this.mapOptions);
-
-    this.enableSelection();
+    // this.enableSelection();
   }
 
   getRealLocation() {

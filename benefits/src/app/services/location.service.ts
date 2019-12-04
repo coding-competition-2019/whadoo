@@ -1,5 +1,6 @@
 import {Injectable} from '@angular/core';
-import {Coords} from '../entities/places';
+import {Coords, Place, Places} from '../entities/places';
+import {coordDistance} from "../utilities/distance";
 
 @Injectable({
   providedIn: 'root'
@@ -7,6 +8,8 @@ import {Coords} from '../entities/places';
 export class LocationService {
 
   coords: Coords = null;
+  watchedPlaces: Place[];
+  handler: () => void;
 
   constructor() {
   }
@@ -17,7 +20,8 @@ export class LocationService {
         resolve(this.coords);
       } else {
         navigator.geolocation.getCurrentPosition(position => {
-          resolve({lat: position.coords.latitude, lng: position.coords.longitude});
+          this.coords = {lat: position.coords.latitude, lng: position.coords.longitude};
+          resolve(this.coords);
         });
       }
     });
@@ -25,5 +29,20 @@ export class LocationService {
 
   setCustomLocation(coords: Coords) {
     this.coords = coords;
+
+    this.getLocation().then(location => {
+      for (const place of this.watchedPlaces) {
+        place.distance = coordDistance(place.coordinates, location);
+      }
+      this.handler();
+    });
+  }
+
+  setWatchedPlaces(places: Places) {
+    this.watchedPlaces = places.places;
+  }
+
+  setOnLocationChangeHandler(showResults: () => void) {
+    this.handler = showResults;
   }
 }
