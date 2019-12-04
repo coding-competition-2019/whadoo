@@ -4,12 +4,18 @@ export interface Address {
   city: string;
 }
 
+export interface Coordinates {
+  lat: number;
+  lng: number;
+}
+
 export interface Place {
   id: number;
   name: string;
   url: string;
   address: Address;
   activities: string[];
+  coordinates: Coordinates;
 }
 
 export interface Places {
