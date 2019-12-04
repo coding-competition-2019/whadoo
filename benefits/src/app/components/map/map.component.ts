@@ -32,6 +32,8 @@ export class MapComponent implements OnInit, AfterViewInit, OnChanges {
 
   markers = [];
 
+  listenerHandle = null;
+
   setMarker() {
 
   }
@@ -39,6 +41,23 @@ export class MapComponent implements OnInit, AfterViewInit, OnChanges {
   mapInitializer() {
     this.map = new google.maps.Map(this.gmap.nativeElement,
       this.mapOptions);
+
+    this.enableSelection();
+  }
+
+  enableSelection() {
+    this.map.setOptions({draggableCursor: 'crosshair'});
+    this.listenerHandle = google.maps.event.addListener(this.map, 'click', (event) => {
+      const latitude = event.latLng.lat();
+      const longitude = event.latLng.lng();
+      console.log(latitude + ', ' + longitude);
+      this.disableSelection();
+    });
+  }
+
+  disableSelection() {
+    this.map.setOptions({draggableCursor: 'default'});
+    google.maps.event.removeListener(this.listenerHandle);
   }
 
   constructor(private facilityService: FacilityService) {
