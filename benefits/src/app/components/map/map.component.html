@@ -1,16 +1,36 @@
 <mat-card>
   <p>
     <mat-form-field>
-      <mat-label>Activities</mat-label>
-      <mat-select [formControl]="activities" multiple>
-        <mat-option *ngFor="let activity of activityList" [value]="activity">{{activity}}</mat-option>
-      </mat-select>
+      <mat-chip-list #chipList>
+        <mat-chip
+          *ngFor="let activity of activities"
+          [selectable]="selectable"
+          [removable]="removable"
+          (removed)="remove(activity)">
+          {{activity}}
+          <mat-icon matChipRemove *ngIf="removable">cancel</mat-icon>
+        </mat-chip>
+        <input
+          placeholder="Search activities..."
+          #activityInput
+          [formControl]="activityCtrl"
+          [matAutocomplete]="auto"
+          [matChipInputFor]="chipList"
+          [matChipInputSeparatorKeyCodes]="separatorKeysCodes"
+          [matChipInputAddOnBlur]="addOnBlur"
+          (matChipInputTokenEnd)="add($event)">
+      </mat-chip-list>
+      <mat-autocomplete #auto="matAutocomplete" (optionSelected)="selected($event)">
+        <mat-option *ngFor="let activity of filteredActivities | async" [value]="activity">
+          {{activity}}
+        </mat-option>
+      </mat-autocomplete>
     </mat-form-field>
 
     <button mat-raised-button color="primary" (click)="getLocation()"><i class="material-icons">gps_fixed</i> Locate
     </button>
 
-    <app-table [results]="places.places"></app-table>
+    <app-table [results]="results"></app-table>
   </p>
 </mat-card>
 

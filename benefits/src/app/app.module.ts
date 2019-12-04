@@ -13,6 +13,8 @@ import {MatIconModule} from "@angular/material/icon";
 import {MatButtonModule} from "@angular/material/button";
 import { TableComponent } from './components/table/table.component';
 import {CdkTableModule} from "@angular/cdk/table";
+import {MatChipsModule} from "@angular/material/chips";
+import {MatAutocompleteModule} from "@angular/material/autocomplete";
 
 @NgModule({
   declarations: [
@@ -30,7 +32,10 @@ import {CdkTableModule} from "@angular/cdk/table";
     ReactiveFormsModule,
     MatIconModule,
     MatButtonModule,
-    CdkTableModule
+    CdkTableModule,
+    MatChipsModule,
+    MatChipsModule,
+    MatAutocompleteModule
   ],
   providers: [],
   bootstrap: [AppComponent]
