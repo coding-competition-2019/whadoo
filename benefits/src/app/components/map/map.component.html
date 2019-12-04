@@ -1,3 +1,7 @@
-<button mat-raised-button color="primary" (click)="getLocation()"><i class="material-icons">gps_fixed</i> Locate
+<button mat-raised-button color="primary" (click)="getRealLocation()">
+  <i class="material-icons">gps_fixed</i> Use my location
+</button>
+<button mat-raised-button color="primary" (click)="enableSelection()">
+  <i class="material-icons">map</i> Pick on map
 </button>
 <div #mapContainer id="map"></div>

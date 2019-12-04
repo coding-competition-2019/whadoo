@@ -19,6 +19,7 @@ import {SearchComponent} from './components/search/search.component';
 import {MatDividerModule} from "@angular/material/divider";
 import {MatDialogModule} from "@angular/material/dialog";
 import {MatSliderModule} from "@angular/material/slider";
+import {MatSnackBarModule} from "@angular/material/snack-bar";
 
 @NgModule({
   declarations: [
@@ -47,7 +48,8 @@ import {MatSliderModule} from "@angular/material/slider";
     MatAutocompleteModule,
     MatDividerModule,
     MatDialogModule,
-    MatSliderModule
+    MatSliderModule,
+    MatSnackBarModule
   ],
   providers: [],
   bootstrap: [AppComponent]

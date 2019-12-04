@@ -3,6 +3,8 @@ import {FacilityService} from '../../services/facility.service';
 import {} from 'googlemaps';
 import {Place, Places, Coords} from '../../entities/places';
 import {coordDistance} from '../../utilities/distance';
+import {LocationService} from '../../services/location.service';
+import {MatSnackBar} from '@angular/material/snack-bar';
 
 @Component({
   selector: 'app-map',
@@ -48,8 +50,10 @@ export class MapComponent implements OnInit, AfterViewInit, OnChanges {
     this.listenerHandle = google.maps.event.addListener(this.map, 'click', (event) => {
       const latitude = event.latLng.lat();
       const longitude = event.latLng.lng();
-      console.log(latitude + ', ' + longitude);
       this.disableSelection();
+
+      this.locationService.setCustomLocation({lat: latitude, lng: longitude});
+      this.snackBar.open('Location updated', 'OK', {duration: 2000});
     });
   }
 
@@ -59,13 +63,17 @@ export class MapComponent implements OnInit, AfterViewInit, OnChanges {
   }
 
   mapInitializer() {
-    this.map = new google.maps.Map(this.gmap.nativeElement,
-      this.mapOptions);
+    this.map = new google.maps.Map(this.gmap.nativeElement, this.mapOptions);
 
     this.enableSelection();
   }
 
-  constructor(private facilityService: FacilityService) {
+  getRealLocation() {
+    this.locationService.setCustomLocation(null);
+    this.snackBar.open('Using your real location', 'OK', {duration: 2000});
+  }
+
+  constructor(private locationService: LocationService, private snackBar: MatSnackBar) {
   }
 
   ngAfterViewInit() {
