@@ -1,9 +1,11 @@
 import {Component, Inject, Input, OnInit} from '@angular/core';
-import {Place} from '../../entities/places';
+import {Place, Coords} from '../../entities/places';
 import {MAT_DIALOG_DATA, MatDialog, MatDialogRef} from '@angular/material/dialog';
+import {LocationService} from '../../services/location.service';
 
 export interface FacilityDetailDialogData {
   place: Place;
+  myLocation: Coords;
 }
 
 @Component({
@@ -18,20 +20,22 @@ export class TableComponent implements OnInit {
   @Input()
   results: Place[] = [];
 
-  constructor(public dialog: MatDialog) {
+  constructor(public dialog: MatDialog, public locationService: LocationService) {
   }
 
   ngOnInit() {
   }
 
   showDetail(place: Place): void {
-    const dialogRef = this.dialog.open(FacilityDetailDialogComponent, {
-      width: '768px',
-      data: {place: place}
-    });
+    this.locationService.getLocation().then((location) => {
+      const dialogRef = this.dialog.open(FacilityDetailDialogComponent, {
+        width: '768px',
+        data: {place: place, myLocation: location}
+      });
 
-    dialogRef.afterClosed().subscribe(result => {
-      // pass
+      dialogRef.afterClosed().subscribe(result => {
+        // pass
+      });
     });
   }
 }

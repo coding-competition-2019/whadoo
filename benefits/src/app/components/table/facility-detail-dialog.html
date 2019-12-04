@@ -21,6 +21,10 @@
 </div>
 <div mat-dialog-actions>
   <button mat-button cdkFocusInitial (click)="dialogRef.close()">Close</button>
-  <a href="#" class="inner-link"><img src="assets/img/share.png" height="30"/></a>
-  <a href="#" class="inner-link"><img src="assets/img/way.svg" height="30"/></a>
+  <a href="#" target="_blank" class="inner-link"><img src="assets/img/share.png" height="30"/></a>
+  <a target="_blank" ng-attr-target="_blank"
+    href="https://www.google.com/maps/dir/?api=1&origin={{data.myLocation.lat}},{{data.myLocation.lng}}&destination={{data.place.coordinates.lat}},{{data.place.coordinates.lng}}"
+    class="inner-link">
+    <img src="assets/img/way.svg" height="30"/>
+  </a>
 </div>
