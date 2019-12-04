@@ -1,0 +1,11 @@
+table.results {
+  width: 100%;
+}
+
+table.results tr td {
+  padding: 8px;
+}
+
+table.results tr:hover {
+  background-color: lightgray;
+}

@@ -1,31 +1,28 @@
 <div *ngIf="!results?.length">
   No results
 </div>
-<table cdk-table [dataSource]="results" *ngIf="results?.length">
-  <!-- Position Column -->
+<table cdk-table [dataSource]="results" *ngIf="results?.length" class="results">
+
   <ng-container cdkColumnDef="position">
     <th cdk-header-cell *cdkHeaderCellDef>No.</th>
-    <td cdk-cell *cdkCellDef="let element"> {{element?.position}} </td>
+    <td cdk-cell *cdkCellDef="let element"> {{element.position}} </td>
   </ng-container>
 
-  <!-- Name Column -->
   <ng-container cdkColumnDef="name">
     <th cdk-header-cell *cdkHeaderCellDef>Name</th>
     <td cdk-cell *cdkCellDef="let element"> {{element.name}} </td>
   </ng-container>
 
-  <!-- Weight Column -->
   <ng-container cdkColumnDef="address">
     <th cdk-header-cell *cdkHeaderCellDef>Address</th>
     <td cdk-cell *cdkCellDef="let element"> {{element.address.street}}, {{element.address.city}} </td>
   </ng-container>
 
-  <!-- Symbol Column -->
   <ng-container cdkColumnDef="distance">
     <th cdk-header-cell *cdkHeaderCellDef>Distance</th>
     <td cdk-cell *cdkCellDef="let element"> {{element?.distance}} </td>
   </ng-container>
 
   <tr cdk-header-row *cdkHeaderRowDef="displayedColumns"></tr>
-  <tr cdk-row *cdkRowDef="let row; columns: displayedColumns;"></tr>
+  <tr cdk-row *cdkRowDef="let facility; columns: displayedColumns;" (click)="showDetail(facility)"></tr>
 </table>

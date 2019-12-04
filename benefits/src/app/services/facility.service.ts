@@ -10,6 +10,8 @@ export class FacilityService {
   constructor() {
   }
 
+  // TODO load from database
+  // TODO add server-side filtering and pagination
   getData(): Places {
     const data: Places = loadData();
     data.places.forEach((value, index) => {

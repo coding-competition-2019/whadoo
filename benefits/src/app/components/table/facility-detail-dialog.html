@@ -1,0 +1,16 @@
+<h1 mat-dialog-title>{{data.place.name}}</h1>
+<div mat-dialog-content>
+  <table>
+    <tr>
+      <td>URL</td>
+      <td>{{data.place.url}}</td>
+    </tr>
+    <tr>
+      <td>Address</td>
+      <td>{{data.place.address.street}}<br>{{data.place.address.zipCode}}, {{data.place.address.city}}</td>
+    </tr>
+  </table>
+</div>
+<div mat-dialog-actions>
+  <button mat-button cdkFocusInitial (click)="dialogRef.close()">Close</button>
+</div>
