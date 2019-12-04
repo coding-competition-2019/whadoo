@@ -17,7 +17,7 @@
   <!-- Weight Column -->
   <ng-container cdkColumnDef="address">
     <th cdk-header-cell *cdkHeaderCellDef>Address</th>
-    <td cdk-cell *cdkCellDef="let element"> {{element.address|json}} </td>
+    <td cdk-cell *cdkCellDef="let element"> {{element.address.street}}, {{element.address.city}} </td>
   </ng-container>
 
   <!-- Symbol Column -->
