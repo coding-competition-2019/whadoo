@@ -1,6 +1,7 @@
-import {Component, OnInit, AfterViewInit, ViewChild, ElementRef } from '@angular/core';
+import {Component, OnInit, OnChanges, AfterViewInit, ViewChild, ElementRef, Input, SimpleChanges} from '@angular/core';
 import {FacilityService} from '../../services/facility.service';
 import {} from 'googlemaps';
+import {Place} from '../../entities/places';
 
 @Component({
   selector: 'app-map',
@@ -8,7 +9,10 @@ import {} from 'googlemaps';
   styleUrls: ['./map.component.css']
 })
 
-export class MapComponent implements OnInit, AfterViewInit {
+export class MapComponent implements OnInit, AfterViewInit, OnChanges {
+
+  @Input()
+  results: Place[] = [];
 
   @ViewChild('mapContainer', {read: false}) gmap: ElementRef;
 
@@ -26,6 +30,12 @@ export class MapComponent implements OnInit, AfterViewInit {
     zoom: this.zoomLevel,
   };
 
+  markers = [];
+
+  setMarker() {
+
+  }
+
   mapInitializer() {
     this.map = new google.maps.Map(this.gmap.nativeElement,
       this.mapOptions);
@@ -39,6 +49,28 @@ export class MapComponent implements OnInit, AfterViewInit {
   }
 
   ngOnInit() {
+  }
+
+  ngOnChanges(changes: SimpleChanges) {
+    // console.log(changes.results);
+    if (changes.results && changes.results.currentValue) {
+      for (const marker of this.markers){
+        marker.setMap(null);
+      }
+      this.markers = [];
+      for (const place of changes.results.currentValue) {
+        const newMarker = new google.maps.Marker({
+          position: new google.maps.LatLng(place.coordinates.lat, place.coordinates.lng)
+        });
+        this.markers.push(newMarker);
+        newMarker.setMap(this.map);
+      }
+    }
+    // for (i = 0; i < markers.length; i++) {
+    //  markers[i].setMap(null);
+    // }
+
+
   }
 
   getLocation() {

@@ -36,5 +36,6 @@ export class AppComponent implements OnInit {
         return p.activities.includes(activitySelected);
       });
     });
+
   }
 }
