@@ -6,6 +6,8 @@
         <mat-option *ngFor="let activity of activityList" [value]="activity">{{activity}}</mat-option>
       </mat-select>
     </mat-form-field>
+
+    <button mat-raised-button color="primary" (click)="getLocation()"><i class="material-icons">gps_fixed</i> Locate</button>
   </p>
 </mat-card>
 
