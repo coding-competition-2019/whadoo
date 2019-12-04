@@ -1,7 +1,8 @@
 import {Component, OnInit, OnChanges, AfterViewInit, ViewChild, ElementRef, Input, SimpleChanges} from '@angular/core';
 import {FacilityService} from '../../services/facility.service';
 import {} from 'googlemaps';
-import {Place, Places} from '../../entities/places';
+import {Place, Places, Coords} from '../../entities/places';
+import {coordDistance} from '../../utilities/distance';
 
 @Component({
   selector: 'app-map',
@@ -23,6 +24,10 @@ export class MapComponent implements OnInit, AfterViewInit, OnChanges {
   // Coords for Prague
   lat = 50.0755381;
   lng = 14.4378005;
+
+  praha: Coords = {lat: 50.0755381, lng: 14.4378005};
+
+  MAX_DIST = 30;
 
   zoomLevel = 10;
 
@@ -78,10 +83,16 @@ export class MapComponent implements OnInit, AfterViewInit, OnChanges {
         position: new google.maps.LatLng(place.coordinates.lat, place.coordinates.lng),
         title: place.name
       });
-      this.markers.push(newMarker);
-      newMarker.setMap(this.map);
 
-      this.bounds.extend(newMarker.getPosition());
+      if (place.distance === Infinity) {
+        place.distance = coordDistance(this.praha, place.coordinates);
+      }
+
+      if (place.distance <= this.MAX_DIST) {
+        this.markers.push(newMarker);
+        newMarker.setMap(this.map);
+        this.bounds.extend(newMarker.getPosition());
+      }
     }
 
     // Resize map to fit all markers
