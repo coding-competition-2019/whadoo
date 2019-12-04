@@ -3,7 +3,7 @@ import {Coordinates} from '../entities/places';
 const unit = 'K';
 
 // Expects c1, c2 where coordinates:{lat,lng}
-function distance(c1: Coordinates, c2: Coordinates): number {
+export function coordDistance(c1: Coordinates, c2: Coordinates): number {
   const lat1 = c1.lat;
   const lat2 = c2.lat;
   const lon1 = c1.lng;

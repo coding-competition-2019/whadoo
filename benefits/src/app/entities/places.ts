@@ -11,6 +11,7 @@ export interface Coordinates {
 
 export interface Place {
   id: number;
+  distance: number;
   name: string;
   url: string;
   address: Address;

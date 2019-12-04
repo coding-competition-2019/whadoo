@@ -1,6 +1,7 @@
 import {Component, OnInit} from '@angular/core';
-import {FacilityService} from "./services/facility.service";
-import {Place, Places} from "./entities/places";
+import {FacilityService} from './services/facility.service';
+import {Place, Places, Coordinates} from './entities/places';
+import {coordDistance} from './utilities/distance';
 
 @Component({
   selector: 'app-root',
@@ -11,6 +12,10 @@ export class AppComponent implements OnInit {
   places: Places;
   allActivities: string[] = [];
   results: Place[];
+  currentPosition: Coordinates = {
+    lat: 50.1022711,
+    lng: 14.3924335
+  };
 
   constructor(private facilityService: FacilityService) {
   }
@@ -37,5 +42,8 @@ export class AppComponent implements OnInit {
       });
     });
 
+    this.results.forEach(r => {
+      r.distance = coordDistance(r.coordinates, this.currentPosition);
+    });
   }
 }
