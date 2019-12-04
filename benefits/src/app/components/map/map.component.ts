@@ -17,7 +17,7 @@ export class MapComponent implements OnInit, AfterViewInit, OnChanges {
   @ViewChild('mapContainer', {read: false}) gmap: ElementRef;
 
   map: google.maps.Map;
-  // Coordinates for Prague
+  // Coords for Prague
   lat = 50.0755381;
   lng = 14.4378005;
 
@@ -82,12 +82,5 @@ export class MapComponent implements OnInit, AfterViewInit, OnChanges {
     // }
 
 
-  }
-
-  getLocation() {
-    navigator.geolocation.getCurrentPosition(position => {
-      console.log(position.coords.latitude, position.coords.longitude);
-
-    });
   }
 }

@@ -4,7 +4,7 @@ export interface Address {
   city: string;
 }
 
-export interface Coordinates {
+export interface Coords {
   lat: number;
   lng: number;
 }
@@ -16,7 +16,7 @@ export interface Place {
   url: string;
   address: Address;
   activities: string[];
-  coordinates: Coordinates;
+  coordinates: Coords;
 }
 
 export interface Places {
