@@ -11,11 +11,14 @@ import {MatSelectModule} from "@angular/material/select";
 import {ReactiveFormsModule} from "@angular/forms";
 import {MatIconModule} from "@angular/material/icon";
 import {MatButtonModule} from "@angular/material/button";
+import { TableComponent } from './components/table/table.component';
+import {CdkTableModule} from "@angular/cdk/table";
 
 @NgModule({
   declarations: [
     AppComponent,
-    MapComponent
+    MapComponent,
+    TableComponent
   ],
   imports: [
     BrowserModule,
@@ -26,7 +29,8 @@ import {MatButtonModule} from "@angular/material/button";
     MatSelectModule,
     ReactiveFormsModule,
     MatIconModule,
-    MatButtonModule
+    MatButtonModule,
+    CdkTableModule
   ],
   providers: [],
   bootstrap: [AppComponent]

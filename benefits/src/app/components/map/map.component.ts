@@ -1,9 +1,14 @@
-import {Component, OnInit} from '@angular/core';
+import {Component, ElementRef, OnInit, ViewChild} from '@angular/core';
 import {MatCardModule} from '@angular/material/card';
 import {FormControl} from '@angular/forms';
 import {FacilityService} from '../../services/facility.service';
 import {Places} from "../../entities/places";
 import {getData} from "../../entities/data";
+import {Observable} from "rxjs";
+import {COMMA, ENTER} from "@angular/cdk/keycodes";
+import {startWith} from "rxjs/operators";
+import {MatAutocomplete, MatAutocompleteSelectedEvent} from "@angular/material/autocomplete";
+import {MatChipInputEvent} from "@angular/material/chips/typings/chip-input";
 
 
 @Component({

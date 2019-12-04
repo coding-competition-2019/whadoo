@@ -11,6 +11,10 @@ export class FacilityService {
   }
 
   getData(): Places {
-    return loadData();
+    const data: Places = loadData();
+    data.places.forEach((value, index) => {
+      value.id = index + 1;
+    });
+    return data;
   }
 }

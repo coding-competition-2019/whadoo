@@ -7,7 +7,10 @@
       </mat-select>
     </mat-form-field>
 
-    <button mat-raised-button color="primary" (click)="getLocation()"><i class="material-icons">gps_fixed</i> Locate</button>
+    <button mat-raised-button color="primary" (click)="getLocation()"><i class="material-icons">gps_fixed</i> Locate
+    </button>
+
+    <app-table [results]="places.places"></app-table>
   </p>
 </mat-card>
 

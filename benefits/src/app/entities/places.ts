@@ -5,6 +5,7 @@ export interface Address {
 }
 
 export interface Place {
+  id: number;
   name: string;
   url: string;
   address: Address;
