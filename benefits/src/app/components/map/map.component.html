@@ -1,0 +1,11 @@
+<mat-card>
+  <p>
+    <mat-form-field>
+      <mat-label>Activities</mat-label>
+      <mat-select [formControl]="activities" multiple>
+        <mat-option *ngFor="let activity of activityList" [value]="activity">{{activity}}</mat-option>
+      </mat-select>
+    </mat-form-field>
+  </p>
+</mat-card>
+
