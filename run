@@ -1,0 +1,7 @@
+#docker rmi benefits-angular:dev
+#docker rmi benefits-app:dev
+docker build -f docker/appserver-dockerfile -t benefits-app:dev .
+docker build -f docker/angularserver-dockerfile -t benefits-angular:dev .
+docker run -it -v $(pwd)/benefits:/app  -p 4200:4200 --name benefits benefits-angular:dev /bin/bash
+ng serve --host 0.0.0.0
+#docker exec -it benefits /bin/bash
